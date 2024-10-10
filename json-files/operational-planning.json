@@ -1,0 +1,1566 @@
+{
+  "data": {
+    "OperationalPlanning": [
+      {
+        "operationalPlanningId": "771257d3-ba9b-4a4b-9f01-3b60547ccf48",
+        "description": "Develop a new marketing campaign targeting young adults",
+        "startDate": "2023-05-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "operationalPlanningId": "0f70d098-0f02-4ff5-bc75-1e5b694c850d",
+        "description": "Implement a customer service training program for frontline staff",
+        "startDate": "2023-06-01",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "operationalPlanningId": "3d23ef84-b324-425f-8f33-f5eae7e7e0a4",
+        "description": "Upgrade IT infrastructure to improve system performance",
+        "startDate": "2023-07-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "operationalPlanningId": "10235a2a-0924-4c8b-b1c3-05874dc373a9",
+        "description": "Launch a new product line in the market",
+        "startDate": "2023-08-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "operationalPlanningId": "ecb4665a-671f-4504-b854-eecf3377495a",
+        "description": "Organize a team-building retreat for employees",
+        "startDate": "2023-09-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "operationalPlanningId": "f6f116b9-bb7e-4f36-a523-f436977e6e4f",
+        "description": "Develop a marketing campaign for new product launch",
+        "startDate": "2022-07-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "operationalPlanningId": "c90fe024-d1c7-4700-b1e3-18ec2e33df3b",
+        "description": "Implement new inventory management system",
+        "startDate": "2022-08-01",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "operationalPlanningId": "9ce46211-c85a-4e3e-8e8f-9c1d2fb6b837",
+        "description": "Train customer service team on updated procedures",
+        "startDate": "2022-07-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "operationalPlanningId": "05432fd5-0d32-4dc7-a97f-4e81217ab9ec",
+        "description": "Upgrade IT infrastructure to enhance cybersecurity",
+        "startDate": "2022-08-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "operationalPlanningId": "510be042-8df5-4ef0-b5ed-03bc545589f7",
+        "description": "Optimize supply chain logistics for cost efficiency",
+        "startDate": "2022-07-25",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "CapacityPlanning": [
+      {
+        "capacityPlanningId": "90cb9da2-3fba-419f-a53d-ebe35b19fc06",
+        "operationalPlanningId": "771257d3-ba9b-4a4b-9f01-3b60547ccf48",
+        "description": "Optimizing server capacity for peak traffic during holiday season sales",
+        "forecastPeriod": "Q4 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "capacityPlanningId": "2e425a4c-509a-4e66-a88e-783f04338e22",
+        "operationalPlanningId": "0f70d098-0f02-4ff5-bc75-1e5b694c850d",
+        "description": "Enhancing network capacity for upcoming product launch event",
+        "forecastPeriod": "Q3 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "capacityPlanningId": "efa036e5-4ff2-4261-bc3e-46808a346e9e",
+        "operationalPlanningId": "3d23ef84-b324-425f-8f33-f5eae7e7e0a4",
+        "description": "Scaling up cloud storage capacity to meet growing data demands",
+        "forecastPeriod": "2023",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "capacityPlanningId": "29b87b21-1ded-45d0-85f6-1440ea1dfd46",
+        "operationalPlanningId": "10235a2a-0924-4c8b-b1c3-05874dc373a9",
+        "description": "Allocating additional server capacity for new client onboarding",
+        "forecastPeriod": "Q2 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "capacityPlanningId": "42398872-907f-4fa9-8a51-6f6a5b316678",
+        "operationalPlanningId": "ecb4665a-671f-4504-b854-eecf3377495a",
+        "description": "Upgrading network infrastructure to support remote work initiatives",
+        "forecastPeriod": "2022-2023",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "capacityPlanningId": "5a644d0e-ca19-46b8-b505-b17c4844c8ce",
+        "operationalPlanningId": "771257d3-ba9b-4a4b-9f01-3b60547ccf48",
+        "description": "Forecasting capacity requirements for new product launch",
+        "forecastPeriod": "Q3 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "capacityPlanningId": "043b55b6-0ed2-4b14-8e6c-78bef6d2ecd3",
+        "operationalPlanningId": "0f70d098-0f02-4ff5-bc75-1e5b694c850d",
+        "description": "Optimizing server capacity for peak traffic season",
+        "forecastPeriod": "Holiday Season 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "capacityPlanningId": "6cc0f943-59b5-40f7-a411-ca33709b100d",
+        "operationalPlanningId": "3d23ef84-b324-425f-8f33-f5eae7e7e0a4",
+        "description": "Planning workforce capacity for new project implementation",
+        "forecastPeriod": "Q4 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "capacityPlanningId": "4a91bc19-de42-47b6-a2b2-80f7800e07b8",
+        "operationalPlanningId": "10235a2a-0924-4c8b-b1c3-05874dc373a9",
+        "description": "Forecasting storage capacity for data migration project",
+        "forecastPeriod": "Q2 2023",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "capacityPlanningId": "14e48a73-1783-454b-9665-d29066be8201",
+        "operationalPlanningId": "ecb4665a-671f-4504-b854-eecf3377495a",
+        "description": "Optimizing network capacity for system upgrade",
+        "forecastPeriod": "Q1 2023",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "SchedulingSystems": [
+      {
+        "schedulingSystemId": "f8e879a8-bf18-476c-8d77-2ebe7f1d366b",
+        "operationalPlanningId": "771257d3-ba9b-4a4b-9f01-3b60547ccf48",
+        "systemName": "Gantt Chart",
+        "description": "A scheduling system that visualizes tasks and their dependencies using Gantt charts.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "schedulingSystemId": "c6021b4b-6f63-43d6-bec1-112996f25a5b",
+        "operationalPlanningId": "0f70d098-0f02-4ff5-bc75-1e5b694c850d",
+        "systemName": "Kanban Board",
+        "description": "A scheduling system that uses Kanban boards for task management and workflow visualization.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "schedulingSystemId": "bc305c33-aece-4eda-b6f1-02421af205a2",
+        "operationalPlanningId": "3d23ef84-b324-425f-8f33-f5eae7e7e0a4",
+        "systemName": "Critical Path Method (CPM)",
+        "description": "A scheduling system that identifies the critical path in a project to optimize scheduling and resource allocation.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "schedulingSystemId": "1b400de2-4835-4a70-95b7-99d5e21633fc",
+        "operationalPlanningId": "10235a2a-0924-4c8b-b1c3-05874dc373a9",
+        "systemName": "Resource Leveling",
+        "description": "A scheduling system that balances resource utilization and workload to avoid overallocation.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "schedulingSystemId": "9c0699a4-687e-4d58-b7e0-22d618e9e8f1",
+        "operationalPlanningId": "ecb4665a-671f-4504-b854-eecf3377495a",
+        "systemName": "Agile Sprint Planning",
+        "description": "A scheduling system used in Agile methodologies for iterative planning and execution of tasks within sprints.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "schedulingSystemId": "403cc0e2-0603-47c3-aecf-bfe9a5a40aaa",
+        "operationalPlanningId": "771257d3-ba9b-4a4b-9f01-3b60547ccf48",
+        "systemName": "Agile Scheduler",
+        "description": "An agile scheduling system that allows for flexible task management and quick adjustments to operational plans.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "schedulingSystemId": "16c09119-cb53-4e07-b3fe-4fc927b5b1eb",
+        "operationalPlanningId": "0f70d098-0f02-4ff5-bc75-1e5b694c850d",
+        "systemName": "Resource Allocator",
+        "description": "A scheduling system that optimizes resource allocation for operational tasks based on availability and skill sets.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "schedulingSystemId": "59279bc4-d89e-46eb-bc39-1750c10c4552",
+        "operationalPlanningId": "3d23ef84-b324-425f-8f33-f5eae7e7e0a4",
+        "systemName": "Production Scheduler",
+        "description": "A scheduling system specifically designed for production activities, ensuring efficient workflow and timely production.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "schedulingSystemId": "470de0fa-ef34-487a-b00b-3941684caec1",
+        "operationalPlanningId": "10235a2a-0924-4c8b-b1c3-05874dc373a9",
+        "systemName": "Task Manager Pro",
+        "description": "A comprehensive task management system that integrates scheduling, task assignment, and progress tracking for operational tasks.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "schedulingSystemId": "595694cd-2f31-4b47-9e9a-3f59e697e26a",
+        "operationalPlanningId": "ecb4665a-671f-4504-b854-eecf3377495a",
+        "systemName": "Event Coordinator",
+        "description": "A specialized scheduling system for event planning, coordinating tasks, and managing timelines for successful event execution.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "OperationalEfficiencyMetrics": [
+      {
+        "efficiencyMetricId": "3521d21a-a78e-4dcd-8a8e-85efa08303e3",
+        "operationalPlanningId": "771257d3-ba9b-4a4b-9f01-3b60547ccf48",
+        "metricType": "Cost Efficiency",
+        "evaluationDate": "2022-10-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "efficiencyMetricId": "aa9acc0c-2170-4b87-88dc-66f19ea2ae84",
+        "operationalPlanningId": "0f70d098-0f02-4ff5-bc75-1e5b694c850d",
+        "metricType": "Time Efficiency",
+        "evaluationDate": "2022-10-16",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "efficiencyMetricId": "70ee917b-baf0-43cc-899c-3069d6fd3c5b",
+        "operationalPlanningId": "3d23ef84-b324-425f-8f33-f5eae7e7e0a4",
+        "metricType": "Resource Utilization",
+        "evaluationDate": "2022-10-17",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "efficiencyMetricId": "5efa5a40-159a-4d8e-ac88-8d5f00997d2a",
+        "operationalPlanningId": "10235a2a-0924-4c8b-b1c3-05874dc373a9",
+        "metricType": "Quality Control",
+        "evaluationDate": "2022-10-18",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "efficiencyMetricId": "b7251e43-c5b8-49e4-b6f0-c796432aa7cb",
+        "operationalPlanningId": "ecb4665a-671f-4504-b854-eecf3377495a",
+        "metricType": "Productivity",
+        "evaluationDate": "2022-10-19",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "efficiencyMetricId": "7287007a-7e8d-46da-b9bb-b7c540f8107a",
+        "operationalPlanningId": "771257d3-ba9b-4a4b-9f01-3b60547ccf48",
+        "metricType": "Efficiency Ratio",
+        "evaluationDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "efficiencyMetricId": "3dd77f9d-fd0f-4b80-b407-06416bcf1313",
+        "operationalPlanningId": "0f70d098-0f02-4ff5-bc75-1e5b694c850d",
+        "metricType": "Resource Utilization",
+        "evaluationDate": "2022-09-16",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "efficiencyMetricId": "49dce7dc-0841-4173-a936-509cc07de9bf",
+        "operationalPlanningId": "3d23ef84-b324-425f-8f33-f5eae7e7e0a4",
+        "metricType": "Cost Efficiency",
+        "evaluationDate": "2022-09-17",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "efficiencyMetricId": "7f76c789-0b38-45b5-bb1a-267e029bed15",
+        "operationalPlanningId": "10235a2a-0924-4c8b-b1c3-05874dc373a9",
+        "metricType": "Quality Control",
+        "evaluationDate": "2022-09-18",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "efficiencyMetricId": "0707d88d-0615-4e93-8a86-de2eb89de350",
+        "operationalPlanningId": "ecb4665a-671f-4504-b854-eecf3377495a",
+        "metricType": "Production Output",
+        "evaluationDate": "2022-09-19",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "RiskAssessment": [
+      {
+        "riskAssessmentId": "74ab8fc2-def5-4550-9856-f21b9fee84ac",
+        "operationalPlanningId": "771257d3-ba9b-4a4b-9f01-3b60547ccf48",
+        "riskType": "Supply Chain Disruption",
+        "assessmentDate": "2022-10-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "riskAssessmentId": "f1de7762-95d2-45b2-9b3e-b70dbf76191f",
+        "operationalPlanningId": "0f70d098-0f02-4ff5-bc75-1e5b694c850d",
+        "riskType": "Cybersecurity Threats",
+        "assessmentDate": "2022-10-16",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "riskAssessmentId": "58735ad3-f440-43f5-b387-5974898898f7",
+        "operationalPlanningId": "3d23ef84-b324-425f-8f33-f5eae7e7e0a4",
+        "riskType": "Market Competition",
+        "assessmentDate": "2022-10-17",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "riskAssessmentId": "91fd9cea-45e1-4d30-acfd-cf550bf73953",
+        "operationalPlanningId": "10235a2a-0924-4c8b-b1c3-05874dc373a9",
+        "riskType": "Regulatory Changes",
+        "assessmentDate": "2022-10-18",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "riskAssessmentId": "13d8e3ae-dfbb-4543-a310-a83ce8260f83",
+        "operationalPlanningId": "ecb4665a-671f-4504-b854-eecf3377495a",
+        "riskType": "Natural Disasters",
+        "assessmentDate": "2022-10-19",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "riskAssessmentId": "d2bede9e-dcb4-4555-84f0-085907ef93e7",
+        "operationalPlanningId": "771257d3-ba9b-4a4b-9f01-3b60547ccf48",
+        "riskType": "Equipment Failure",
+        "assessmentDate": "2023-05-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "riskAssessmentId": "2330e25f-529b-47ec-bb24-9dbbf9bc972f",
+        "operationalPlanningId": "0f70d098-0f02-4ff5-bc75-1e5b694c850d",
+        "riskType": "Supply Chain Disruption",
+        "assessmentDate": "2023-06-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "riskAssessmentId": "4fd89504-ce3e-4a48-8768-1f1158c9da5c",
+        "operationalPlanningId": "3d23ef84-b324-425f-8f33-f5eae7e7e0a4",
+        "riskType": "Cybersecurity Threat",
+        "assessmentDate": "2023-07-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "riskAssessmentId": "56b9eb28-645e-4f8a-98ad-3e3c5a08a74b",
+        "operationalPlanningId": "10235a2a-0924-4c8b-b1c3-05874dc373a9",
+        "riskType": "Natural Disaster",
+        "assessmentDate": "2023-08-25",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "riskAssessmentId": "190a3f83-739c-439b-be76-2d409796b7b6",
+        "operationalPlanningId": "ecb4665a-671f-4504-b854-eecf3377495a",
+        "riskType": "Labor Dispute",
+        "assessmentDate": "2023-09-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "DemandForecastingModels": [
+      {
+        "modelId": "fa9afa8f-0f4e-4cab-9237-3b98a28eda7c",
+        "capacityPlanningId": "90cb9da2-3fba-419f-a53d-ebe35b19fc06",
+        "modelType": "Time Series Forecasting",
+        "forecastAccuracy": 0.85,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "modelId": "06a42ec4-408e-455e-af4f-3d2c4f926cbc",
+        "capacityPlanningId": "2e425a4c-509a-4e66-a88e-783f04338e22",
+        "modelType": "Machine Learning Forecasting",
+        "forecastAccuracy": 0.92,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "modelId": "fabaa340-6df8-42a8-b20e-fdeab7e934fb",
+        "capacityPlanningId": "efa036e5-4ff2-4261-bc3e-46808a346e9e",
+        "modelType": "Regression Forecasting",
+        "forecastAccuracy": 0.78,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "modelId": "ac6437c9-2b06-4d5e-b91b-feaa22babe73",
+        "capacityPlanningId": "29b87b21-1ded-45d0-85f6-1440ea1dfd46",
+        "modelType": "Neural Network Forecasting",
+        "forecastAccuracy": 0.88,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "modelId": "7b4b2ac6-3919-4b7a-823f-fdb1a15d521d",
+        "capacityPlanningId": "42398872-907f-4fa9-8a51-6f6a5b316678",
+        "modelType": "ARIMA Forecasting",
+        "forecastAccuracy": 0.81,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "modelId": "9aa7a6d2-99eb-418b-a234-1276dd1e71b6",
+        "capacityPlanningId": "90cb9da2-3fba-419f-a53d-ebe35b19fc06",
+        "modelType": "Time Series Forecasting",
+        "forecastAccuracy": 0.85,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "modelId": "4ebadf33-a451-4c8a-bc4f-b752205e9164",
+        "capacityPlanningId": "2e425a4c-509a-4e66-a88e-783f04338e22",
+        "modelType": "Regression Analysis",
+        "forecastAccuracy": 0.78,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "modelId": "627ddfb4-f22a-483d-9227-67fcfbdcc23a",
+        "capacityPlanningId": "efa036e5-4ff2-4261-bc3e-46808a346e9e",
+        "modelType": "Machine Learning",
+        "forecastAccuracy": 0.92,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "modelId": "5000a02d-532f-4e1b-908c-b56a9d4a8bcc",
+        "capacityPlanningId": "29b87b21-1ded-45d0-85f6-1440ea1dfd46",
+        "modelType": "Neural Network Forecasting",
+        "forecastAccuracy": 0.88,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "modelId": "157b8a87-f1a1-450f-8750-3e43bc4ae553",
+        "capacityPlanningId": "42398872-907f-4fa9-8a51-6f6a5b316678",
+        "modelType": "ARIMA Model",
+        "forecastAccuracy": 0.81,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "ResourceAllocationStrategies": [
+      {
+        "strategyId": "e78553f5-1927-4e9c-b5b5-eb5a24ead673",
+        "capacityPlanningId": "90cb9da2-3fba-419f-a53d-ebe35b19fc06",
+        "resourceType": "IT Infrastructure",
+        "allocationMethod": "Load Balancing",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "4ce29f4d-e211-46ed-926d-615df118f75c",
+        "capacityPlanningId": "2e425a4c-509a-4e66-a88e-783f04338e22",
+        "resourceType": "Human Resources",
+        "allocationMethod": "Skill-based Allocation",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "16217143-652b-4114-a72d-b58d294c4d58",
+        "capacityPlanningId": "efa036e5-4ff2-4261-bc3e-46808a346e9e",
+        "resourceType": "Financial Assets",
+        "allocationMethod": "Portfolio Diversification",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "fc8a9b04-4120-47dc-a5d5-a94fa86f18c2",
+        "capacityPlanningId": "29b87b21-1ded-45d0-85f6-1440ea1dfd46",
+        "resourceType": "Manufacturing Equipment",
+        "allocationMethod": "Predictive Maintenance",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "5554e262-6625-49b1-8062-714cdebb268f",
+        "capacityPlanningId": "42398872-907f-4fa9-8a51-6f6a5b316678",
+        "resourceType": "Transportation Vehicles",
+        "allocationMethod": "Route Optimization",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "e773c74b-3e06-46cd-ab29-b3a514a411c5",
+        "capacityPlanningId": "90cb9da2-3fba-419f-a53d-ebe35b19fc06",
+        "resourceType": "Labor",
+        "allocationMethod": "Skill-based allocation",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "4d5f47c2-e87f-40c5-8f7f-0e18583ece8b",
+        "capacityPlanningId": "2e425a4c-509a-4e66-a88e-783f04338e22",
+        "resourceType": "Equipment",
+        "allocationMethod": "Demand forecasting",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "e4157cc7-b5e7-42e3-bd4c-d5b8e252b74c",
+        "capacityPlanningId": "efa036e5-4ff2-4261-bc3e-46808a346e9e",
+        "resourceType": "Technology",
+        "allocationMethod": "Usage-based allocation",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "9cf5ac18-2c50-4219-bdd3-d20fa44a686f",
+        "capacityPlanningId": "29b87b21-1ded-45d0-85f6-1440ea1dfd46",
+        "resourceType": "Materials",
+        "allocationMethod": "Inventory optimization",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "1e929972-447b-41b8-9682-11747b16e742",
+        "capacityPlanningId": "42398872-907f-4fa9-8a51-6f6a5b316678",
+        "resourceType": "Finance",
+        "allocationMethod": "Budget allocation",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "ScalabilityPlans": [
+      {
+        "planId": "3be83d29-5640-4a71-9782-18e4585ccdea",
+        "capacityPlanningId": "90cb9da2-3fba-419f-a53d-ebe35b19fc06",
+        "scalingType": "Vertical",
+        "scalingPeriod": "Quarterly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "5bd95082-2ae6-4f1b-89ae-3e864fa0bf67",
+        "capacityPlanningId": "2e425a4c-509a-4e66-a88e-783f04338e22",
+        "scalingType": "Horizontal",
+        "scalingPeriod": "Monthly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "05268f57-63e9-4ad6-8781-6384e9d55631",
+        "capacityPlanningId": "efa036e5-4ff2-4261-bc3e-46808a346e9e",
+        "scalingType": "Auto-Scaling",
+        "scalingPeriod": "Weekly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "82c95bca-d4d9-4aa4-8d94-a460e2e44cc6",
+        "capacityPlanningId": "29b87b21-1ded-45d0-85f6-1440ea1dfd46",
+        "scalingType": "Elastic",
+        "scalingPeriod": "Daily",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "a6ba5df7-bf7a-449f-aae0-7e4a90c08733",
+        "capacityPlanningId": "42398872-907f-4fa9-8a51-6f6a5b316678",
+        "scalingType": "Dynamic",
+        "scalingPeriod": "Hourly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "c48a3eb3-aa36-45cd-9d86-f8705f7e5248",
+        "capacityPlanningId": "90cb9da2-3fba-419f-a53d-ebe35b19fc06",
+        "scalingType": "Vertical",
+        "scalingPeriod": "Quarterly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "164e1248-b174-4965-9ab7-a6c33367cbce",
+        "capacityPlanningId": "2e425a4c-509a-4e66-a88e-783f04338e22",
+        "scalingType": "Horizontal",
+        "scalingPeriod": "Monthly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "00588a6e-77c1-46d8-95a9-531cb3f28556",
+        "capacityPlanningId": "efa036e5-4ff2-4261-bc3e-46808a346e9e",
+        "scalingType": "Auto-Scaling",
+        "scalingPeriod": "Yearly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "fce2093a-aae9-48d1-a6ed-e7b3857b3625",
+        "capacityPlanningId": "29b87b21-1ded-45d0-85f6-1440ea1dfd46",
+        "scalingType": "Elastic",
+        "scalingPeriod": "Daily",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "ebe8dfa0-123f-4aab-b677-fd0173fd8790",
+        "capacityPlanningId": "42398872-907f-4fa9-8a51-6f6a5b316678",
+        "scalingType": "Manual",
+        "scalingPeriod": "Weekly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "UtilizationMetrics": [
+      {
+        "metricId": "9150756c-14a0-4cc7-af8a-3e82419a0f5b",
+        "capacityPlanningId": "90cb9da2-3fba-419f-a53d-ebe35b19fc06",
+        "resourceUtilizationRate": 85,
+        "measurementPeriod": "Q1 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "metricId": "66426bd5-e70b-4749-9892-6053285ae14c",
+        "capacityPlanningId": "2e425a4c-509a-4e66-a88e-783f04338e22",
+        "resourceUtilizationRate": 70,
+        "measurementPeriod": "Q2 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "metricId": "cf58feb1-4775-408b-936c-17cda57eec3e",
+        "capacityPlanningId": "efa036e5-4ff2-4261-bc3e-46808a346e9e",
+        "resourceUtilizationRate": 60,
+        "measurementPeriod": "Q3 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "metricId": "591c4782-faf5-4b8d-98c2-9d6797b10b22",
+        "capacityPlanningId": "29b87b21-1ded-45d0-85f6-1440ea1dfd46",
+        "resourceUtilizationRate": 75,
+        "measurementPeriod": "Q4 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "metricId": "bbbbd823-670c-4843-8c3b-e1f93c54e3eb",
+        "capacityPlanningId": "42398872-907f-4fa9-8a51-6f6a5b316678",
+        "resourceUtilizationRate": 80,
+        "measurementPeriod": "Q1 2023",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "metricId": "71331a48-147d-4e26-8521-556d6875e0ec",
+        "capacityPlanningId": "90cb9da2-3fba-419f-a53d-ebe35b19fc06",
+        "resourceUtilizationRate": 85,
+        "measurementPeriod": "Q1 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "metricId": "36c413e0-beff-41fe-9a24-3416e3745848",
+        "capacityPlanningId": "2e425a4c-509a-4e66-a88e-783f04338e22",
+        "resourceUtilizationRate": 72,
+        "measurementPeriod": "Q1 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "metricId": "bf8b9e8b-d36c-4d17-b007-192aa3eb6623",
+        "capacityPlanningId": "efa036e5-4ff2-4261-bc3e-46808a346e9e",
+        "resourceUtilizationRate": 60,
+        "measurementPeriod": "Q1 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "metricId": "5acf7d36-7298-4f94-bcc1-8bdfb837e43a",
+        "capacityPlanningId": "29b87b21-1ded-45d0-85f6-1440ea1dfd46",
+        "resourceUtilizationRate": 45,
+        "measurementPeriod": "Q1 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "metricId": "9038a6d0-7d36-461b-ab28-1593a19b3e18",
+        "capacityPlanningId": "42398872-907f-4fa9-8a51-6f6a5b316678",
+        "resourceUtilizationRate": 70,
+        "measurementPeriod": "Q1 2022",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "FlightSchedulingSoftware": [
+      {
+        "softwareId": "346276a3-3ac0-429a-8d66-c63cda36869e",
+        "schedulingSystemId": "f8e879a8-bf18-476c-8d77-2ebe7f1d366b",
+        "softwareName": "FlightMaster Pro",
+        "version": "3.1",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "softwareId": "a5cd4f21-b79f-4b87-a9ae-fc8e7d7c2ee1",
+        "schedulingSystemId": "c6021b4b-6f63-43d6-bec1-112996f25a5b",
+        "softwareName": "SkyScheduler",
+        "version": "2.5",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "softwareId": "af6f0cd6-fa90-42a0-9d68-ea35c21f803f",
+        "schedulingSystemId": "bc305c33-aece-4eda-b6f1-02421af205a2",
+        "softwareName": "AirOps Manager",
+        "version": "4.0",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "softwareId": "bec22507-1825-4be0-8573-0a0dd4df243d",
+        "schedulingSystemId": "1b400de2-4835-4a70-95b7-99d5e21633fc",
+        "softwareName": "FlightPlan Pro",
+        "version": "1.2",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "softwareId": "cc838312-8281-4b98-950c-be1adb94f6a5",
+        "schedulingSystemId": "9c0699a4-687e-4d58-b7e0-22d618e9e8f1",
+        "softwareName": "AeroScheduler",
+        "version": "5.3",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "softwareId": "3afebfdc-1dcd-465d-9f8c-d31c4729ce42",
+        "schedulingSystemId": "f8e879a8-bf18-476c-8d77-2ebe7f1d366b",
+        "softwareName": "FlightMaster Pro",
+        "version": "3.1",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "softwareId": "48c26342-83ef-455c-990e-db838d7b2014",
+        "schedulingSystemId": "c6021b4b-6f63-43d6-bec1-112996f25a5b",
+        "softwareName": "AirOps Scheduler",
+        "version": "2.5",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "softwareId": "3d1d6527-49ba-4d2f-9253-f22c99be363d",
+        "schedulingSystemId": "bc305c33-aece-4eda-b6f1-02421af205a2",
+        "softwareName": "SkyPlan",
+        "version": "4.0",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "softwareId": "59e211f8-8284-4448-a3d0-338eccc22387",
+        "schedulingSystemId": "1b400de2-4835-4a70-95b7-99d5e21633fc",
+        "softwareName": "FlightOps Manager",
+        "version": "1.2",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "softwareId": "e7f44b90-87b7-4260-bc19-a4828c2f2af9",
+        "schedulingSystemId": "9c0699a4-687e-4d58-b7e0-22d618e9e8f1",
+        "softwareName": "AeroSchedule",
+        "version": "5.3",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "EmployeeSchedulingTools": [
+      {
+        "toolId": "c2967a35-8759-49aa-b4eb-a91864461cf5",
+        "schedulingSystemId": "f8e879a8-bf18-476c-8d77-2ebe7f1d366b",
+        "toolName": "ShiftPlanner Pro",
+        "schedulingPeriod": "Weekly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "toolId": "d4e9290f-e9d8-4ef5-b535-54c3d14c62af",
+        "schedulingSystemId": "c6021b4b-6f63-43d6-bec1-112996f25a5b",
+        "toolName": "Staff Scheduler Plus",
+        "schedulingPeriod": "Monthly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "toolId": "6b6b2525-1c62-4454-9e11-a25852476a02",
+        "schedulingSystemId": "bc305c33-aece-4eda-b6f1-02421af205a2",
+        "toolName": "ShiftMaster",
+        "schedulingPeriod": "Daily",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "toolId": "9e7774cb-f998-49d7-b6c3-c9d430fe6c6e",
+        "schedulingSystemId": "1b400de2-4835-4a70-95b7-99d5e21633fc",
+        "toolName": "Task Scheduler Pro",
+        "schedulingPeriod": "Weekly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "toolId": "2a2f9f17-a4b1-438e-9dc6-066b44cb4867",
+        "schedulingSystemId": "9c0699a4-687e-4d58-b7e0-22d618e9e8f1",
+        "toolName": "Daily Planner Deluxe",
+        "schedulingPeriod": "Daily",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "toolId": "31ed0051-64d7-4e57-857e-e9f97e9efbf3",
+        "schedulingSystemId": "f8e879a8-bf18-476c-8d77-2ebe7f1d366b",
+        "toolName": "ShiftPlannerPro",
+        "schedulingPeriod": "Weekly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "toolId": "2810f4e2-1c83-4579-aa96-998abb017a9e",
+        "schedulingSystemId": "c6021b4b-6f63-43d6-bec1-112996f25a5b",
+        "toolName": "TaskSchedulerX",
+        "schedulingPeriod": "Daily",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "toolId": "69fb352f-5e10-4742-96fe-ab9a7dd12454",
+        "schedulingSystemId": "bc305c33-aece-4eda-b6f1-02421af205a2",
+        "toolName": "ShiftMaster",
+        "schedulingPeriod": "Monthly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "toolId": "c64cc9c7-a058-4b59-900c-c9599593869a",
+        "schedulingSystemId": "1b400de2-4835-4a70-95b7-99d5e21633fc",
+        "toolName": "TaskAssignerPlus",
+        "schedulingPeriod": "Daily",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "toolId": "808d903b-74b3-49cd-8faa-d058bba2fabf",
+        "schedulingSystemId": "9c0699a4-687e-4d58-b7e0-22d618e9e8f1",
+        "toolName": "ShiftOptimizer",
+        "schedulingPeriod": "Weekly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "MaintenanceScheduling": [
+      {
+        "maintenanceId": "c5d63014-5c8b-4f62-8389-db1e3c98d33e",
+        "schedulingSystemId": "f8e879a8-bf18-476c-8d77-2ebe7f1d366b",
+        "equipmentType": "Pump",
+        "maintenanceSchedule": "Monthly checkup and servicing of pump components.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "maintenanceId": "7d42937a-973f-460d-b175-f0fc826c5c4f",
+        "schedulingSystemId": "c6021b4b-6f63-43d6-bec1-112996f25a5b",
+        "equipmentType": "Conveyor Belt",
+        "maintenanceSchedule": "Quarterly inspection and lubrication of conveyor belt system.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "maintenanceId": "20728e27-b4e4-4eab-8534-1cf8203229f9",
+        "schedulingSystemId": "bc305c33-aece-4eda-b6f1-02421af205a2",
+        "equipmentType": "HVAC System",
+        "maintenanceSchedule": "Bi-annual cleaning and filter replacement for HVAC units.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "maintenanceId": "50f5b1bd-6192-4936-af71-9f746a80c709",
+        "schedulingSystemId": "1b400de2-4835-4a70-95b7-99d5e21633fc",
+        "equipmentType": "Generator",
+        "maintenanceSchedule": "Annual maintenance and testing of backup generator.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "maintenanceId": "e1925566-a58b-43bd-b524-ae05b9cdc042",
+        "schedulingSystemId": "9c0699a4-687e-4d58-b7e0-22d618e9e8f1",
+        "equipmentType": "Boiler",
+        "maintenanceSchedule": "Monthly inspection and cleaning of boiler components.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "maintenanceId": "bb2a737b-e17e-441d-8331-e3e76a2d2dd8",
+        "schedulingSystemId": "f8e879a8-bf18-476c-8d77-2ebe7f1d366b",
+        "equipmentType": "Pumps",
+        "maintenanceSchedule": "Monthly maintenance check for all pumps in the facility.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "maintenanceId": "541d1b29-d942-4205-9525-a37e61181907",
+        "schedulingSystemId": "c6021b4b-6f63-43d6-bec1-112996f25a5b",
+        "equipmentType": "Generators",
+        "maintenanceSchedule": "Quarterly servicing of all generators on-site.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "maintenanceId": "b4323ccc-14d0-4911-8cfc-31759adbf2f2",
+        "schedulingSystemId": "bc305c33-aece-4eda-b6f1-02421af205a2",
+        "equipmentType": "HVAC Systems",
+        "maintenanceSchedule": "Bi-annual inspection and cleaning of HVAC systems.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "maintenanceId": "6ba231b6-72b3-4f8b-a929-cfa5c987e43c",
+        "schedulingSystemId": "1b400de2-4835-4a70-95b7-99d5e21633fc",
+        "equipmentType": "Conveyor Belts",
+        "maintenanceSchedule": "Monthly lubrication and alignment checks for all conveyor belts.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "maintenanceId": "1bfc5e1a-307c-49c4-87dd-0820bcac1391",
+        "schedulingSystemId": "9c0699a4-687e-4d58-b7e0-22d618e9e8f1",
+        "equipmentType": "Cooling Towers",
+        "maintenanceSchedule": "Annual inspection and cleaning of cooling tower components.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "ConflictResolutionMechanisms": [
+      {
+        "mechanismId": "6515e461-d260-4692-9714-a28afdc40c89",
+        "schedulingSystemId": "f8e879a8-bf18-476c-8d77-2ebe7f1d366b",
+        "conflictType": "Resource Allocation Conflict",
+        "resolutionMethod": "Resource Reallocation",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "mechanismId": "b4e26ce6-9fe7-4fce-a019-cbf04e86917a",
+        "schedulingSystemId": "c6021b4b-6f63-43d6-bec1-112996f25a5b",
+        "conflictType": "Time Scheduling Conflict",
+        "resolutionMethod": "Time Slot Adjustment",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "mechanismId": "0968eaa4-1b23-47da-b2fd-e0bbdb4b042b",
+        "schedulingSystemId": "bc305c33-aece-4eda-b6f1-02421af205a2",
+        "conflictType": "Equipment Availability Conflict",
+        "resolutionMethod": "Equipment Sharing",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "mechanismId": "9ec9231f-ab71-4053-ba74-f557344c6318",
+        "schedulingSystemId": "1b400de2-4835-4a70-95b7-99d5e21633fc",
+        "conflictType": "Task Dependency Conflict",
+        "resolutionMethod": "Task Rescheduling",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "mechanismId": "0a23125b-0739-406f-bada-e7c61931e274",
+        "schedulingSystemId": "9c0699a4-687e-4d58-b7e0-22d618e9e8f1",
+        "conflictType": "Workforce Scheduling Conflict",
+        "resolutionMethod": "Shift Swapping",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "mechanismId": "5ad3b316-41dc-4800-8f02-843b44b6bc9d",
+        "schedulingSystemId": "f8e879a8-bf18-476c-8d77-2ebe7f1d366b",
+        "conflictType": "Resource Conflict",
+        "resolutionMethod": "Resource Reallocation",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "mechanismId": "165bf3a1-ccd6-431e-b227-75ff497295a2",
+        "schedulingSystemId": "c6021b4b-6f63-43d6-bec1-112996f25a5b",
+        "conflictType": "Time Conflict",
+        "resolutionMethod": "Time Slot Adjustment",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "mechanismId": "4f905a1c-624d-4166-b4f7-2eacf7fc4356",
+        "schedulingSystemId": "bc305c33-aece-4eda-b6f1-02421af205a2",
+        "conflictType": "Priority Conflict",
+        "resolutionMethod": "Priority Reevaluation",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "mechanismId": "65a31ace-adfd-4753-b77a-b8ce534ec770",
+        "schedulingSystemId": "1b400de2-4835-4a70-95b7-99d5e21633fc",
+        "conflictType": "Dependency Conflict",
+        "resolutionMethod": "Task Rescheduling",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "mechanismId": "22fb2592-f197-4c15-9aca-8ad806295740",
+        "schedulingSystemId": "9c0699a4-687e-4d58-b7e0-22d618e9e8f1",
+        "conflictType": "Resource Conflict",
+        "resolutionMethod": "Task Reassignment",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "ProcessEfficiencyMeasurements": [
+      {
+        "measurementId": "d090b9a4-48f8-4fa0-ac99-eb41e396c926",
+        "efficiencyMetricId": "3521d21a-a78e-4dcd-8a8e-85efa08303e3",
+        "processName": "Manufacturing Process",
+        "efficiencyScore": 85,
+        "evaluationDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "measurementId": "ffb1b127-f564-442d-a249-53ef387eaa65",
+        "efficiencyMetricId": "aa9acc0c-2170-4b87-88dc-66f19ea2ae84",
+        "processName": "Supply Chain Management",
+        "efficiencyScore": 78,
+        "evaluationDate": "2022-09-16",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "measurementId": "8b29d12c-74be-4ec2-a3b8-92f3e495ad47",
+        "efficiencyMetricId": "70ee917b-baf0-43cc-899c-3069d6fd3c5b",
+        "processName": "Customer Support",
+        "efficiencyScore": 90,
+        "evaluationDate": "2022-09-17",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "measurementId": "81bf4c60-9bb2-4b48-8ae0-ec0ce94750a0",
+        "efficiencyMetricId": "5efa5a40-159a-4d8e-ac88-8d5f00997d2a",
+        "processName": "Inventory Management",
+        "efficiencyScore": 82,
+        "evaluationDate": "2022-09-18",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "measurementId": "7b7faa26-0101-409a-a794-8c6059bc1f95",
+        "efficiencyMetricId": "b7251e43-c5b8-49e4-b6f0-c796432aa7cb",
+        "processName": "Quality Control",
+        "efficiencyScore": 88,
+        "evaluationDate": "2022-09-19",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "measurementId": "eaa49552-74ba-42c1-91d2-417974f14bd2",
+        "efficiencyMetricId": "3521d21a-a78e-4dcd-8a8e-85efa08303e3",
+        "processName": "Production Line Efficiency",
+        "efficiencyScore": 85,
+        "evaluationDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "measurementId": "2de48e0b-0afe-4311-b49d-d63b9cf1b953",
+        "efficiencyMetricId": "aa9acc0c-2170-4b87-88dc-66f19ea2ae84",
+        "processName": "Inventory Management Efficiency",
+        "efficiencyScore": 92,
+        "evaluationDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "measurementId": "a8496385-d020-4a2f-b9f8-6b5092daf375",
+        "efficiencyMetricId": "70ee917b-baf0-43cc-899c-3069d6fd3c5b",
+        "processName": "Supply Chain Optimization",
+        "efficiencyScore": 88,
+        "evaluationDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "measurementId": "1370b2de-003b-46f6-91a3-dcc1c0adb304",
+        "efficiencyMetricId": "5efa5a40-159a-4d8e-ac88-8d5f00997d2a",
+        "processName": "Quality Control Efficiency",
+        "efficiencyScore": 78,
+        "evaluationDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "measurementId": "0ba95024-33ed-4535-aa44-9663fafe54f4",
+        "efficiencyMetricId": "b7251e43-c5b8-49e4-b6f0-c796432aa7cb",
+        "processName": "Logistics Efficiency",
+        "efficiencyScore": 90,
+        "evaluationDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "CostEfficiencyAnalysis": [
+      {
+        "analysisId": "b309ba31-7ce6-432b-a244-ca84f6552849",
+        "efficiencyMetricId": "3521d21a-a78e-4dcd-8a8e-85efa08303e3",
+        "costType": "Labor Costs",
+        "costVsPerformance": 0.85,
+        "analysisDate": "2023-05-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "611a2309-0458-4f3a-bc0e-7d51c01508b4",
+        "efficiencyMetricId": "aa9acc0c-2170-4b87-88dc-66f19ea2ae84",
+        "costType": "Material Costs",
+        "costVsPerformance": 0.92,
+        "analysisDate": "2023-05-16",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "a955ea67-094f-433e-8f20-285f7b3b45d8",
+        "efficiencyMetricId": "70ee917b-baf0-43cc-899c-3069d6fd3c5b",
+        "costType": "Equipment Costs",
+        "costVsPerformance": 0.78,
+        "analysisDate": "2023-05-17",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "3fbea524-cc43-46c1-b86a-bb5c31836c92",
+        "efficiencyMetricId": "5efa5a40-159a-4d8e-ac88-8d5f00997d2a",
+        "costType": "Overhead Costs",
+        "costVsPerformance": 0.75,
+        "analysisDate": "2023-05-18",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "67695a35-6b39-410b-bee0-b2cf82659f7b",
+        "efficiencyMetricId": "b7251e43-c5b8-49e4-b6f0-c796432aa7cb",
+        "costType": "Transportation Costs",
+        "costVsPerformance": 0.88,
+        "analysisDate": "2023-05-19",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "63f72b5c-01b6-4099-9a94-ea756573b127",
+        "efficiencyMetricId": "3521d21a-a78e-4dcd-8a8e-85efa08303e3",
+        "costType": "Labor Costs",
+        "costVsPerformance": 0.85,
+        "analysisDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "f2f9777d-010d-48fe-ba92-709c67201377",
+        "efficiencyMetricId": "aa9acc0c-2170-4b87-88dc-66f19ea2ae84",
+        "costType": "Material Costs",
+        "costVsPerformance": 0.92,
+        "analysisDate": "2022-09-16",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "12b0fdeb-654b-425f-97b6-a886b32df10d",
+        "efficiencyMetricId": "70ee917b-baf0-43cc-899c-3069d6fd3c5b",
+        "costType": "Equipment Costs",
+        "costVsPerformance": 0.78,
+        "analysisDate": "2022-09-17",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "5775bd5a-3c28-4764-8c9e-426194bab103",
+        "efficiencyMetricId": "5efa5a40-159a-4d8e-ac88-8d5f00997d2a",
+        "costType": "Overhead Costs",
+        "costVsPerformance": 0.75,
+        "analysisDate": "2022-09-18",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "0eae98cf-bc44-4e79-ab56-7e5accab7a2a",
+        "efficiencyMetricId": "b7251e43-c5b8-49e4-b6f0-c796432aa7cb",
+        "costType": "Maintenance Costs",
+        "costVsPerformance": 0.83,
+        "analysisDate": "2022-09-19",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "BenchmarkingAgainstIndustryStandards": [
+      {
+        "benchmarkId": "b93b227b-c8ac-458b-91ca-b45f4826464d",
+        "efficiencyMetricId": "3521d21a-a78e-4dcd-8a8e-85efa08303e3",
+        "industryStandard": "Efficiency Ratio",
+        "performanceComparison": "Company's efficiency ratio is 0.75, slightly below the industry standard of 0.80",
+        "benchmarkDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "bcd5df18-7c5d-4bf1-8e9c-e75210850f94",
+        "efficiencyMetricId": "aa9acc0c-2170-4b87-88dc-66f19ea2ae84",
+        "industryStandard": "Labor Productivity",
+        "performanceComparison": "Labor productivity increased by 10% compared to industry standards",
+        "benchmarkDate": "2022-09-18",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "47a4edc6-352d-429f-8d89-9ec19fb02849",
+        "efficiencyMetricId": "70ee917b-baf0-43cc-899c-3069d6fd3c5b",
+        "industryStandard": "Resource Utilization",
+        "performanceComparison": "Resource utilization rate is 85%, meeting industry benchmarks",
+        "benchmarkDate": "2022-09-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "2c9cccbf-22da-40f7-9ea7-c8ae295c980a",
+        "efficiencyMetricId": "5efa5a40-159a-4d8e-ac88-8d5f00997d2a",
+        "industryStandard": "Cost Control",
+        "performanceComparison": "Cost control measures are 15% better than industry averages",
+        "benchmarkDate": "2022-09-22",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "aa2348fd-6161-40b8-aec7-b3cbe8c45a84",
+        "efficiencyMetricId": "b7251e43-c5b8-49e4-b6f0-c796432aa7cb",
+        "industryStandard": "Quality Assurance",
+        "performanceComparison": "Quality assurance metrics meet industry standards with a 95% compliance rate",
+        "benchmarkDate": "2022-09-25",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "2fc248bf-95e3-40cb-9739-7682727c4021",
+        "efficiencyMetricId": "3521d21a-a78e-4dcd-8a8e-85efa08303e3",
+        "industryStandard": "Manufacturing Efficiency",
+        "performanceComparison": "Company A achieved a 15% improvement compared to industry standard",
+        "benchmarkDate": "2022-03-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "cdc531d6-3304-44be-a92b-80a81ab52564",
+        "efficiencyMetricId": "aa9acc0c-2170-4b87-88dc-66f19ea2ae84",
+        "industryStandard": "Supply Chain Optimization",
+        "performanceComparison": "Company B exceeded industry standards by 20%",
+        "benchmarkDate": "2022-03-16",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "5c9e81a5-caeb-4f17-ba02-9e8969dd15dd",
+        "efficiencyMetricId": "70ee917b-baf0-43cc-899c-3069d6fd3c5b",
+        "industryStandard": "Customer Service Response Time",
+        "performanceComparison": "Company C met industry standards with 95% accuracy",
+        "benchmarkDate": "2022-03-17",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "bd68ee6d-5d88-42de-8dcd-bb2d6f7c1a8a",
+        "efficiencyMetricId": "5efa5a40-159a-4d8e-ac88-8d5f00997d2a",
+        "industryStandard": "Energy Consumption Reduction",
+        "performanceComparison": "Company D achieved a 25% reduction in energy consumption compared to industry standard",
+        "benchmarkDate": "2022-03-18",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "78567a6c-080f-4391-805d-d506f4d3f596",
+        "efficiencyMetricId": "b7251e43-c5b8-49e4-b6f0-c796432aa7cb",
+        "industryStandard": "Financial Performance Metrics",
+        "performanceComparison": "Company E's financial metrics were 10% below industry standards",
+        "benchmarkDate": "2022-03-19",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "PerformanceImprovementPlans": [
+      {
+        "improvementPlanId": "fcfd9c48-3e77-4b8d-b6e7-968353eeb568",
+        "efficiencyMetricId": "3521d21a-a78e-4dcd-8a8e-85efa08303e3",
+        "improvementStrategy": "Implement new software for automated data analysis",
+        "implementationDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "improvementPlanId": "3f608563-6521-46d0-bba2-82e07da21dcc",
+        "efficiencyMetricId": "aa9acc0c-2170-4b87-88dc-66f19ea2ae84",
+        "improvementStrategy": "Train staff on new inventory management techniques",
+        "implementationDate": "2022-10-01",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "improvementPlanId": "db9cf079-f2e6-4c65-aed5-77be09cb45b1",
+        "efficiencyMetricId": "70ee917b-baf0-43cc-899c-3069d6fd3c5b",
+        "improvementStrategy": "Upgrade network infrastructure for faster data transfer",
+        "implementationDate": "2022-09-25",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "improvementPlanId": "993d2ec0-6646-4bdb-957e-8bf544e477f8",
+        "efficiencyMetricId": "5efa5a40-159a-4d8e-ac88-8d5f00997d2a",
+        "improvementStrategy": "Implement lean manufacturing principles",
+        "implementationDate": "2022-09-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "improvementPlanId": "e66c6a90-2245-440a-a1a4-cb047e2332c5",
+        "efficiencyMetricId": "b7251e43-c5b8-49e4-b6f0-c796432aa7cb",
+        "improvementStrategy": "Optimize supply chain logistics for cost reduction",
+        "implementationDate": "2022-10-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "improvementPlanId": "e4629634-3f0b-49fc-9a06-cb3d520119f0",
+        "efficiencyMetricId": "3521d21a-a78e-4dcd-8a8e-85efa08303e3",
+        "improvementStrategy": "Implement automated data backup system to improve data security and reduce risk of data loss.",
+        "implementationDate": "2022-10-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "improvementPlanId": "5d67ee8e-5095-44e1-97b8-548ac6959ce8",
+        "efficiencyMetricId": "aa9acc0c-2170-4b87-88dc-66f19ea2ae84",
+        "improvementStrategy": "Upgrade network infrastructure to enhance data transfer speeds and reduce latency.",
+        "implementationDate": "2022-11-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "improvementPlanId": "51569c74-2242-4c14-b24f-b57389618e91",
+        "efficiencyMetricId": "70ee917b-baf0-43cc-899c-3069d6fd3c5b",
+        "improvementStrategy": "Implement cloud-based storage solutions for scalability and cost-efficiency.",
+        "implementationDate": "2023-01-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "improvementPlanId": "a88b3f23-639a-4a69-8928-d142da6b35ef",
+        "efficiencyMetricId": "5efa5a40-159a-4d8e-ac88-8d5f00997d2a",
+        "improvementStrategy": "Optimize database queries and indexing for improved performance.",
+        "implementationDate": "2023-02-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "improvementPlanId": "aa4a456c-1efe-4d67-826d-0f6e2302078c",
+        "efficiencyMetricId": "b7251e43-c5b8-49e4-b6f0-c796432aa7cb",
+        "improvementStrategy": "Implement automated monitoring and alerting systems for proactive issue detection.",
+        "implementationDate": "2023-03-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "OperationalRiskAnalysis": [
+      {
+        "analysisId": "530a9714-87a5-45df-9459-7a99d3bf925c",
+        "riskAssessmentId": "74ab8fc2-def5-4550-9856-f21b9fee84ac",
+        "riskCategory": "Supply Chain Disruption",
+        "riskImpact": "High",
+        "analysisDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "4ec3b365-bed3-4f32-864a-55c03579caa4",
+        "riskAssessmentId": "f1de7762-95d2-45b2-9b3e-b70dbf76191f",
+        "riskCategory": "Cybersecurity Breach",
+        "riskImpact": "Medium",
+        "analysisDate": "2022-09-16",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "5dcb630e-0000-4fc7-b308-8cc29f4a96a5",
+        "riskAssessmentId": "58735ad3-f440-43f5-b387-5974898898f7",
+        "riskCategory": "Data Loss",
+        "riskImpact": "Low",
+        "analysisDate": "2022-09-17",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "f997c352-3156-43af-853c-c5e24e8f391a",
+        "riskAssessmentId": "91fd9cea-45e1-4d30-acfd-cf550bf73953",
+        "riskCategory": "Operational Error",
+        "riskImpact": "High",
+        "analysisDate": "2022-09-18",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "fb6d0abc-1cf9-48b5-8028-f93cd4f538ef",
+        "riskAssessmentId": "13d8e3ae-dfbb-4543-a310-a83ce8260f83",
+        "riskCategory": "Compliance Violation",
+        "riskImpact": "Medium",
+        "analysisDate": "2022-09-19",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "4b7e1944-39e3-4fb9-8c15-617d02ae2d39",
+        "riskAssessmentId": "74ab8fc2-def5-4550-9856-f21b9fee84ac",
+        "riskCategory": "Supply Chain",
+        "riskImpact": "High",
+        "analysisDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "507a7089-0648-4619-8243-ef75af591d3c",
+        "riskAssessmentId": "f1de7762-95d2-45b2-9b3e-b70dbf76191f",
+        "riskCategory": "Cybersecurity",
+        "riskImpact": "Medium",
+        "analysisDate": "2022-09-16",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "39170953-05ab-4a23-8fec-43a25ce8bcb5",
+        "riskAssessmentId": "58735ad3-f440-43f5-b387-5974898898f7",
+        "riskCategory": "Compliance",
+        "riskImpact": "Low",
+        "analysisDate": "2022-09-17",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "76fc7aea-acdb-4773-819e-17642ca132f4",
+        "riskAssessmentId": "91fd9cea-45e1-4d30-acfd-cf550bf73953",
+        "riskCategory": "Financial",
+        "riskImpact": "High",
+        "analysisDate": "2022-09-18",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "analysisId": "dc9eba1a-b4fe-4ed2-b596-b78b31b266b8",
+        "riskAssessmentId": "13d8e3ae-dfbb-4543-a310-a83ce8260f83",
+        "riskCategory": "Operational Efficiency",
+        "riskImpact": "Medium",
+        "analysisDate": "2022-09-19",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "ContingencyPlanning": [
+      {
+        "planId": "b5a48289-51a2-432d-86b6-7b0f2553f4fb",
+        "riskAssessmentId": "74ab8fc2-def5-4550-9856-f21b9fee84ac",
+        "contingencyType": "IT System Failure",
+        "activationCriteria": "System downtime exceeding 4 hours",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "5748d38b-f469-4855-9130-31d3d6bea416",
+        "riskAssessmentId": "f1de7762-95d2-45b2-9b3e-b70dbf76191f",
+        "contingencyType": "Natural Disaster",
+        "activationCriteria": "Flood warning issued for the area",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "11924b49-8967-460c-8406-c52738a6132b",
+        "riskAssessmentId": "58735ad3-f440-43f5-b387-5974898898f7",
+        "contingencyType": "Supply Chain Disruption",
+        "activationCriteria": "Multiple supplier failures within a week",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "6b879e3b-ce2a-4ab1-bb93-fe9ab23d65cd",
+        "riskAssessmentId": "91fd9cea-45e1-4d30-acfd-cf550bf73953",
+        "contingencyType": "Cybersecurity Breach",
+        "activationCriteria": "Data breach affecting customer information",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "e6b8c279-23a2-45b6-80e3-653eaf86ab5d",
+        "riskAssessmentId": "13d8e3ae-dfbb-4543-a310-a83ce8260f83",
+        "contingencyType": "Employee Strike",
+        "activationCriteria": "More than 50% of workforce on strike for over a week",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "92567fde-86ba-4eac-a214-d7afe2868b2e",
+        "riskAssessmentId": "74ab8fc2-def5-4550-9856-f21b9fee84ac",
+        "contingencyType": "Fire Emergency",
+        "activationCriteria": "Smoke detected in the building",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "b382a275-797c-42d1-9741-3a9c5b9f46a2",
+        "riskAssessmentId": "f1de7762-95d2-45b2-9b3e-b70dbf76191f",
+        "contingencyType": "IT System Failure",
+        "activationCriteria": "Server outage for more than 1 hour",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "4ccfbacf-1bfb-4988-bc03-a79a26f677e0",
+        "riskAssessmentId": "58735ad3-f440-43f5-b387-5974898898f7",
+        "contingencyType": "Natural Disaster",
+        "activationCriteria": "Earthquake above 6.0 on Richter scale",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "d8d70041-1032-4236-bc61-e03077a8255a",
+        "riskAssessmentId": "91fd9cea-45e1-4d30-acfd-cf550bf73953",
+        "contingencyType": "Supply Chain Disruption",
+        "activationCriteria": "Major supplier bankruptcy",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "planId": "d8ef9595-0fd4-4e41-b761-7c4ffc477323",
+        "riskAssessmentId": "13d8e3ae-dfbb-4543-a310-a83ce8260f83",
+        "contingencyType": "Cybersecurity Breach",
+        "activationCriteria": "Data breach with customer information compromised",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "BusinessContinuityPlans": [
+      {
+        "continuityPlanId": "e1c8e089-e83c-4cd0-b0be-dd27ae91f1f2",
+        "riskAssessmentId": "74ab8fc2-def5-4550-9856-f21b9fee84ac",
+        "crisisType": "Pandemic",
+        "continuityStrategy": "Remote Work Policy",
+        "planDate": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "continuityPlanId": "6d84b8dc-c6ff-43ce-a3aa-419885647df4",
+        "riskAssessmentId": "f1de7762-95d2-45b2-9b3e-b70dbf76191f",
+        "crisisType": "Cyber Attack",
+        "continuityStrategy": "Data Backup and Recovery",
+        "planDate": "2022-10-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "continuityPlanId": "85c31620-9f84-4e9b-9f26-e15c4f60f7e9",
+        "riskAssessmentId": "58735ad3-f440-43f5-b387-5974898898f7",
+        "crisisType": "Natural Disaster",
+        "continuityStrategy": "Offsite Data Storage",
+        "planDate": "2022-11-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "continuityPlanId": "9ee21472-4793-41f3-bce0-ad01df32b155",
+        "riskAssessmentId": "91fd9cea-45e1-4d30-acfd-cf550bf73953",
+        "crisisType": "Supply Chain Disruption",
+        "continuityStrategy": "Supplier Diversification",
+        "planDate": "2022-12-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "continuityPlanId": "fee80d54-7abf-4979-8f6d-b89e5a940266",
+        "riskAssessmentId": "13d8e3ae-dfbb-4543-a310-a83ce8260f83",
+        "crisisType": "Power Outage",
+        "continuityStrategy": "Emergency Power Generator",
+        "planDate": "2023-01-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "continuityPlanId": "5e9eadfa-0a11-4754-b029-eee400127424",
+        "riskAssessmentId": "74ab8fc2-def5-4550-9856-f21b9fee84ac",
+        "crisisType": "Pandemic",
+        "continuityStrategy": "Remote Work",
+        "planDate": "2022-10-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "continuityPlanId": "22cbf6ab-0c59-44a6-ba94-1c32a277ec5f",
+        "riskAssessmentId": "f1de7762-95d2-45b2-9b3e-b70dbf76191f",
+        "crisisType": "Cyber Attack",
+        "continuityStrategy": "Data Backup and Recovery",
+        "planDate": "2022-11-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "continuityPlanId": "fdad55fe-5e77-4d6d-9324-06d6ab97d436",
+        "riskAssessmentId": "58735ad3-f440-43f5-b387-5974898898f7",
+        "crisisType": "Natural Disaster",
+        "continuityStrategy": "Alternate Worksite",
+        "planDate": "2023-01-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "continuityPlanId": "1f2d9ef0-dac1-4b4c-8c0d-ef2fc34b6919",
+        "riskAssessmentId": "91fd9cea-45e1-4d30-acfd-cf550bf73953",
+        "crisisType": "Supply Chain Disruption",
+        "continuityStrategy": "Inventory Management",
+        "planDate": "2023-02-28",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "continuityPlanId": "0b5bac2d-0447-4700-ab1e-c3248d28b8d1",
+        "riskAssessmentId": "13d8e3ae-dfbb-4543-a310-a83ce8260f83",
+        "crisisType": "Power Outage",
+        "continuityStrategy": "Emergency Generators",
+        "planDate": "2023-03-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "RiskMitigationStrategies": [
+      {
+        "strategyId": "fa53bfcb-a389-44a0-8835-fb2357f04ee9",
+        "riskAssessmentId": "74ab8fc2-def5-4550-9856-f21b9fee84ac",
+        "riskType": "Supply Chain Disruption",
+        "mitigationApproach": "Diversifying suppliers to reduce dependency on a single source",
+        "implementationDate": "2022-08-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "356e2fbd-4efc-4714-b9c1-e773bc10d64c",
+        "riskAssessmentId": "f1de7762-95d2-45b2-9b3e-b70dbf76191f",
+        "riskType": "Cybersecurity Threats",
+        "mitigationApproach": "Implementing multi-factor authentication for all systems",
+        "implementationDate": "2022-09-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "ee158cec-687e-4259-886c-b124cc8fcec0",
+        "riskAssessmentId": "58735ad3-f440-43f5-b387-5974898898f7",
+        "riskType": "Natural Disasters",
+        "mitigationApproach": "Establishing backup facilities in a geographically safe location",
+        "implementationDate": "2022-10-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "de1d0c1b-d5f6-4152-92c6-1361315c97b6",
+        "riskAssessmentId": "91fd9cea-45e1-4d30-acfd-cf550bf73953",
+        "riskType": "Financial Risks",
+        "mitigationApproach": "Hedging currency exposure to reduce financial volatility",
+        "implementationDate": "2022-11-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "7025744f-ae39-4c12-9923-c81433e2e3c2",
+        "riskAssessmentId": "13d8e3ae-dfbb-4543-a310-a83ce8260f83",
+        "riskType": "Regulatory Compliance",
+        "mitigationApproach": "Regular training sessions for employees on compliance requirements",
+        "implementationDate": "2023-01-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "4bbb12b8-d7dc-4061-b039-dd7568959f4a",
+        "riskAssessmentId": "74ab8fc2-def5-4550-9856-f21b9fee84ac",
+        "riskType": "Supply Chain Disruption",
+        "mitigationApproach": "Diversify supplier base to reduce dependency on single source",
+        "implementationDate": "2022-10-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "6bf158ae-5118-43e4-a594-d1df8fe3f186",
+        "riskAssessmentId": "f1de7762-95d2-45b2-9b3e-b70dbf76191f",
+        "riskType": "Data Breach",
+        "mitigationApproach": "Implement encryption protocols and regular security audits",
+        "implementationDate": "2022-09-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "0367f1ba-3cc4-4c61-8732-478c858615b0",
+        "riskAssessmentId": "58735ad3-f440-43f5-b387-5974898898f7",
+        "riskType": "Market Volatility",
+        "mitigationApproach": "Hedge against currency fluctuations with financial instruments",
+        "implementationDate": "2022-11-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "1066599c-31dd-4996-8ddf-6e396878c7ec",
+        "riskAssessmentId": "91fd9cea-45e1-4d30-acfd-cf550bf73953",
+        "riskType": "Natural Disaster",
+        "mitigationApproach": "Develop emergency response plans and conduct regular drills",
+        "implementationDate": "2022-12-03",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "strategyId": "b155953a-1e3d-4a89-b1db-8cd8bf30e409",
+        "riskAssessmentId": "13d8e3ae-dfbb-4543-a310-a83ce8260f83",
+        "riskType": "Regulatory Changes",
+        "mitigationApproach": "Engage legal counsel for compliance monitoring and updates",
+        "implementationDate": "2022-10-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2646 @@
+{
+  "data": {
+    "FinancialManagement": [
+      {
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "description": "Budgeting process for Q3 2022",
+        "startDate": "2022-07-01",
+        "purge_id": "Q3-2022"
+      },
+      {
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "description": "Revenue management for product A launch",
+        "startDate": "2022-09-15",
+        "purge_id": "ProductA-2022"
+      },
+      {
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "description": "Cost management for marketing campaign",
+        "startDate": "2022-08-01",
+        "purge_id": "MarketingCampaign"
+      },
+      {
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "description": "Financial reporting for Q2 2022",
+        "startDate": "2022-07-15",
+        "purge_id": "Q2-2022"
+      },
+      {
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "description": "Budgeting process for new project development",
+        "startDate": "2022-09-01",
+        "purge_id": "NewProject"
+      },
+      {
+        "financialManagementId": "34774e45-5241-4ee2-86b7-3f41b9c3a6f8",
+        "description": "Monthly Budgeting Process",
+        "startDate": "2022-01-01",
+        "purge_id": "BM2022-01"
+      },
+      {
+        "financialManagementId": "2f1049f6-ad70-4541-98c9-0c93530c6a2f",
+        "description": "Quarterly Revenue Analysis",
+        "startDate": "2022-04-01",
+        "purge_id": "RA2022-04"
+      },
+      {
+        "financialManagementId": "49c415a3-2e53-43c8-80d1-ff1b2339b315",
+        "description": "Annual Cost Tracking",
+        "startDate": "2022-01-01",
+        "purge_id": "CT2022-01"
+      },
+      {
+        "financialManagementId": "94a1b483-5755-4325-9967-376f8f54af23",
+        "description": "Financial Reporting for Q1",
+        "startDate": "2022-04-01",
+        "purge_id": "FR2022-Q1"
+      },
+      {
+        "financialManagementId": "f0df44a3-e5d1-4441-86cf-3abef4425ca7",
+        "description": "Budget Review Meeting Preparation",
+        "startDate": "2022-03-15",
+        "purge_id": "BRMP2022-03"
+      },
+      {
+        "financialManagementId": "8641ed7e-a9a2-4398-9bd5-1b88200022b4",
+        "description": "Budgeting process for Q3 2022",
+        "startDate": "2022-07-01",
+        "purge_id": "Q3_2022"
+      },
+      {
+        "financialManagementId": "2790cf6b-8b0e-4929-825e-56c4b87d435f",
+        "description": "Revenue tracking for Product A sales",
+        "startDate": "2022-01-01",
+        "purge_id": "ProductA_2022"
+      },
+      {
+        "financialManagementId": "61e7254d-55b4-4154-bffd-10ca30d31c12",
+        "description": "Cost management for Marketing Campaign XYZ",
+        "startDate": "2022-04-15",
+        "purge_id": "CampaignXYZ"
+      },
+      {
+        "financialManagementId": "9e73cfd5-0435-4fc8-a859-380bf5e37c61",
+        "description": "Financial reporting for Fiscal Year 2022",
+        "startDate": "2022-01-01",
+        "purge_id": "FY2022"
+      },
+      {
+        "financialManagementId": "66c22df5-f312-4ea1-a34c-087d876e5e49",
+        "description": "Budgeting process for Q4 2022",
+        "startDate": "2022-10-01",
+        "purge_id": "Q4_2022"
+      },
+      {
+        "financialManagementId": "8aaba8d3-31fd-4f52-8f2e-05b9274cedd1",
+        "description": "Annual Budgeting Process",
+        "startDate": "2023-01-01",
+        "purge_id": "ABP2023"
+      },
+      {
+        "financialManagementId": "b998af0e-1ae0-46f8-ab46-d88779d38b1a",
+        "description": "Quarterly Revenue Analysis",
+        "startDate": "2023-04-01",
+        "purge_id": "QRA2023"
+      },
+      {
+        "financialManagementId": "f339e265-5086-48a9-be3b-d241f8a5e91a",
+        "description": "Monthly Cost Tracking",
+        "startDate": "2023-06-01",
+        "purge_id": "MCT2023"
+      },
+      {
+        "financialManagementId": "daef575f-8c4e-4010-885f-64eeb75eb0a5",
+        "description": "Financial Reporting for Q2",
+        "startDate": "2023-07-01",
+        "purge_id": "FRQ22023"
+      },
+      {
+        "financialManagementId": "830ac6a0-38bd-4704-88bf-eb319548a2c6",
+        "description": "Annual Financial Audit Preparation",
+        "startDate": "2023-10-01",
+        "purge_id": "AFAP2023"
+      }
+    ],
+    "BudgetingProcesses": [
+      {
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "processDescription": "Budget Preparation",
+        "fiscalYear": "2023",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "processDescription": "Budget Approval",
+        "fiscalYear": "2023",
+        "purge_id": "5e6f7g8h"
+      },
+      {
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "processDescription": "Budget Execution",
+        "fiscalYear": "2023",
+        "purge_id": "9i8j7h6g"
+      },
+      {
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "processDescription": "Budget Monitoring",
+        "fiscalYear": "2023",
+        "purge_id": "3k4l5m6n"
+      },
+      {
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "processDescription": "Budget Review",
+        "fiscalYear": "2023",
+        "purge_id": "7o8p9q0r"
+      },
+      {
+        "budgetingProcessId": "60c3ded2-fb5e-4a75-be77-a0c4d924c32f",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "processDescription": "Developing the annual budget for the fiscal year 2022, including revenue projections, expense allocations, and budgetary adjustments based on organizational priorities and financial goals.",
+        "fiscalYear": "2022",
+        "purge_id": "60c3ded2-fb5e-4a75-be77-a0c4d924c32f"
+      },
+      {
+        "budgetingProcessId": "e2cb8b71-01f8-46c5-bc7c-875c8ddd522a",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "processDescription": "Quarterly budget review meetings to assess budget performance, identify variances, and make necessary adjustments to ensure financial targets are met.",
+        "fiscalYear": "2022",
+        "purge_id": "e2cb8b71-01f8-46c5-bc7c-875c8ddd522a"
+      },
+      {
+        "budgetingProcessId": "06abf560-c591-4eb7-a039-bc0fad00efc9",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "processDescription": "Forecasting budget requirements for the upcoming fiscal year 2023, considering market trends, inflation rates, and projected revenue growth.",
+        "fiscalYear": "2023",
+        "purge_id": "06abf560-c591-4eb7-a039-bc0fad00efc9"
+      },
+      {
+        "budgetingProcessId": "1e425eb3-46e7-456e-9996-d5ade3f2bc02",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "processDescription": "Budget reconciliation process to ensure that actual expenses align with the budgeted amounts, investigating discrepancies and adjusting future budgets accordingly.",
+        "fiscalYear": "2022",
+        "purge_id": "1e425eb3-46e7-456e-9996-d5ade3f2bc02"
+      },
+      {
+        "budgetingProcessId": "c41a426b-d981-4cf9-905e-1346e3061b7d",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "processDescription": "Strategic budget planning for long-term financial sustainability, incorporating risk management strategies and scenario analysis to anticipate and mitigate financial challenges.",
+        "fiscalYear": "2023",
+        "purge_id": "c41a426b-d981-4cf9-905e-1346e3061b7d"
+      },
+      {
+        "budgetingProcessId": "e53fd648-80a0-43bb-bf27-5ec9d3f72777",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "processDescription": "Budget Preparation",
+        "fiscalYear": "2023",
+        "purge_id": "b6c8d1fa-5b1a-4b7e-8e1e-8e2a3b1c4e4d"
+      },
+      {
+        "budgetingProcessId": "5be78568-a2ef-4652-949b-59b4d61c2289",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "processDescription": "Budget Approval",
+        "fiscalYear": "2023",
+        "purge_id": "f7e0d2c9-8d1f-4e4e-9d0d-7f8a6b7d1f0e"
+      },
+      {
+        "budgetingProcessId": "7536e85a-b092-4fbf-9ed6-22fc9a3d30f1",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "processDescription": "Budget Execution",
+        "fiscalYear": "2023",
+        "purge_id": "c9b4a8e1-2c1d-4e7b-8a9d-3f4b2e5c6d7c"
+      },
+      {
+        "budgetingProcessId": "24a07daf-7444-4e60-86ce-6044affda7b1",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "processDescription": "Budget Monitoring",
+        "fiscalYear": "2023",
+        "purge_id": "a5b1c3d9-7e2a-4d1f-8b6c-9e3d4f5a6b7c"
+      },
+      {
+        "budgetingProcessId": "2e4ccafa-141d-42b1-916f-7bc4bffb1250",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "processDescription": "Budget Review",
+        "fiscalYear": "2023",
+        "purge_id": "d8e1f2c3-4b5a-6c7d-9e1a-2f3d4b5e6c7d"
+      },
+      {
+        "budgetingProcessId": "07f81cc0-5fba-48ce-9fa9-ec8571378c7d",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "processDescription": "Gather financial data and historical performance to create a budget for the fiscal year 2023.",
+        "fiscalYear": "2023",
+        "purge_id": "bd30e3c1-95e1-4d8b-9e1a-4c1a2d5f9d0d"
+      },
+      {
+        "budgetingProcessId": "f5f31bcd-0edf-4587-b22d-010d6c200990",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "processDescription": "Analyze budget variances and adjust projections for the fiscal year 2023.",
+        "fiscalYear": "2023",
+        "purge_id": "4e7f0c9a-7c3b-4f5f-bc7d-1c9e4c6a3c4d"
+      },
+      {
+        "budgetingProcessId": "68e3fcdc-7aa7-4d8a-9418-bed778f577d3",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "processDescription": "Collaborate with department heads to allocate budget resources effectively for the fiscal year 2023.",
+        "fiscalYear": "2023",
+        "purge_id": "7c4d8e2e-0e8b-4f3e-8c0c-1b5c4d1a6e7f"
+      },
+      {
+        "budgetingProcessId": "df54c7f2-f8ad-435e-a5c6-54b51e4d0a05",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "processDescription": "Monitor budget performance and provide regular updates to the management team for the fiscal year 2023.",
+        "fiscalYear": "2023",
+        "purge_id": "1e9a2d3c-7e5b-4f9c-9a1d-1b2e4c3f9a2d"
+      },
+      {
+        "budgetingProcessId": "278de9ab-d3e8-4764-b6b2-59df65c9df04",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "processDescription": "Conduct budget reviews and make adjustments based on changing business conditions for the fiscal year 2023.",
+        "fiscalYear": "2023",
+        "purge_id": "3e7b2c1d-9e4a-4d8f-9c1b-1e4c3f9a2d7"
+      }
+    ],
+    "RevenueManagement": [
+      {
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "description": "Implement dynamic pricing strategy to optimize revenue for online subscription service.",
+        "revenueStream": "Subscription Fees",
+        "purge_id": "RM_001"
+      },
+      {
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "description": "Launch promotional campaigns to increase revenue from new customer acquisitions.",
+        "revenueStream": "Sales Revenue",
+        "purge_id": "RM_002"
+      },
+      {
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "description": "Implement cross-selling strategy to boost revenue from existing customers.",
+        "revenueStream": "Upselling Revenue",
+        "purge_id": "RM_003"
+      },
+      {
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "description": "Optimize pricing tiers to increase revenue from premium service subscriptions.",
+        "revenueStream": "Subscription Upgrades",
+        "purge_id": "RM_004"
+      },
+      {
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "description": "Implement referral program to generate additional revenue through customer referrals.",
+        "revenueStream": "Referral Bonus",
+        "purge_id": "RM_005"
+      },
+      {
+        "revenueManagementId": "56cd59c8-3140-4c2f-88ba-c5312ab36e7d",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "description": "Implementing dynamic pricing strategies to optimize revenue for a hotel chain",
+        "revenueStream": "Room bookings",
+        "purge_id": "RM-001"
+      },
+      {
+        "revenueManagementId": "ad7b826c-0bde-43c7-983d-a940a1001aae",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "description": "Creating promotional packages to increase revenue during the holiday season",
+        "revenueStream": "Food and beverage sales",
+        "purge_id": "RM-002"
+      },
+      {
+        "revenueManagementId": "b7c3affc-e0b5-4387-860c-5d5e90123551",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "description": "Implementing cross-selling strategies to boost revenue for an e-commerce platform",
+        "revenueStream": "Product sales",
+        "purge_id": "RM-003"
+      },
+      {
+        "revenueManagementId": "7d064cd0-e6b0-4a0c-8c59-e911cb0db515",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "description": "Launching a loyalty program to increase repeat purchases and revenue for a retail chain",
+        "revenueStream": "Apparel sales",
+        "purge_id": "RM-004"
+      },
+      {
+        "revenueManagementId": "6c21277a-42ad-40cc-8f75-8fd939384457",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "description": "Optimizing online advertising campaigns to drive revenue growth for a digital marketing agency",
+        "revenueStream": "Advertising revenue",
+        "purge_id": "RM-005"
+      },
+      {
+        "revenueManagementId": "25fe6eeb-1448-4767-8b2a-426b19dda0ba",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "description": "Implement dynamic pricing strategy for online store to optimize revenue generation based on customer behavior and market trends.",
+        "revenueStream": "E-commerce Sales",
+        "purge_id": "2023-05-01"
+      },
+      {
+        "revenueManagementId": "fd0e757a-6f94-4499-ae7f-ad2516f1d375",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "description": "Launch promotional campaigns targeting new customer segments to increase revenue from subscription services.",
+        "revenueStream": "Subscription Revenue",
+        "purge_id": "2023-06-01"
+      },
+      {
+        "revenueManagementId": "1e820526-ffdb-462b-a76f-c68aa2c75fb5",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "description": "Optimize pricing packages for software products to drive revenue growth and increase customer retention.",
+        "revenueStream": "Software Sales",
+        "purge_id": "2023-07-01"
+      },
+      {
+        "revenueManagementId": "05946087-4730-49fe-8b16-a7e832ab8a18",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "description": "Implement cross-selling strategies to maximize revenue from existing customers by promoting complementary products and services.",
+        "revenueStream": "Cross-Selling Revenue",
+        "purge_id": "2023-08-01"
+      },
+      {
+        "revenueManagementId": "a54084b3-bf9d-4bd2-9ab6-bd4ab3d767fa",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "description": "Utilize data analytics to forecast demand and adjust pricing strategies in real-time to optimize revenue from event ticket sales.",
+        "revenueStream": "Event Ticket Revenue",
+        "purge_id": "2023-09-01"
+      },
+      {
+        "revenueManagementId": "0bd2110e-9e73-4ac6-a875-d51bf7f998bf",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "description": "Implement dynamic pricing strategy for online store products based on market demand and competitor pricing analysis.",
+        "revenueStream": "E-commerce Sales",
+        "purge_id": "RM2023001"
+      },
+      {
+        "revenueManagementId": "d949fb2c-af9b-4c94-ae88-7dc61656473d",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "description": "Optimize advertising spend by leveraging data analytics to target high-value customer segments.",
+        "revenueStream": "Digital Marketing Revenue",
+        "purge_id": "RM2023002"
+      },
+      {
+        "revenueManagementId": "67147fcf-119e-4ea6-9075-8e31c8cc4299",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "description": "Introduce subscription-based pricing model for software services to drive recurring revenue.",
+        "revenueStream": "Software as a Service (SaaS) Revenue",
+        "purge_id": "RM2023003"
+      },
+      {
+        "revenueManagementId": "50089f27-60c7-417b-bc56-b7a461fba1e0",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "description": "Implement cross-selling strategy to increase average order value and overall revenue from existing customers.",
+        "revenueStream": "Retail Sales Revenue",
+        "purge_id": "RM2023004"
+      },
+      {
+        "revenueManagementId": "e3072037-be89-4fd9-a53c-d180bb31f14e",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "description": "Launch loyalty program to incentivize repeat purchases and drive customer retention and lifetime value.",
+        "revenueStream": "Customer Loyalty Revenue",
+        "purge_id": "RM2023005"
+      }
+    ],
+    "CostManagement": [
+      {
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "description": "Implementing cost-saving measures by renegotiating vendor contracts to reduce expenses.",
+        "costCategory": "Vendor Management",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "description": "Optimizing inventory management to minimize carrying costs and reduce waste.",
+        "costCategory": "Inventory Management",
+        "purge_id": "5e6f7d8c"
+      },
+      {
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "description": "Implementing energy-efficient solutions to reduce utility expenses and environmental impact.",
+        "costCategory": "Sustainability Initiatives",
+        "purge_id": "9a8b7c6d"
+      },
+      {
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "description": "Implementing automation to streamline processes and reduce labor costs.",
+        "costCategory": "Process Automation",
+        "purge_id": "4c3b2a1d"
+      },
+      {
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "description": "Investing in employee training programs to increase efficiency and reduce errors.",
+        "costCategory": "Training and Development",
+        "purge_id": "8d7e6f5c"
+      },
+      {
+        "costManagementId": "f9f063a6-b27a-4c22-a95e-94f619627420",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "description": "Implemented a cost-saving strategy by renegotiating contracts with suppliers to reduce procurement costs.",
+        "costCategory": "Procurement",
+        "purge_id": "1234567890"
+      },
+      {
+        "costManagementId": "a8dfff80-5924-4932-b25e-8b7e422e4c02",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "description": "Optimized operational processes to reduce labor costs and improve efficiency.",
+        "costCategory": "Operations",
+        "purge_id": "0987654321"
+      },
+      {
+        "costManagementId": "ab24b483-8afa-4ceb-b5b9-fc78c3bd8f2e",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "description": "Implemented a cost allocation model to accurately track and allocate IT infrastructure costs.",
+        "costCategory": "IT",
+        "purge_id": "1357924680"
+      },
+      {
+        "costManagementId": "1ed49c70-cc8a-4d25-8d46-dfe48c81b89b",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "description": "Reduced travel expenses by implementing a remote work policy and virtual meetings.",
+        "costCategory": "Travel",
+        "purge_id": "2468135790"
+      },
+      {
+        "costManagementId": "2bb4460e-2810-4a6b-a20a-96472a5affa2",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "description": "Implemented energy-efficient solutions to reduce utility costs and promote sustainability.",
+        "costCategory": "Utilities",
+        "purge_id": "9876543210"
+      },
+      {
+        "costManagementId": "02f99476-3bd0-4067-a7df-231c6f68245b",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "description": "Implemented a cost-saving strategy by renegotiating vendor contracts for office supplies, resulting in a 15% reduction in costs.",
+        "costCategory": "Office Supplies",
+        "purge_id": "987654321"
+      },
+      {
+        "costManagementId": "2e6204a0-a734-4b73-ab48-aee6240bc94a",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "description": "Optimized transportation routes for product delivery, leading to a 20% decrease in transportation costs.",
+        "costCategory": "Transportation",
+        "purge_id": "123456789"
+      },
+      {
+        "costManagementId": "bba8d7b4-cc99-4662-a28c-040045bcab0b",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "description": "Implemented energy-efficient lighting systems in the office, resulting in a 30% reduction in electricity expenses.",
+        "costCategory": "Energy",
+        "purge_id": "135792468"
+      },
+      {
+        "costManagementId": "64465ce2-6126-4c4d-96ec-6644eb0c5966",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "description": "Negotiated better terms with IT service providers, leading to a 25% decrease in IT maintenance costs.",
+        "costCategory": "IT Services",
+        "purge_id": "246813579"
+      },
+      {
+        "costManagementId": "84a16db4-4332-44e4-997a-0b16262622f1",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "description": "Implemented a waste reduction program in the manufacturing process, resulting in a 40% reduction in waste disposal costs.",
+        "costCategory": "Manufacturing",
+        "purge_id": "987654321"
+      },
+      {
+        "costManagementId": "731835cd-0b2d-4931-a3db-f92cdeb3cae9",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "description": "Negotiated lower prices with suppliers for raw materials to reduce production costs",
+        "costCategory": "Procurement",
+        "purge_id": "1234567890"
+      },
+      {
+        "costManagementId": "ea077b75-3134-4e28-b2bd-db7e9076a89e",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "description": "Implemented energy-saving measures in the production facility to reduce utility costs",
+        "costCategory": "Utilities",
+        "purge_id": "0987654321"
+      },
+      {
+        "costManagementId": "239e9cad-2c2c-4865-a700-b56fc367ebb3",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "description": "Optimized transportation routes to minimize shipping costs",
+        "costCategory": "Logistics",
+        "purge_id": "1357924680"
+      },
+      {
+        "costManagementId": "2af16b2e-c521-4a86-8077-49dd90822ff6",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "description": "Implemented a waste reduction program to lower disposal costs",
+        "costCategory": "Waste Management",
+        "purge_id": "2468135790"
+      },
+      {
+        "costManagementId": "c0a30d91-4819-4ea7-bd6a-54d499323496",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "description": "Introduced employee training programs to improve efficiency and reduce labor costs",
+        "costCategory": "Human Resources",
+        "purge_id": "9876543210"
+      }
+    ],
+    "FinancialReporting": [
+      {
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "reportType": "Income Statement",
+        "reportingPeriod": "Q1 2022",
+        "purge_id": "f4e1b7e2-7d0b-4b1a-8c23-2d7d40e4c1b0"
+      },
+      {
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "reportType": "Balance Sheet",
+        "reportingPeriod": "2022",
+        "purge_id": "b9a0f6ed-7f7f-4d02-9c6f-3c1b7f5a4c7e"
+      },
+      {
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "reportType": "Cash Flow Statement",
+        "reportingPeriod": "February 2022",
+        "purge_id": "c7a0d6f4-6e6b-4c3d-9a8f-1b5f3c4e7a7d"
+      },
+      {
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "reportType": "Profit and Loss Statement",
+        "reportingPeriod": "Year Ended 2021",
+        "purge_id": "a1b2c3d4-5e5f-4a3b-9c8d-7a6d5f4e3c2"
+      },
+      {
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "reportType": "Financial Ratios Analysis",
+        "reportingPeriod": "Q4 2021",
+        "purge_id": "d8c9b6a5-4e6d-3c2b-1a8f-5e7d4f3c2b1"
+      },
+      {
+        "reportingId": "26789c89-103a-48db-b28a-626524af43aa",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "reportType": "Balance Sheet",
+        "reportingPeriod": "Q1 2022",
+        "purge_id": "FR2022Q1"
+      },
+      {
+        "reportingId": "01d68932-57b1-4803-b211-23df94b937b5",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "reportType": "Income Statement",
+        "reportingPeriod": "Q1 2022",
+        "purge_id": "FR2022Q1"
+      },
+      {
+        "reportingId": "c97dcdca-9d7d-466d-b0e4-1d4dbc4861b4",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "reportType": "Cash Flow Statement",
+        "reportingPeriod": "Q1 2022",
+        "purge_id": "FR2022Q1"
+      },
+      {
+        "reportingId": "7f86c5e8-282a-4f41-ae42-df0d896143ac",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "reportType": "Financial Ratios Analysis",
+        "reportingPeriod": "Q1 2022",
+        "purge_id": "FR2022Q1"
+      },
+      {
+        "reportingId": "528d9c02-6787-419c-9844-082d6da67d59",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "reportType": "Budget Variance Analysis",
+        "reportingPeriod": "Q1 2022",
+        "purge_id": "FR2022Q1"
+      },
+      {
+        "reportingId": "1e2879cd-c368-402e-8ce6-f4963bbb474a",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "reportType": "Income Statement",
+        "reportingPeriod": "Q1 2022",
+        "purge_id": "FR2022Q1P1"
+      },
+      {
+        "reportingId": "b5a25bfa-b1de-4282-9027-16af8b87d73b",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "reportType": "Balance Sheet",
+        "reportingPeriod": "2021",
+        "purge_id": "FR2021P2"
+      },
+      {
+        "reportingId": "04c9236e-f20e-4651-a714-e2ddceb504c8",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "reportType": "Cash Flow Statement",
+        "reportingPeriod": "December 2022",
+        "purge_id": "FR2022DecP3"
+      },
+      {
+        "reportingId": "946536ce-ac3a-45de-a1e9-a4709f932d81",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "reportType": "Budget vs Actuals",
+        "reportingPeriod": "FY 2022",
+        "purge_id": "FR2022FYP4"
+      },
+      {
+        "reportingId": "f934a2ca-9475-41e8-8499-0dfa651b617e",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "reportType": "Profit and Loss Statement",
+        "reportingPeriod": "November 2022",
+        "purge_id": "FR2022NovP5"
+      },
+      {
+        "reportingId": "b534353f-e14f-481a-9a91-ccd518569bce",
+        "financialManagementId": "54d636e8-982e-49bd-a05e-642ae2f4f9a9",
+        "reportType": "Income Statement",
+        "reportingPeriod": "Q1 2022",
+        "purge_id": "FR2022Q1-1"
+      },
+      {
+        "reportingId": "8a1c818e-733e-495c-8aee-3f7064d99c91",
+        "financialManagementId": "875637c2-2e5b-483c-ae71-1c6d7a8deed2",
+        "reportType": "Balance Sheet",
+        "reportingPeriod": "Q2 2022",
+        "purge_id": "FR2022Q2-1"
+      },
+      {
+        "reportingId": "f5da39a7-5caa-4d91-8256-f0e9557eacb8",
+        "financialManagementId": "d27f8a70-63e4-4a9d-a106-a53f3f4691f7",
+        "reportType": "Cash Flow Statement",
+        "reportingPeriod": "Q3 2022",
+        "purge_id": "FR2022Q3-1"
+      },
+      {
+        "reportingId": "2e1c56c7-21a3-4dbb-b11d-3e344de20d3d",
+        "financialManagementId": "710d0852-e749-4547-a245-646d1b2ccddc",
+        "reportType": "Financial Performance Report",
+        "reportingPeriod": "Q4 2022",
+        "purge_id": "FR2022Q4-1"
+      },
+      {
+        "reportingId": "794d3a7b-987a-4cba-95c5-17efc9828d07",
+        "financialManagementId": "cfb3b8f2-8fd0-45a9-a1c3-36f96ec05dab",
+        "reportType": "Budget Variance Analysis",
+        "reportingPeriod": "Q1 2023",
+        "purge_id": "FR2023Q1-1"
+      }
+    ],
+    "AnnualBudgetPreparation": [
+      {
+        "budgetPreparationId": "2122ae2f-62c3-478e-b3f9-eb220e9d626c",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "Entity for preparing annual budget for the fiscal year 2022-2023",
+        "purge_id": "fiscal_2022_2023"
+      },
+      {
+        "budgetPreparationId": "785c32ff-2326-4a51-b875-3f115a65cc3d",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "Entity for budget preparation for the marketing department",
+        "purge_id": "marketing_department"
+      },
+      {
+        "budgetPreparationId": "7eb27607-6afb-4302-9dd4-d3ab83f8871b",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "Entity for preparing annual budget for research and development projects",
+        "purge_id": "research_and_development"
+      },
+      {
+        "budgetPreparationId": "89d80558-dc55-48c8-8d10-d35f248cf86f",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "Entity for budget preparation for the HR department",
+        "purge_id": "hr_department"
+      },
+      {
+        "budgetPreparationId": "34203120-e5e6-4290-a59b-8cb3f0759c5d",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "Entity for preparing annual budget for infrastructure upgrades",
+        "purge_id": "infrastructure_upgrades"
+      },
+      {
+        "budgetPreparationId": "583a08ca-055c-42f9-8e02-9d6438bc7281",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "This entity represents the annual budget preparation process for the financial year 2022. It includes the initial budget proposal submission and review by the finance team.",
+        "purge_id": "79d5eeb4-3f4d-4d5e-8e4b-5f06d8b6e3d9"
+      },
+      {
+        "budgetPreparationId": "430c6391-7cca-44cc-a675-13e9d3679978",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "This entity represents the final budget approval process for the financial year 2022. It includes the final budget adjustments and approval by the board of directors.",
+        "purge_id": "6f7c5a8c-3d7e-4e3b-9b6c-90f1b8c2a5b6"
+      },
+      {
+        "budgetPreparationId": "92205cd9-d089-4b8d-8647-7cbc0cd5211a",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "This entity represents the budget execution monitoring process for the financial year 2022. It includes tracking actual expenses against the approved budget and identifying variances.",
+        "purge_id": "a2a0c1c9-0b7b-4c6d-8a5f-1c1d5e9f3b7e"
+      },
+      {
+        "budgetPreparationId": "5db62ae1-d061-408a-be54-5a8f03a2334b",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "This entity represents the budget performance evaluation process for the financial year 2022. It includes assessing the effectiveness of budget allocations and identifying areas for improvement.",
+        "purge_id": "f2c1b3e9-7c6e-4d2a-ae0e-0f6b8c9a5d8f"
+      },
+      {
+        "budgetPreparationId": "9e041ad1-4840-47e7-8654-274f62ad20c5",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "This entity represents the budget closing process for the financial year 2022. It includes finalizing financial reports, closing budget accounts, and preparing for the next budget cycle.",
+        "purge_id": "d8c6b5a4-9f3d-4e2b-8c1a-5e7f7b9d4c6a"
+      },
+      {
+        "budgetPreparationId": "e9daac28-72d3-472b-af93-2e1d7aadb826",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "Annual budget preparation for the fiscal year 2022",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "budgetPreparationId": "acd66d5b-7236-4903-bc03-2cea22937fc2",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "Annual budget preparation for the fiscal year 2023",
+        "purge_id": "5e6f7g8h"
+      },
+      {
+        "budgetPreparationId": "2d7790ad-ef84-4211-a743-302e099ea666",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "Annual budget preparation for the fiscal year 2024",
+        "purge_id": "9i8j7k6l"
+      },
+      {
+        "budgetPreparationId": "84676c7b-c7bd-448e-93d9-b6bd36f57af4",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "Annual budget preparation for the fiscal year 2025",
+        "purge_id": "m5n4o3p"
+      },
+      {
+        "budgetPreparationId": "c957c756-706b-4d1b-92b5-6daac9ca244d",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "Annual budget preparation for the fiscal year 2026",
+        "purge_id": "q2r1s0t"
+      },
+      {
+        "budgetPreparationId": "cfa9b0c9-2e03-4018-a773-33e1c2d64ccd",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "Annual budget preparation for the fiscal year 2022",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "budgetPreparationId": "bcf1ee3c-5b40-4208-93ed-b4e1309425c0",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "Annual budget preparation for the fiscal year 2023",
+        "purge_id": "5e6f7g8h"
+      },
+      {
+        "budgetPreparationId": "500dc647-d4ba-4f67-a2bc-3b9fb2be6042",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "Annual budget preparation for the fiscal year 2024",
+        "purge_id": "9i8j7k6l"
+      },
+      {
+        "budgetPreparationId": "b895cf94-d85a-4c30-b112-1c5eba30345f",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "Annual budget preparation for the fiscal year 2025",
+        "purge_id": "2b3c4d5e"
+      },
+      {
+        "budgetPreparationId": "682ddeab-2f75-4e83-877d-b15a0df8a6fa",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "Annual budget preparation for the fiscal year 2026",
+        "purge_id": "6f7g8h9i"
+      }
+    ],
+    "BudgetMonitoringTools": [
+      {
+        "monitoringToolId": "90f2c288-0043-4fce-b5a2-ebdeeb2236b7",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "Tool for tracking budget allocations and expenditures",
+        "purge_id": "bmt_1"
+      },
+      {
+        "monitoringToolId": "dd8f065a-c0cd-4db2-bca5-b431a5f3b7ca",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "Tool for monitoring budget performance and variances",
+        "purge_id": "bmt_2"
+      },
+      {
+        "monitoringToolId": "18f21732-661b-424e-879a-7a8393fecdfc",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "Tool for forecasting budget trends and projections",
+        "purge_id": "bmt_3"
+      },
+      {
+        "monitoringToolId": "061b43d2-d109-42d7-b532-c8b35d0de005",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "Tool for analyzing budget utilization and efficiency",
+        "purge_id": "bmt_4"
+      },
+      {
+        "monitoringToolId": "44769336-f93b-4429-a095-2273daa12ba8",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "Tool for tracking budget compliance and regulations",
+        "purge_id": "bmt_5"
+      },
+      {
+        "monitoringToolId": "528316c6-28b8-4185-8d94-e42963059232",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "This monitoring tool provides real-time tracking of budget allocations and expenditures for the budgeting process.",
+        "purge_id": "a1b2c3d4-5e6f-7g8h-9i0j"
+      },
+      {
+        "monitoringToolId": "d688ff76-4ee2-40ff-86f9-776577daf96c",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "An advanced tool that offers predictive analytics for budget forecasting in the budgeting process.",
+        "purge_id": "b2c3d4e5-6f7g-8h9i-0j1a"
+      },
+      {
+        "monitoringToolId": "f8e25e41-24e5-41a0-9c1a-f53194690404",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "A user-friendly tool that allows budget managers to create and customize budget reports easily in the budgeting process.",
+        "purge_id": "c3d4e5f6-7g8h-9i0j1a2b"
+      },
+      {
+        "monitoringToolId": "d7e49b57-044f-47e5-bf3b-7040734cf797",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "This tool integrates with accounting systems to streamline budget tracking and financial reporting in the budgeting process.",
+        "purge_id": "d4e5f6g7-8h9i-0j1a2b3c"
+      },
+      {
+        "monitoringToolId": "445b4996-28a9-4725-9308-b8298e445acc",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "A comprehensive tool that offers budget variance analysis and performance metrics for budget evaluation in the budgeting process.",
+        "purge_id": "e5f6g7h8-9i0j1a2b3c4"
+      },
+      {
+        "monitoringToolId": "67d9f16b-72fe-4686-a436-fcd1eb68ecda",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "Tool for tracking expenses and comparing them to the allocated budget.",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "monitoringToolId": "5945d772-61a8-4a63-96ab-053efd7b8fb9",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "Tool for analyzing variances in budgeted and actual costs.",
+        "purge_id": "5e6f7g8h"
+      },
+      {
+        "monitoringToolId": "08da09bd-7e82-4741-899b-f0b33de445b1",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "Tool for forecasting financial performance based on budget data.",
+        "purge_id": "9i8h7g6f"
+      },
+      {
+        "monitoringToolId": "d425ee28-5e4f-465a-95cd-306b83d0262e",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "Tool for monitoring budget utilization and identifying cost-saving opportunities.",
+        "purge_id": "4d3c2b1a"
+      },
+      {
+        "monitoringToolId": "fcd13c78-fba2-4ac3-9f3e-6ea50bd3fd12",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "Tool for tracking budget approval workflows and ensuring compliance with financial policies.",
+        "purge_id": "8f7e6d5c"
+      },
+      {
+        "monitoringToolId": "f4e90ad1-9a7d-4d4d-9de9-8d7cba81196b",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "This monitoring tool is used for tracking budget allocations for the marketing department.",
+        "purge_id": "1a"
+      },
+      {
+        "monitoringToolId": "59f4757e-f9fe-47de-a3d4-5a7d8a0b54ef",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "A tool designed to monitor expenses related to research and development projects.",
+        "purge_id": "2b"
+      },
+      {
+        "monitoringToolId": "f74ef148-2ef6-4097-89b0-2adb335d8b51",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "This tool helps in tracking budget utilization for IT infrastructure upgrades.",
+        "purge_id": "3c"
+      },
+      {
+        "monitoringToolId": "c331d7be-43e7-4319-9560-17dcd9abc965",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "A monitoring tool used to monitor budget spendings for employee training programs.",
+        "purge_id": "4d"
+      },
+      {
+        "monitoringToolId": "a442d764-3922-4ca9-9752-1290663ec600",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "Tool for tracking budget allocations for sales and marketing campaigns.",
+        "purge_id": "5e"
+      }
+    ],
+    "VarianceAnalysis": [
+      {
+        "analysisId": "2f02eb7b-9c6c-4328-b2ca-f5660874d528",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "Variance analysis for Q1 2022 budget vs actual expenses",
+        "purge_id": "b8d8e9a3-0b5c-4f19-8d8c-3e7e9d1b1d8a"
+      },
+      {
+        "analysisId": "13576eb9-1806-4f00-a584-30c1799b0724",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "Variance analysis for Q2 2022 budget vs actual revenue",
+        "purge_id": "a7f5c6b4-7c8e-4c3a-9c1f-2a7e3d4a2e1d"
+      },
+      {
+        "analysisId": "7442cc7c-90cc-4164-bc6a-6e379959f5c0",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "Variance analysis for Q3 2022 budget vs actual costs",
+        "purge_id": "e6d7c8a5-9b4c-4e1f-b8a7-1c2d3e4f5d6e"
+      },
+      {
+        "analysisId": "30d7bfee-e8ce-4c2d-bf6b-bd617b54f2d1",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "Variance analysis for Q4 2022 budget vs actual expenses",
+        "purge_id": "c5a6b7d8-8e9c-4a2f-b5a6-6d1e7b8c9a7b"
+      },
+      {
+        "analysisId": "d9ba7c32-15ca-4a08-a493-896564fb3632",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "Variance analysis for full year 2022 budget vs actual revenue",
+        "purge_id": "f4e5d6c7-6b8a-4f3e-8d7c-9a1b2c3d4e5f"
+      },
+      {
+        "analysisId": "a476ed3a-f118-4adf-bb6e-0df3b0b96cb1",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "This variance analysis is for the quarterly budget review meeting.",
+        "purge_id": "1f8e4a4b-1e0f-4e6e-9d02-0cfe7c4a3f6d"
+      },
+      {
+        "analysisId": "fd3bcd20-cfdc-4907-84f8-860c83bdc2a8",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "Variance analysis report for the annual budget planning session.",
+        "purge_id": "2c7a8d87-9d2a-4d0f-9c1e-1f9a2a2c6f6d"
+      },
+      {
+        "analysisId": "caec4d6e-64c4-48bc-bcee-7e46ec0e04cb",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "Detailed variance analysis for the monthly financial review meeting.",
+        "purge_id": "3e6b9c8d-4f1d-4e2a-8c1b-2f5d4d6e7a8c"
+      },
+      {
+        "analysisId": "cc11938b-d808-40c3-8d4d-4b9d9653cacb",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "Variance analysis summary for the quarterly budget adjustment session.",
+        "purge_id": "4d5e6f7c-2b1d-4c1d-8e2f-3a4b5c6d7e8f"
+      },
+      {
+        "analysisId": "f6d09952-bae7-410c-b180-cf89f2fcbcfc",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "Comprehensive variance analysis for the annual financial audit review.",
+        "purge_id": "5e6f7d8c-3b2d-4d1d-8e2f-4a5b6c7d8e9f"
+      },
+      {
+        "analysisId": "00fe5d29-97c4-407f-92ce-d7f881bb543b",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "Variance analysis for Q1 budget report",
+        "purge_id": "7f3a5c3e-7cb5-4f62-8b5e-1d25b4c1b2a1"
+      },
+      {
+        "analysisId": "6b2ba70e-ed70-4005-a214-84e6cea3fbd3",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "Variance analysis for Q2 budget report",
+        "purge_id": "a1f2a0f1-0d57-4f4a-8e8d-8a1e8d9b5e8d"
+      },
+      {
+        "analysisId": "70f7f56e-738f-434e-b399-49bc14af5d03",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "Variance analysis for Q3 budget report",
+        "purge_id": "b1e9c1d2-7f5a-4e8a-8b6d-9a3e8d7b5e8d"
+      },
+      {
+        "analysisId": "4d035991-aad6-442e-9bec-4fd469ade1c3",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "Variance analysis for Q4 budget report",
+        "purge_id": "c1e9d1a2-8f5a-4e8a-9b6d-3a8e7d5b5e8d"
+      },
+      {
+        "analysisId": "18d03c2a-17ff-4f74-899f-367f742aad11",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "Variance analysis for annual budget report",
+        "purge_id": "d1e9a1c2-9f5a-4e8a-6b9d-7a8e5d5b5e8d"
+      },
+      {
+        "analysisId": "1526ca69-d957-4721-aa3d-513916d967b7",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "This entity represents a variance analysis for the budgeting process with ID 0c8a96fd-6ae1-4209-9476-4fe17d593281.",
+        "purge_id": "fae9a4dc-0c1b-4b6d-bf16-7140f4c4d2b0"
+      },
+      {
+        "analysisId": "b2bd9102-6d06-4a1e-9e8e-04613b74c160",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "This entity represents a variance analysis for the budgeting process with ID 46567dd0-2840-4497-bc11-8cb5c30cd15e.",
+        "purge_id": "c4f3b73e-7e1d-4b8b-9f9c-5d7b6d5d4a5a"
+      },
+      {
+        "analysisId": "efbb0d17-6308-4e13-8f45-2746402ce1ad",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "This entity represents a variance analysis for the budgeting process with ID 00cf4119-f734-4ee2-acee-cab4f1079273.",
+        "purge_id": "d1d3e6c4-6b0c-4b0c-bc4e-8c7f1e4d5e1d"
+      },
+      {
+        "analysisId": "c69ee050-1c13-4a5f-84a6-dcbd3bee21cd",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "This entity represents a variance analysis for the budgeting process with ID ad724776-0ddc-479c-ab40-ed7517bab5d4.",
+        "purge_id": "b0b3c2a1-2e1d-4c0d-8f3e-9a7b6d8c5b2b"
+      },
+      {
+        "analysisId": "cc65f083-8742-490b-9c4e-0cf8e7c24763",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "This entity represents a variance analysis for the budgeting process with ID 9938447e-0a0e-4f4c-83e6-73acd3b6c346.",
+        "purge_id": "a2a1b0c9-3d2e-4c0d-8b3e-7c9d6b8a5c9a"
+      }
+    ],
+    "CapitalExpenditurePlanning": [
+      {
+        "capitalExpenditureId": "8c594061-860d-4850-9b3d-51b1c842c730",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "This entity represents a capital expenditure planning entry associated with a specific budgeting process.",
+        "purge_id": "ce7d9d61-3b1b-4a5c-9c5f-4f1c7e9a2d31"
+      },
+      {
+        "capitalExpenditureId": "03cf92fe-6f75-47ad-88c4-097d7f59e1ee",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "This entity represents a capital expenditure planning entry associated with a specific budgeting process.",
+        "purge_id": "9e1e0e7d-7e3f-4c0b-8e6d-5c6f35b4d3b2"
+      },
+      {
+        "capitalExpenditureId": "d13324d2-1370-4114-9b78-03fbf168e57f",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "This entity represents a capital expenditure planning entry associated with a specific budgeting process.",
+        "purge_id": "0b6f4633-0a7b-4b8e-9b4d-2e1b9e8f66a7"
+      },
+      {
+        "capitalExpenditureId": "51d53617-095e-42d6-986b-69b9caa274d1",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "This entity represents a capital expenditure planning entry associated with a specific budgeting process.",
+        "purge_id": "f9e2f8e7-7b6d-4c0e-8d6f-5c4f3b4d3b6"
+      },
+      {
+        "capitalExpenditureId": "c84fccea-f09d-4e87-8ab9-90c061983835",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "This entity represents a capital expenditure planning entry associated with a specific budgeting process.",
+        "purge_id": "2a1b3b4c-3d1b-4a5e-9c6f-4f1e7a2d3b5"
+      },
+      {
+        "capitalExpenditureId": "09fd082c-9bd9-4d59-a0bc-e66c1b1440fa",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "This entity represents a capital expenditure planning entry for the budgeting process with ID 0c8a96fd-6ae1-4209-9476-4fe17d593281.",
+        "purge_id": "1a"
+      },
+      {
+        "capitalExpenditureId": "85568cfa-75ee-423e-82b1-d9e8696b9e9b",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "This entity represents a capital expenditure planning entry for the budgeting process with ID 46567dd0-2840-4497-bc11-8cb5c30cd15e.",
+        "purge_id": "2"
+      },
+      {
+        "capitalExpenditureId": "2e5ec9f9-a7da-446f-83f8-0aa722210b7b",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "This entity represents a capital expenditure planning entry for the budgeting process with ID 00cf4119-f734-4ee2-acee-cab4f1079273.",
+        "purge_id": "3"
+      },
+      {
+        "capitalExpenditureId": "179e21f0-5007-43f7-8bc9-4673d2895ed4",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "This entity represents a capital expenditure planning entry for the budgeting process with ID ad724776-0ddc-479c-ab40-ed7517bab5d4.",
+        "purge_id": "4"
+      },
+      {
+        "capitalExpenditureId": "6d776437-e36a-4f75-af7e-bb886b4d2d91",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "This entity represents a capital expenditure planning entry for the budgeting process with ID 9938447e-0a0e-4f4c-83e6-73acd3b6c346.",
+        "purge_id": "5"
+      },
+      {
+        "capitalExpenditureId": "f34bd912-e880-41f5-9fc0-a4ec89dede02",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "Initial investment for new equipment",
+        "purge_id": "ce9b2b6f-9e4f-4f8c-bb57-97b6c9c2b2c7"
+      },
+      {
+        "capitalExpenditureId": "4964428d-ea62-4ae5-afc3-623943130cf3",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "Expansion of production facilities",
+        "purge_id": "a9b15d8e-1a0c-4f2a-8f4b-8d1b1e3d3e4d"
+      },
+      {
+        "capitalExpenditureId": "2a20e732-af3c-4af6-9b4d-80430f9ecd40",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "Upgrade of software systems",
+        "purge_id": "c4a1c4a7-53f9-4b3f-9d9b-6c4f4b7f5c4d"
+      },
+      {
+        "capitalExpenditureId": "b19e5d5b-efb6-459a-a29d-991ecff48293",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "Renovation of office space",
+        "purge_id": "d8e0d9e8-3e2c-4f8e-9d8e-8d4e9d3e4d8"
+      },
+      {
+        "capitalExpenditureId": "c3797e2f-0f95-4fd9-981c-41ea283800ae",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "Acquisition of new vehicles",
+        "purge_id": "e1d2e3e4-5f6c-4d8e-9f8d-8d4e9d3e4f6"
+      },
+      {
+        "capitalExpenditureId": "36fd4036-07d2-4b5f-8947-fe4cc257de37",
+        "budgetingProcessId": "0c8a96fd-6ae1-4209-9476-4fe17d593281",
+        "extraField": "This entity represents a capital expenditure entry for the initial budgeting process.",
+        "purge_id": "e1f9b0d1-43b4-4d7f-8e51-9e4a3e30b8a1"
+      },
+      {
+        "capitalExpenditureId": "60feebf7-d1b8-48d5-b5a9-5eeee1a18dc4",
+        "budgetingProcessId": "46567dd0-2840-4497-bc11-8cb5c30cd15e",
+        "extraField": "This entity represents a capital expenditure entry for the mid-year budgeting process.",
+        "purge_id": "f9c0b2f5-2e1c-4f56-9b3e-6b2a4d7b2a9d"
+      },
+      {
+        "capitalExpenditureId": "f6520dfe-6380-4b81-aea0-9a626e9fd8e4",
+        "budgetingProcessId": "00cf4119-f734-4ee2-acee-cab4f1079273",
+        "extraField": "This entity represents a capital expenditure entry for the annual budgeting process.",
+        "purge_id": "c7a1f8b6-9f77-4f3b-8e6a-8e9a2f3d6b4c"
+      },
+      {
+        "capitalExpenditureId": "81af7ee7-d80a-4855-bc2b-382e79127f49",
+        "budgetingProcessId": "ad724776-0ddc-479c-ab40-ed7517bab5d4",
+        "extraField": "This entity represents a capital expenditure entry for the quarterly budgeting process.",
+        "purge_id": "a8b1c7d2-6f9e-4d4c-8e1d-7e2b3c1f5a8b"
+      },
+      {
+        "capitalExpenditureId": "1dee5a98-6435-4e5a-8c0e-33f2e8b083aa",
+        "budgetingProcessId": "9938447e-0a0e-4f4c-83e6-73acd3b6c346",
+        "extraField": "This entity represents a capital expenditure entry for the project-specific budgeting process.",
+        "purge_id": "b4c5e2a1-9e8f-4b6c-8a1d-8c6d2f1e7b4c"
+      }
+    ],
+    "PricingStrategies": [
+      {
+        "pricingStrategyId": "695f9b9a-7fe4-407b-8779-950edcb8b1a0",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "Dynamic Pricing based on market demand and competitor pricing strategies",
+        "purge_id": "1a"
+      },
+      {
+        "pricingStrategyId": "1c48281b-e809-4883-8c6a-b8a2cefcf756",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "Value-Based Pricing to capture premium market segment",
+        "purge_id": "1b"
+      },
+      {
+        "pricingStrategyId": "9007358d-d43c-471f-a681-edb571e2e715",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "Penetration Pricing to gain market share in a competitive market",
+        "purge_id": "1c"
+      },
+      {
+        "pricingStrategyId": "24e66fc4-4e2b-46a4-8f27-2e1738ee4bd5",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "Bundle Pricing to increase average order value",
+        "purge_id": "1d"
+      },
+      {
+        "pricingStrategyId": "6c42b09b-72b8-4a13-b5a7-6b2285639250",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "Freemium Pricing to attract users and upsell premium features",
+        "purge_id": "1e"
+      },
+      {
+        "pricingStrategyId": "062879ae-ee2c-4c9a-88a1-d8a8b75fb7b2",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "This pricing strategy focuses on value-based pricing by considering the perceived value of the product or service in the market.",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "pricingStrategyId": "486c5f96-2b9f-4d15-be31-ba0bc3b842b1",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "This pricing strategy involves penetration pricing to gain market share by setting lower prices than competitors.",
+        "purge_id": "5e6f7d8c"
+      },
+      {
+        "pricingStrategyId": "c8611da1-50b1-4ba3-8180-c1c5189fce98",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "This pricing strategy is based on cost-plus pricing, where a markup is added to the cost of production to determine the selling price.",
+        "purge_id": "9a8b7c6d"
+      },
+      {
+        "pricingStrategyId": "d1715924-fad8-435f-b2f6-eb3eb94d4a86",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "This pricing strategy focuses on dynamic pricing, adjusting prices based on demand and market conditions.",
+        "purge_id": "c5d4e3f2"
+      },
+      {
+        "pricingStrategyId": "919142b2-aaed-46e9-b529-a4bdee00d9e0",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "This pricing strategy involves bundle pricing, offering discounts when customers purchase a bundle of products or services together.",
+        "purge_id": "f1e2d3c4"
+      },
+      {
+        "pricingStrategyId": "b41fd926-3c89-4f1b-b9cd-002468d3e16d",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "Standard pricing strategy for new product launch",
+        "purge_id": "1"
+      },
+      {
+        "pricingStrategyId": "7ca74955-4518-4c47-9d1b-63fef7237f2e",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "Discount pricing strategy for seasonal promotion",
+        "purge_id": "2"
+      },
+      {
+        "pricingStrategyId": "f4ed540b-34b4-4860-83c2-fe4fcb672942",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "Dynamic pricing strategy based on demand forecasting",
+        "purge_id": "3"
+      },
+      {
+        "pricingStrategyId": "ce3edb94-9056-440d-bab1-24162e4a0c59",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "Tiered pricing strategy for subscription services",
+        "purge_id": "4"
+      },
+      {
+        "pricingStrategyId": "e053ad29-1ae4-4455-9834-9fcac686651d",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "Penetration pricing strategy to capture market share",
+        "purge_id": "5"
+      },
+      {
+        "pricingStrategyId": "b8e70264-69af-4930-a10e-407c2b7a344b",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "Standard pricing strategy for new product launch",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "pricingStrategyId": "750a35e0-59a4-4a3d-aa9a-1b287f2b1e0a",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "Discount pricing strategy for seasonal promotion",
+        "purge_id": "5e6f7g8h"
+      },
+      {
+        "pricingStrategyId": "42424129-0f68-4455-826e-f6372fa51c4c",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "Dynamic pricing strategy based on market demand",
+        "purge_id": "9i8h7g6f"
+      },
+      {
+        "pricingStrategyId": "5ba9f41f-27c2-4adc-9bbe-5813b348951d",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "Bundle pricing strategy for cross-selling",
+        "purge_id": "4d5e6f7g"
+      },
+      {
+        "pricingStrategyId": "af08e741-9ca3-4149-9159-2cc4c3487142",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "Penetration pricing strategy for market entry",
+        "purge_id": "2c3b4a5d"
+      }
+    ],
+    "RevenueForecastingModels": [
+      {
+        "forecastingModelId": "9d1c237b-35bd-4a83-b8cd-7f9c44a7d6e7",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "This forecasting model uses a time series analysis approach to predict revenue for the upcoming quarter.",
+        "purge_id": "f7e6b6a4-2a4d-4e6a-9e0b-5c7b8a5f1b2a"
+      },
+      {
+        "forecastingModelId": "ab8d8775-7400-4a02-af98-61363159189a",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "This forecasting model utilizes machine learning algorithms to forecast revenue trends.",
+        "purge_id": "e2b1a0e4-8b5d-4b0d-8b0e-6c7a8b5f3b1b"
+      },
+      {
+        "forecastingModelId": "2196833c-c858-42fc-9895-9791c09db679",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "A regression-based forecasting model used to predict revenue fluctuations based on market trends.",
+        "purge_id": "c4d3b2a1-3c2d-4d1e-9d0c-8b7a6c5f2b3c"
+      },
+      {
+        "forecastingModelId": "e83d967a-1feb-4c3e-b8c7-93b4f4f8bdef",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "An ensemble forecasting model combining multiple algorithms to provide a more accurate revenue forecast.",
+        "purge_id": "a8b9c8d7-5d4b-6e3a-0e9b-7c5a8b6f4b2d"
+      },
+      {
+        "forecastingModelId": "bf482c63-b78c-47c3-836e-764ec12aec20",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "This forecasting model incorporates economic indicators and industry data to predict revenue growth.",
+        "purge_id": "b5c6a7d8-4b3d-1e2a-9d0c-8b7a6c5f2b3e"
+      },
+      {
+        "forecastingModelId": "b50bbeba-b9b0-47b7-b6ca-2a4809dc28fa",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "Linear Regression Model for Monthly Revenue Forecasting",
+        "purge_id": "1a"
+      },
+      {
+        "forecastingModelId": "92826cc3-ea06-4a7b-9502-6e50a863a39b",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "Time Series Model for Quarterly Revenue Forecasting",
+        "purge_id": "1b"
+      },
+      {
+        "forecastingModelId": "871271ef-a3df-44c4-9755-9f1902beb1dc",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "Machine Learning Model for Annual Revenue Forecasting",
+        "purge_id": "1c"
+      },
+      {
+        "forecastingModelId": "e9b5648d-2018-4ed9-af0f-cca4e667e56d",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "ARIMA Model for Monthly Revenue Forecasting",
+        "purge_id": "1d"
+      },
+      {
+        "forecastingModelId": "1d6670e8-34ab-41bc-92d0-e5e2887327f2",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "Exponential Smoothing Model for Quarterly Revenue Forecasting",
+        "purge_id": "1e"
+      },
+      {
+        "forecastingModelId": "6fbb980e-b447-4651-aff1-4444bf6dc326",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "This forecasting model uses historical sales data and market trends to predict future revenue growth.",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "forecastingModelId": "b08b42b6-335f-4b53-a4c3-a7a4c364e9a7",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "A machine learning-based forecasting model that analyzes customer behavior and product performance.",
+        "purge_id": "5e6f7d8c"
+      },
+      {
+        "forecastingModelId": "0fa4f93b-4461-4a18-bb18-b1de3601698c",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "An econometric forecasting model that considers macroeconomic indicators and industry data.",
+        "purge_id": "9a8b7c6d"
+      },
+      {
+        "forecastingModelId": "4cf6885c-b925-40be-b0f1-3e689acc74df",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "A time series forecasting model that predicts revenue based on seasonality and historical patterns.",
+        "purge_id": "d3e4f5g6h"
+      },
+      {
+        "forecastingModelId": "ba85d2ac-51a0-4a2f-8477-a8472769b777",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "A financial ratio-based forecasting model that uses key financial metrics to estimate revenue growth.",
+        "purge_id": "i9j8k7l6"
+      },
+      {
+        "forecastingModelId": "555b51b2-e514-41a9-99c8-13834b70515a",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "This forecasting model uses historical revenue data and market trends to predict future revenue growth.",
+        "purge_id": "f3b3d4c2-6f6e-4d5a-8d3d-2c5f0b4d2e1a"
+      },
+      {
+        "forecastingModelId": "19208ffe-463b-46de-8837-80c0fd30e7f6",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "This forecasting model employs machine learning algorithms to forecast revenue based on various factors.",
+        "purge_id": "a8e2b1c4-7f8d-4e6b-9e4c-1d3a0b2c1e4b"
+      },
+      {
+        "forecastingModelId": "a1d695f0-a7d8-4c28-8b01-46e5b06066a7",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "A sophisticated forecasting model that integrates financial data with market research to predict revenue trends accurately.",
+        "purge_id": "b4c3a2d1-5e6a-4b4c-8d2e-1c3a0b2c1e4f"
+      },
+      {
+        "forecastingModelId": "934d9d15-25f4-4985-b1a5-14fd92cd4ad1",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "An advanced forecasting model that uses regression analysis and scenario planning to forecast revenue under different market conditions.",
+        "purge_id": "c5d4e3a2-8f7d-4c6b-9e5d-2a1c0b3c4e6d"
+      },
+      {
+        "forecastingModelId": "091543e1-39ad-4b37-87e2-061b3f586af7",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "This forecasting model leverages data from CRM systems and sales pipelines to predict revenue growth and customer acquisition.",
+        "purge_id": "d6e5f4a3-9d8c-4e7b-8d6e-3a2c1b4c5e7f"
+      }
+    ],
+    "RevenueReportingSystems": [
+      {
+        "reportingSystemId": "b241c819-27a1-4137-8be3-83e5ed798998",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "This revenue reporting system is used for tracking sales revenue and profitability.",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "reportingSystemId": "d937157c-f778-4e72-a7ef-ff540cf12648",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "This system generates reports on revenue streams and customer transactions.",
+        "purge_id": "5e6f7d8c"
+      },
+      {
+        "reportingSystemId": "6f783161-3e30-4ae1-a175-67ed545df94f",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "An advanced system for analyzing revenue trends and forecasting future earnings.",
+        "purge_id": "9a8b7c6d"
+      },
+      {
+        "reportingSystemId": "fc8ebd33-3515-455e-b5ba-cc15d67eb8df",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "This system integrates revenue data from multiple sources for comprehensive reporting.",
+        "purge_id": "d3e4f5g6h"
+      },
+      {
+        "reportingSystemId": "30a441d4-c602-49f9-9cc7-3c16b72e204b",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "A user-friendly system for tracking revenue performance and analyzing key metrics.",
+        "purge_id": "2b1a4c3d"
+      },
+      {
+        "reportingSystemId": "f1493d86-a1be-451d-babd-c6355b1eb2a8",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "This reporting system is used for tracking monthly revenue from sales and services.",
+        "purge_id": "a1b2c3d4-5e6f-7a8b-9c0d"
+      },
+      {
+        "reportingSystemId": "a8d3bc8f-879e-4083-8732-623991448f70",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "This reporting system is utilized for analyzing revenue trends and forecasting future earnings.",
+        "purge_id": "b1c2d3e4-5f6a-7b8c-9d0e"
+      },
+      {
+        "reportingSystemId": "c1ed7584-20d3-4127-8e4c-a1eaefca2770",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "This reporting system focuses on tracking revenue sources and evaluating profitability.",
+        "purge_id": "c1d2e3f4-5a6b-7c8d-9e0f"
+      },
+      {
+        "reportingSystemId": "8bdb99e9-c0d9-449f-9800-0f6dc8153e7b",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "This reporting system is designed for monitoring revenue performance against targets and goals.",
+        "purge_id": "d1e2f3a4-5b6c-7d8e-9f0"
+      },
+      {
+        "reportingSystemId": "6f55cb1c-a873-4fd9-82e2-b9772250113e",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "This reporting system is used for analyzing revenue streams and identifying opportunities for growth.",
+        "purge_id": "e1f2a3b4-6c7d-8e9f-0a1b"
+      },
+      {
+        "reportingSystemId": "a408d08c-7ad6-4e52-8a72-f2659db19be3",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "This revenue reporting system is used for tracking sales revenue and analyzing revenue trends.",
+        "purge_id": "f1e4e0b7-4e7b-4a37-a3a7-1c4c4f2cde97"
+      },
+      {
+        "reportingSystemId": "ad8ac0da-eadc-4193-bae9-30640fb4d433",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "This system focuses on revenue reporting for subscription services and membership fees.",
+        "purge_id": "b0c4c8f2-1d84-4c8e-aa2f-7b8e4a5f9b9d"
+      },
+      {
+        "reportingSystemId": "82832ad2-3e72-452a-9dbb-1a374195470a",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "A specialized reporting system for tracking advertising revenue and campaign performance.",
+        "purge_id": "a3f1d6c2-7e5d-4a5c-bb47-4f8b6e9b6c6e"
+      },
+      {
+        "reportingSystemId": "057357ea-03ab-45ab-ad80-b03a79ae76ad",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "This system is designed for reporting revenue from digital product sales and online transactions.",
+        "purge_id": "c7f3b6e4-9d8b-4c1a-aa8d-3e4b8b1d2a7d"
+      },
+      {
+        "reportingSystemId": "1df517bb-a45e-4d93-9456-a5f2bde2ccd1",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "An advanced reporting system for tracking revenue from software licensing and royalties.",
+        "purge_id": "e2a7b9f5-4c8d-4e1a-aa6c-7b8d4a5e9f1c"
+      },
+      {
+        "reportingSystemId": "56acc4e8-556e-4c50-833c-8f44c958cef1",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "This reporting system is used for tracking revenue generated from online sales transactions.",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "reportingSystemId": "0e2ab597-a254-42e5-bccc-f4582c845c89",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "This reporting system is designed for monitoring revenue from subscription services.",
+        "purge_id": "5e6f7g8h"
+      },
+      {
+        "reportingSystemId": "e748f6bf-d6b6-4d0a-9f46-7fcefc231dd6",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "A reporting system tailored for tracking revenue from advertising campaigns.",
+        "purge_id": "9i8h7g6f"
+      },
+      {
+        "reportingSystemId": "7dcb5b64-0624-4199-9929-aab7f9a1238c",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "This reporting system focuses on revenue generated from affiliate marketing partnerships.",
+        "purge_id": "4d3e2f1g"
+      },
+      {
+        "reportingSystemId": "ae40cff8-215d-4e2d-829c-d8d0dcfe3ab8",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "A sophisticated reporting system for tracking revenue from digital product sales.",
+        "purge_id": "7c8b9a0d"
+      }
+    ],
+    "ProfitabilityAnalysis": [
+      {
+        "profitabilityId": "1a9d4120-ce5b-438d-a7c2-778c1e718b6d",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "This entry represents the profitability analysis for the first quarter of the year.",
+        "purge_id": "1a9d4120-entry1"
+      },
+      {
+        "profitabilityId": "087f1df6-a9b9-43a7-9498-16d8ac9fc427",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "This entry represents the profitability analysis for the second quarter of the year.",
+        "purge_id": "087f1df6-entry1"
+      },
+      {
+        "profitabilityId": "5055758a-87c7-4c5a-a5a6-1d5504c692a5",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "This entry represents the profitability analysis for the third quarter of the year.",
+        "purge_id": "5055758a-entry1"
+      },
+      {
+        "profitabilityId": "39e8c3ae-5385-4b31-a344-b3bddaa10420",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "This entry represents the profitability analysis for the fourth quarter of the year.",
+        "purge_id": "39e8c3ae-entry1"
+      },
+      {
+        "profitabilityId": "b56613ae-1333-4023-a624-81eef68085a1",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "This entry represents the overall profitability analysis for the year.",
+        "purge_id": "b56613ae-entry1"
+      },
+      {
+        "profitabilityId": "d9250739-47a0-4a7e-9368-313a9e7dbc91",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "The profitability analysis for Q1 2022 sales revenue",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "profitabilityId": "98d5c583-d4c3-401f-9746-c64e05cf41cd",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "Analysis of profit margins for product A",
+        "purge_id": "5e6f7d8c"
+      },
+      {
+        "profitabilityId": "9c6797cc-b85a-4dad-9ba8-4ee5a72a28bc",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "Cost-benefit analysis for marketing campaign",
+        "purge_id": "9a8b7c6d"
+      },
+      {
+        "profitabilityId": "81d923b8-b0e0-4c2d-9e17-1d9411c0fae1",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "Profitability assessment for new product launch",
+        "purge_id": "f1e2d3c4"
+      },
+      {
+        "profitabilityId": "15dfed10-ed3d-494e-9d8d-6d0b435ca043",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "Analysis of revenue streams from online sales channels",
+        "purge_id": "2b3c4d5e"
+      },
+      {
+        "profitabilityId": "423b5666-0cbf-4aab-9cd8-7041012dc7a5",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "This entry represents the profitability analysis for Q1 2022.",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "profitabilityId": "3893b2bc-e0c0-484a-974f-3ab1b4b18a64",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "This entry represents the profitability analysis for Q2 2022.",
+        "purge_id": "5e6f7g8h"
+      },
+      {
+        "profitabilityId": "34ee02b1-d929-41a8-b751-9a1887a94589",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "This entry represents the profitability analysis for Q3 2022.",
+        "purge_id": "9i8h7g6f"
+      },
+      {
+        "profitabilityId": "61714b96-df9c-465a-9297-ac9db5f592d0",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "This entry represents the profitability analysis for Q4 2022.",
+        "purge_id": "4d5e6f7g"
+      },
+      {
+        "profitabilityId": "e0d3c1dc-021b-4346-a515-6c0f9d1f0cb2",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "This entry represents the profitability analysis for Q1 2023.",
+        "purge_id": "8h9i0j1k"
+      },
+      {
+        "profitabilityId": "639b88af-9fa5-465d-8216-e214da202aad",
+        "revenueManagementId": "df59ab30-c765-45c0-842a-7f7450501609",
+        "extraField": "This entry represents the profitability analysis for a specific revenue management process.",
+        "purge_id": "a7e1d8d0-4d4d-4a3a-ae0a-3c3b5d7c7d4a"
+      },
+      {
+        "profitabilityId": "8649166e-1b86-470d-9b2d-0f146e3480af",
+        "revenueManagementId": "6e53fb3d-dec1-49b1-b37e-886f489b69d4",
+        "extraField": "This entry provides insights into the profitability of a particular revenue management process.",
+        "purge_id": "b2f4ce6e-7b5f-4a01-8f8d-4c0a6f9a0b9e"
+      },
+      {
+        "profitabilityId": "1e8b3ace-7015-4bea-b7ef-90d1f4f5021b",
+        "revenueManagementId": "97fe5622-0e9b-4764-8830-fc5bea2ef056",
+        "extraField": "Detailed analysis of the profitability associated with a revenue management process.",
+        "purge_id": "f8e3fb5a-2f5d-4ee4-8b2b-1fb8f7c2c1b5"
+      },
+      {
+        "profitabilityId": "03886ca8-dd1e-406e-8862-375c2e6387b2",
+        "revenueManagementId": "3a44b70d-00b0-4a1a-8425-b54d1e0c3ee0",
+        "extraField": "Profitability assessment for a specific revenue management process.",
+        "purge_id": "c0b2f2c3-5f5a-4d01-8d8f-4a9c6f9a0b9e"
+      },
+      {
+        "profitabilityId": "c7b72eb5-700f-47cc-8ee3-7159fee1ec1c",
+        "revenueManagementId": "6610e478-cdab-4715-b869-5154547380fa",
+        "extraField": "In-depth profitability analysis for a revenue management process.",
+        "purge_id": "d9e5f7a2-5c1a-4e4d-8b2f-1fb8f7c2c1b5"
+      }
+    ],
+    "CostControlProcedures": [
+      {
+        "controlProcedureId": "a14a67a8-aa30-495b-8a61-be7957b34863",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Perform regular audits to ensure compliance with financial regulations and internal policies",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "controlProcedureId": "f4bac976-6de0-4b83-b69e-cf91ae28e9fc",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Implement cost tracking system to monitor expenses and identify cost-saving opportunities",
+        "purge_id": "5e6f7d8c"
+      },
+      {
+        "controlProcedureId": "41a3b371-e828-4b88-be0a-82cb1b36c810",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Conduct cost-benefit analysis for proposed projects to assess financial feasibility",
+        "purge_id": "9a8b7c6d"
+      },
+      {
+        "controlProcedureId": "31447a77-1a88-4b78-bf5b-65f18048e4dd",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Establish budget variance analysis to track deviations from planned expenses",
+        "purge_id": "3c4d5e6f"
+      },
+      {
+        "controlProcedureId": "94d52647-92ea-4a97-a2c1-8bb743362536",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Develop cost control policies and procedures to standardize financial practices",
+        "purge_id": "7d8e9f0a"
+      },
+      {
+        "controlProcedureId": "4c2a8a6d-141c-4350-8f5f-43137ee053d4",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Perform Cost-Benefit Analysis for Projects",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "controlProcedureId": "ea9dac20-2891-4003-bb84-adf85024ee13",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Implement Cost Tracking System",
+        "purge_id": "5e6f7d8c"
+      },
+      {
+        "controlProcedureId": "04fda34e-f2b6-45da-ae2d-7991f968177c",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Conduct Vendor Negotiations for Cost Reduction",
+        "purge_id": "9a8b7c6d"
+      },
+      {
+        "controlProcedureId": "10b512d8-8950-42b1-817d-59bc0a498a67",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Review and Approve Expense Reports",
+        "purge_id": "3e4f5d6c"
+      },
+      {
+        "controlProcedureId": "6878482d-39b1-4a39-8270-97e822b92d30",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Analyze Cost Variances and Identify Root Causes",
+        "purge_id": "2b3c4d5e"
+      },
+      {
+        "controlProcedureId": "c097a0b7-b3d0-400d-9a31-55e2bfb108bf",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Perform cost estimation and analysis for new projects",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "controlProcedureId": "ec0fb113-9299-415e-9e00-3330233fdc33",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Conduct cost-benefit analysis for proposed cost reduction initiatives",
+        "purge_id": "2b3c4d5e"
+      },
+      {
+        "controlProcedureId": "d16d0f56-8ca9-4fc2-ad2f-e1a2d3dadc28",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Implement cost control measures to optimize expenses",
+        "purge_id": "3c4d5e6f"
+      },
+      {
+        "controlProcedureId": "e296b54f-96c5-433e-98f6-f344608b4dac",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Monitor and analyze cost variances to identify areas for improvement",
+        "purge_id": "4d5e6f7a"
+      },
+      {
+        "controlProcedureId": "207eb943-7741-4588-bdec-60a4350826cf",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Review and update cost control procedures based on industry best practices",
+        "purge_id": "5e6f7a8b"
+      },
+      {
+        "controlProcedureId": "d2524878-ed8c-4ef1-a6c2-230b7072a417",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Perform cost analysis to identify cost-saving opportunities.",
+        "purge_id": "1"
+      },
+      {
+        "controlProcedureId": "fa7d0d9c-2dde-4df5-adde-dce35075365c",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Implement cost control measures to reduce expenses.",
+        "purge_id": "2"
+      },
+      {
+        "controlProcedureId": "a6052ba3-3fef-4366-968d-7b56be3017ff",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Monitor cost variances and investigate deviations.",
+        "purge_id": "3"
+      },
+      {
+        "controlProcedureId": "44d0e8d5-68d2-47aa-9fd4-6fbaa7181227",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Review and approve cost management strategies.",
+        "purge_id": "4"
+      },
+      {
+        "controlProcedureId": "6be69495-4e54-465e-a92b-076c869e6b0c",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Conduct cost-benefit analysis for proposed projects.",
+        "purge_id": "5"
+      }
+    ],
+    "ExpenseReportingSystems": [
+      {
+        "expenseSystemId": "ba89f077-f88b-488c-b6cf-cf3a176a9c8a",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Automated Expense Reporting System for Streamlining Expense Management Processes",
+        "purge_id": "67bde5a2-1e86-4e6e-9c0f-2a32d9e1b9a1"
+      },
+      {
+        "expenseSystemId": "28123f58-717c-4dbe-8505-b1943a8c1b5a",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Cloud-Based Expense Reporting System with Real-Time Expense Tracking",
+        "purge_id": "f4e51b7d-7d1d-4f0c-b2d1-5ee0b3f1e0d4"
+      },
+      {
+        "expenseSystemId": "7f0140f4-53b8-4e1f-9d8b-7d4ff293d930",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Mobile Expense Reporting App for On-The-Go Expense Submissions",
+        "purge_id": "c9f1f3d0-0e8d-4d8b-8d5d-3a7a6a7f5b4c"
+      },
+      {
+        "expenseSystemId": "5739c2dd-40ad-422b-99ee-b49a1eb5af38",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Web-Based Expense Reporting System with Multi-Currency Support",
+        "purge_id": "e0d5f1c8-1d7b-4a9b-8c2c-6f8b1a2e7a0d"
+      },
+      {
+        "expenseSystemId": "3f7c613f-1f22-40ee-8f12-cd9a6c978c52",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Expense Reporting Software with Automated Approval Workflows",
+        "purge_id": "b4d3e1a9-8e2f-4b7c-9d1a-6e0c7f8b2d3e"
+      },
+      {
+        "expenseSystemId": "694b5502-9af7-4ec0-b080-c48c83d13ace",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "This expense reporting system is integrated with the cost management process to track and manage project expenses effectively.",
+        "purge_id": "exprep694b5502"
+      },
+      {
+        "expenseSystemId": "d5ced71f-0f71-437f-b3ab-64960a287cf4",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "A comprehensive expense reporting system that provides detailed insights into cost allocation and expenditure.",
+        "purge_id": "exprepd5ced71f"
+      },
+      {
+        "expenseSystemId": "fe6d02fe-211a-4107-b839-1370d33ca408",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "An advanced expense reporting system that automates expense tracking and approval processes for efficient financial management.",
+        "purge_id": "exprepfe6d02fe"
+      },
+      {
+        "expenseSystemId": "9e8bf0cb-d847-4a69-a613-a08abc92ec3e",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "A user-friendly expense reporting system with customizable reporting features to analyze expenditure trends and patterns.",
+        "purge_id": "exprep9e8bf0cb"
+      },
+      {
+        "expenseSystemId": "9e196285-98b6-4425-bc9d-bddbdcba6949",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "An integrated expense reporting system that streamlines expense reimbursement processes and ensures compliance with financial policies.",
+        "purge_id": "exprep9e196285"
+      },
+      {
+        "expenseSystemId": "7ee325d5-09d5-47d9-abee-0586038fae34",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Automated Expense Reporting System for Small Businesses",
+        "purge_id": "exp_sys_1"
+      },
+      {
+        "expenseSystemId": "c977b534-3dbc-4f72-85b8-c996e0984341",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Cloud-based Expense Reporting System for Enterprises",
+        "purge_id": "exp_sys_2"
+      },
+      {
+        "expenseSystemId": "646a0d24-453a-45cb-92c2-0ac78d60988d",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Mobile Expense Reporting System for Remote Workers",
+        "purge_id": "exp_sys_3"
+      },
+      {
+        "expenseSystemId": "1e669570-82d1-4147-a01b-354d8b390f29",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Web-based Expense Reporting System for Financial Institutions",
+        "purge_id": "exp_sys_4"
+      },
+      {
+        "expenseSystemId": "88ce8678-44b9-4fcb-9760-74e51fac2631",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Expense Reporting System with AI Integration for Cost Optimization",
+        "purge_id": "exp_sys_5"
+      },
+      {
+        "expenseSystemId": "dfc5c7e2-5350-4e0b-901e-0b756615721b",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Automated Expense Reporting System with AI-powered data analysis",
+        "purge_id": "exp_sys_1"
+      },
+      {
+        "expenseSystemId": "1e6bf393-c398-44f0-bb74-9d00cb34a28d",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Cloud-based Expense Reporting System with real-time tracking",
+        "purge_id": "exp_sys_2"
+      },
+      {
+        "expenseSystemId": "89193f18-6874-4060-971b-f52823bc97dc",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Mobile Expense Reporting System with OCR technology",
+        "purge_id": "exp_sys_3"
+      },
+      {
+        "expenseSystemId": "30f894fd-f041-46d2-bfc2-638b3ab5c57a",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Web-based Expense Reporting System with customizable approval workflows",
+        "purge_id": "exp_sys_4"
+      },
+      {
+        "expenseSystemId": "3ad7e443-250a-4f49-9c07-8e367e51bc70",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Integrated Expense Reporting System with ERP integration",
+        "purge_id": "exp_sys_5"
+      }
+    ],
+    "SupplierCostNegotiations": [
+      {
+        "negotiationId": "512099c7-4402-4ec9-b1ab-845cd36cd380",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Negotiation for bulk purchase of raw materials for Q3 2022",
+        "purge_id": "negotiation_1"
+      },
+      {
+        "negotiationId": "9b3d8be6-cc15-4731-b0ec-a37a1095bf3d",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Negotiation for service contract renewal with IT vendor",
+        "purge_id": "negotiation_2"
+      },
+      {
+        "negotiationId": "0858429e-3a84-434a-8dd5-5fd22690b85b",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Negotiation for pricing adjustment with logistics provider",
+        "purge_id": "negotiation_3"
+      },
+      {
+        "negotiationId": "23828f6e-50a0-4101-9cac-57460964d2e4",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Negotiation for new contract terms with marketing agency",
+        "purge_id": "negotiation_4"
+      },
+      {
+        "negotiationId": "679aa2f8-3bfd-4b5b-a396-385b412414ca",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Negotiation for cost reduction strategies with software development partner",
+        "purge_id": "negotiation_5"
+      },
+      {
+        "negotiationId": "3340cdda-d379-4727-994f-6650ab50f266",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Negotiation for raw material prices with Supplier A",
+        "purge_id": "f6c8e3d1-5b2f-4d9a-aae0-5a7d4d6b3a1a"
+      },
+      {
+        "negotiationId": "262503f0-3c96-43d4-a06b-3c20c13f1018",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Contract negotiation for IT services with Supplier B",
+        "purge_id": "b3e6e7a2-1f8c-4d2d-80d1-5c7f8f3b2d1b"
+      },
+      {
+        "negotiationId": "9e4e74e4-384b-4914-a74b-8af1785081b3",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Price negotiation for packaging materials with Supplier C",
+        "purge_id": "a8c4e2b1-6d8f-4e9a-aae0-5a7d4d6b3a1c"
+      },
+      {
+        "negotiationId": "20be7ca6-367c-4af9-a018-d1368559debc",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Negotiation for transportation costs with Supplier D",
+        "purge_id": "f6c8e3d1-5b2f-4d9a-aae0-5a7d4d6b3a1d"
+      },
+      {
+        "negotiationId": "648f7543-a530-4c8d-917d-071bfb7d804d",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Contract negotiation for marketing services with Supplier E",
+        "purge_id": "b3e6e7a2-1f8c-4d2d-80d1-5c7f8f3b2d1e"
+      },
+      {
+        "negotiationId": "9a802f1b-8b0a-47c6-9a23-5dbf13b9f13d",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Negotiation for raw material costs for Q3 2022",
+        "purge_id": "negotiation_1"
+      },
+      {
+        "negotiationId": "b5eb7f96-076d-45a4-9a5e-c879fe1e71a3",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Negotiation for transportation costs for new distribution center",
+        "purge_id": "negotiation_2"
+      },
+      {
+        "negotiationId": "712e1992-fab9-495c-9f38-c5b9d99b532c",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Negotiation for IT services contract renewal",
+        "purge_id": "negotiation_3"
+      },
+      {
+        "negotiationId": "f8c54801-9682-4895-a389-9403aa3ad94f",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Negotiation for marketing campaign costs for new product launch",
+        "purge_id": "negotiation_4"
+      },
+      {
+        "negotiationId": "cbc94202-1d8f-4283-8ac7-b8875ec03676",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Negotiation for maintenance services for production facilities",
+        "purge_id": "negotiation_5"
+      },
+      {
+        "negotiationId": "d0d8ca18-55d6-4349-973a-8368c931eb56",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Negotiation for new supplier contract with increased pricing due to market demand",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "negotiationId": "06749c07-3b6e-40db-ba32-c9457f7ab489",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Renegotiation of terms with existing supplier to reduce costs",
+        "purge_id": "5e6f7d8c"
+      },
+      {
+        "negotiationId": "6b95460b-0bbf-4f4d-9de0-00b931778492",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Negotiation for bulk purchase discount with a new supplier",
+        "purge_id": "9a8b7c6d"
+      },
+      {
+        "negotiationId": "7476dd4e-dd7d-41af-9d3f-a1d1128eb146",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Negotiation for extended payment terms to improve cash flow",
+        "purge_id": "2b3c4d5e"
+      },
+      {
+        "negotiationId": "2a4a5dad-68dc-49a4-b03e-e0c4cafae602",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Negotiation for cost reduction on raw material procurement",
+        "purge_id": "6d7e8f9a"
+      }
+    ],
+    "CostBenefitAnalysis": [
+      {
+        "analysisId": "cb7187bb-305e-490e-b51f-2641667dd8f5",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "Cost benefit analysis for new marketing campaign",
+        "purge_id": "cb7187bb-305e-490e-b51f-2641667dd8f5"
+      },
+      {
+        "analysisId": "fdc9c813-0236-4cea-ae42-2444905225ee",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "Cost benefit analysis for upgrading IT infrastructure",
+        "purge_id": "fdc9c813-0236-4cea-ae42-2444905225ee"
+      },
+      {
+        "analysisId": "045f826e-8292-4552-9405-a05d1b9e5c91",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "Cost benefit analysis for implementing new software system",
+        "purge_id": "045f826e-8292-4552-9405-a05d1b9e5c91"
+      },
+      {
+        "analysisId": "328527f7-39f5-492a-b392-b76ca97567ca",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "Cost benefit analysis for expanding production capacity",
+        "purge_id": "328527f7-39f5-492a-b392-b76ca97567ca"
+      },
+      {
+        "analysisId": "6914f54d-74c8-405e-9212-9d061f79e62e",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "Cost benefit analysis for launching a new product line",
+        "purge_id": "6914f54d-74c8-405e-9212-9d061f79e62e"
+      },
+      {
+        "analysisId": "ed795689-6d23-4f72-8bed-75acb5a6271f",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "This is a cost benefit analysis for the new marketing campaign.",
+        "purge_id": "cb1b4d0f-2d0e-4c7f-b3a0-2f8e1f9e9a4d"
+      },
+      {
+        "analysisId": "49a358b6-265d-4a78-b342-27719ed2c821",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "This is a cost benefit analysis for implementing a new software system.",
+        "purge_id": "d8bc6d9b-1b7f-4d0e-8f1c-3d92c0f9e3c3"
+      },
+      {
+        "analysisId": "191cd553-b0a0-42ed-9798-f82b2565a47c",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "This is a cost benefit analysis for upgrading the company's infrastructure.",
+        "purge_id": "e9e4f1ab-1d3a-4e8c-9f0d-6c8b7c2d8f4d"
+      },
+      {
+        "analysisId": "c8ba4440-7301-47ea-b0fa-5804895078c6",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "This is a cost benefit analysis for expanding the sales team.",
+        "purge_id": "f7a9e2b7-1c6e-4a2d-8f9c-4e7d3d9f2b1d"
+      },
+      {
+        "analysisId": "5cea556c-c5ac-4331-b697-b214b34acc1f",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "This is a cost benefit analysis for investing in employee training programs.",
+        "purge_id": "d6c9f0a9-1b3f-4d2e-8f1c-3d9e0f8e3c3d"
+      },
+      {
+        "analysisId": "82ad0e1c-a43b-4314-9320-0502020b9be3",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "This cost benefit analysis is related to the budgeting process for the upcoming fiscal year. It includes a detailed breakdown of projected costs and potential benefits from implementing new cost-saving measures.",
+        "purge_id": "cbaf9b36-9b0b-4c7d-af7e-2b1d8a1d3b1c"
+      },
+      {
+        "analysisId": "ce5103c2-3ec1-499d-be54-81be29896bd5",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "This cost benefit analysis is associated with a revenue management strategy aimed at increasing profitability through targeted marketing campaigns. It outlines the expected costs and revenue gains from the proposed initiatives.",
+        "purge_id": "d1c1f8e4-7d1e-4f5e-8c80-af6c3e1d1d3e"
+      },
+      {
+        "analysisId": "7ee7fa6e-7e50-4af8-a2c0-1c379b24d6e2",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "This cost benefit analysis pertains to cost management practices for optimizing operational expenses. It includes a comparison of current costs with potential savings through process improvements.",
+        "purge_id": "f6a3e8b0-7c1e-4d5e-9c80-bf6c3e1f1d3e"
+      },
+      {
+        "analysisId": "5d2f048f-eb58-454c-9fd5-c955f371d216",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "This cost benefit analysis focuses on financial reporting processes to enhance transparency and accuracy in financial data presentation. It outlines the costs associated with implementing new reporting tools and the expected benefits in terms of efficiency and compliance.",
+        "purge_id": "a2c6f9d2-8d0f-4e6d-bf8e-1c2d9b2c3d4f"
+      },
+      {
+        "analysisId": "69ae0cd0-ee41-4247-99b0-f29ecc9a4435",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "This cost benefit analysis is linked to financial management strategies for improving cash flow and liquidity. It includes a detailed breakdown of costs associated with liquidity management tools and the projected increase in cash reserves.",
+        "purge_id": "b1d9e8c3-9a0b-4d7e-af7c-2b1e8a1d3b4c"
+      },
+      {
+        "analysisId": "1a6852a4-3839-4aba-8c7c-a871adcf4965",
+        "costManagementId": "27618a25-01ff-4f61-ac7c-a73fcde6e0a6",
+        "extraField": "This cost benefit analysis is for a new software implementation project. It includes the cost of software development, training, and potential cost savings from improved efficiency.",
+        "purge_id": "cb1a2b3c-4d5e-6f7g-8h9i"
+      },
+      {
+        "analysisId": "62350909-3041-4133-a60e-31d601dee5ea",
+        "costManagementId": "cbcbb50f-2b2a-4531-b4be-02ece4df1f92",
+        "extraField": "This cost benefit analysis is for upgrading the company's IT infrastructure. It includes the cost of hardware, software licenses, and estimated reduction in maintenance costs.",
+        "purge_id": "da1b2c3d-4e5f-6g7h-8i9j"
+      },
+      {
+        "analysisId": "d5bb9d13-4677-497f-9db8-d059f0f78807",
+        "costManagementId": "e6f7562a-5e12-4dd1-aa31-6ff0019171c0",
+        "extraField": "This cost benefit analysis is for implementing a new marketing campaign. It includes the cost of advertising, promotions, and projected increase in sales revenue.",
+        "purge_id": "ea1b2c3d-4e5f-6f7g-8h9i"
+      },
+      {
+        "analysisId": "0c042173-475a-4e95-98a3-466e7dd3833c",
+        "costManagementId": "966f878e-babf-41c2-a487-b7f62e4195b4",
+        "extraField": "This cost benefit analysis is for introducing a new product line. It includes the cost of product development, marketing, and expected revenue from sales.",
+        "purge_id": "fa1b2c3d-4e5f-6f7g-8h9i"
+      },
+      {
+        "analysisId": "e3a8269e-ade7-49d4-850c-1076db783617",
+        "costManagementId": "1c6aeb54-b20c-4ee8-8d7f-bcef2ca99478",
+        "extraField": "This cost benefit analysis is for implementing a cost-saving initiative. It includes the cost reduction measures, implementation costs, and estimated savings over a specified period.",
+        "purge_id": "ga1b2c3d-4e5f-6f7g-8h9i"
+      }
+    ],
+    "MonthlyFinancialStatements": [
+      {
+        "statementId": "da7f1912-0150-4ec4-b5c4-97349aa4b8cd",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "Monthly financial statement for January 2022",
+        "purge_id": "da7f1912-0150-4ec4-b5c4-97349aa4b8cd-1"
+      },
+      {
+        "statementId": "89ac1486-053f-4387-9661-a163ef070bbc",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Monthly financial statement for February 2022",
+        "purge_id": "89ac1486-053f-4387-9661-a163ef070bbc-1"
+      },
+      {
+        "statementId": "cba1a2b5-34fd-40f4-ac14-0911450117d8",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Monthly financial statement for March 2022",
+        "purge_id": "cba1a2b5-34fd-40f4-ac14-0911450117d8-1"
+      },
+      {
+        "statementId": "04a377f3-f107-4609-a172-6feef557d606",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Monthly financial statement for April 2022",
+        "purge_id": "04a377f3-f107-4609-a172-6feef557d606-1"
+      },
+      {
+        "statementId": "7eed2c6e-8cce-4de4-b7a0-91b942acfc84",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Monthly financial statement for May 2022",
+        "purge_id": "7eed2c6e-8cce-4de4-b7a0-91b942acfc84-1"
+      },
+      {
+        "statementId": "e7b566f7-fe66-442c-87f9-eb4a443ab734",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "Monthly Financial Statement for January 2022",
+        "purge_id": "e7b566f7-fe66-442c-87f9-eb4a443ab734-132a922a-4cd3-403c-9378-a24793b3758e"
+      },
+      {
+        "statementId": "f16a8aca-d91f-4de4-8e4e-cbdd8562672f",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Monthly Financial Statement for February 2022",
+        "purge_id": "f16a8aca-d91f-4de4-8e4e-cbdd8562672f-a9d337cb-29d2-4572-ad3a-41cd0ef74404"
+      },
+      {
+        "statementId": "6f91f3dd-6ca1-4db1-bf3e-762b277b8009",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Monthly Financial Statement for March 2022",
+        "purge_id": "6f91f3dd-6ca1-4db1-bf3e-762b277b8009-e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5"
+      },
+      {
+        "statementId": "f046dcb9-07ed-40b5-a59e-2e40538e73c9",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Monthly Financial Statement for April 2022",
+        "purge_id": "f046dcb9-07ed-40b5-a59e-2e40538e73c9-2bcc4618-8aaa-41fb-9074-b557e7e12f9a"
+      },
+      {
+        "statementId": "15e43868-81bc-499d-b02e-b8a27d071163",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Monthly Financial Statement for May 2022",
+        "purge_id": "15e43868-81bc-499d-b02e-b8a27d071163-4dcb45d0-4074-4e85-a869-5fedbc3cfcd1"
+      },
+      {
+        "statementId": "7c00ee2f-cf24-4f56-bd4d-c3a11175591a",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "Monthly financial statement for January 2022",
+        "purge_id": "abc123"
+      },
+      {
+        "statementId": "46aeaf2e-e592-44ee-a385-c418e32fe2ed",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Monthly financial statement for February 2022",
+        "purge_id": "def456"
+      },
+      {
+        "statementId": "4add620c-96c2-46d1-b414-090a1cbb255e",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Monthly financial statement for March 2022",
+        "purge_id": "ghi789"
+      },
+      {
+        "statementId": "6328ffc9-442d-46a7-9493-9057ffe3c16f",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Monthly financial statement for April 2022",
+        "purge_id": "jkl012"
+      },
+      {
+        "statementId": "7a0be5c2-77eb-46f8-a389-30cfb8e38ebd",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Monthly financial statement for May 2022",
+        "purge_id": "mno345"
+      },
+      {
+        "statementId": "0a6ee498-14dc-4102-a74e-f16817e5ee28",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "Monthly financial statement for Company A",
+        "purge_id": "1a2b3c4d"
+      },
+      {
+        "statementId": "0586e1a8-97cd-41af-9c7e-9a76b4303a64",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Monthly financial statement for Company B",
+        "purge_id": "5e6f7g8h"
+      },
+      {
+        "statementId": "b0640f4a-4629-4b11-a054-3438fa5c255c",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Monthly financial statement for Company C",
+        "purge_id": "9i8j7k6l"
+      },
+      {
+        "statementId": "ea803441-6883-492c-b3b3-4cb3771bba80",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Monthly financial statement for Company D",
+        "purge_id": "m5n4o3p2"
+      },
+      {
+        "statementId": "1a77925b-affa-4a38-ad33-a0cd8f40bd9c",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Monthly financial statement for Company E",
+        "purge_id": "q1r2s3t4"
+      }
+    ],
+    "AuditAndComplianceReports": [
+      {
+        "auditReportId": "87844c25-a83d-4890-b5e9-754fbdfc6095",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "This audit report provides a detailed analysis of the financial management system's compliance with regulatory standards and internal controls. It includes findings on budgeting processes, revenue management, cost management, and financial reporting practices. The report highlights areas of improvement and recommendations for enhancing financial transparency and accountability within the organization.",
+        "purge_id": "f3f4e5d6-8a9b-4c7d-b2e1-1a0c1b2d3e4f"
+      },
+      {
+        "auditReportId": "a4acf27c-2dbe-4326-8343-aa058803c7a5",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "This audit report focuses on the budgeting processes within the financial management system. It evaluates the effectiveness of budget planning, allocation, and monitoring. The report identifies areas of inefficiency and suggests strategies for optimizing budget utilization and achieving financial goals.",
+        "purge_id": "g5h6i7j8-k9l0-m1n2-o3p4-q5r6s7t8u9"
+      },
+      {
+        "auditReportId": "9dfde866-e31a-4eef-97a1-ef9f734dfad5",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "This audit report examines the revenue management practices of the financial management system. It assesses the accuracy of revenue forecasting, collection processes, and compliance with revenue recognition standards. The report offers insights into enhancing revenue generation and ensuring financial sustainability.",
+        "purge_id": "v0w1x2y3-z4a5-b6c7-d8e9-f0g1"
+      },
+      {
+        "auditReportId": "a01eb7e2-983f-4d7e-a7a9-f8748b52bcf9",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "This audit report delves into the cost management strategies implemented within the financial management system. It evaluates cost control measures, cost allocation methods, and cost reduction initiatives. The report provides recommendations for optimizing cost efficiency and improving overall financial performance.",
+        "purge_id": "h2i3j4k5-l6m7-n8o9-p0q1-r2s3"
+      },
+      {
+        "auditReportId": "c7d1beb8-84fa-41b4-8cc7-17618a24da9b",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "This audit report focuses on the financial reporting practices of the financial management system. It evaluates the accuracy, timeliness, and completeness of financial reports. The report highlights areas for enhancement in financial data analysis, disclosure, and presentation to stakeholders. Recommendations are provided for improving transparency and credibility in financial reporting.",
+        "purge_id": "t4u5v6w7-x8y9-z0a1-b2c3-d4e5"
+      },
+      {
+        "auditReportId": "2bb3b732-2b07-48aa-904d-6516c513db2a",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "This audit report provides an analysis of the financial management system's compliance with regulatory standards and internal policies.",
+        "purge_id": "f8f6f2a1-9f3d-4b85-9c14-13c5b0f2e7d0"
+      },
+      {
+        "auditReportId": "92c470aa-9896-4719-815e-a27ca8b29fa7",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Detailed audit findings on the budgeting processes and recommendations for improvement.",
+        "purge_id": "b9e7a7c2-1b3e-4bdc-9c5f-1d6f8d5b0a5e"
+      },
+      {
+        "auditReportId": "a7398b30-ca07-4221-88ac-5298a1250d4b",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Assessment of revenue management practices and identification of potential risks.",
+        "purge_id": "c8d7c3a2-8e4d-4c9b-8a1f-0e6d7c5b9f4c"
+      },
+      {
+        "auditReportId": "fe3f6cd0-ebd9-4a36-8602-8ffaf987285e",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Evaluation of cost management strategies and cost-saving opportunities.",
+        "purge_id": "d7e6b1a2-3f8d-4e8c-9b5d-1f6e8d5c0a5e"
+      },
+      {
+        "auditReportId": "24f2e9ba-f8a4-482e-8cf5-54541d292d3d",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Review of financial reporting processes to ensure accuracy and transparency in financial statements.",
+        "purge_id": "e6d5c1b3-2a8d-4c9f-9d5e-5a6f8d0c1e5a"
+      },
+      {
+        "auditReportId": "6c7ff3cf-e445-4f01-8785-0c682e8e01a2",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "This audit report focuses on the financial management processes of the organization. It includes an in-depth analysis of the BudgetingProcesses, RevenueManagement, CostManagement, and FinancialReporting activities.",
+        "purge_id": "f5a2c1e8-4e91-4b8b-9e0d-3c6e7c9b5e2b"
+      },
+      {
+        "auditReportId": "b08182e9-dbe8-4b37-853e-d95f2e3b0d79",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "This audit report evaluates the effectiveness of internal controls within the financial management system. It assesses the compliance with regulatory requirements and identifies areas for improvement.",
+        "purge_id": "e9b8d0c7-1c09-4d61-bb6b-4e4e2e1d7f32"
+      },
+      {
+        "auditReportId": "dd6b0b48-b1a1-4a5e-9fb4-87a49cce429b",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "This audit report focuses on the financial reporting processes of the organization. It examines the accuracy and completeness of financial statements and disclosures.",
+        "purge_id": "c3f4e5d6-2b8a-4c91-9e7d-5d6f7a8c4b3a"
+      },
+      {
+        "auditReportId": "2dbd3a25-86b4-47f1-971a-fe7758a948aa",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "This audit report assesses the risk management practices within the financial management system. It identifies potential risks and evaluates the adequacy of risk mitigation strategies.",
+        "purge_id": "a1b2c3d4-5e6f-4a8b-9c7d-2e1f3a4b5c6d"
+      },
+      {
+        "auditReportId": "abf9fdd9-a8f6-42ee-a28b-b8758a9c0f14",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "This audit report focuses on the budgeting processes of the organization. It reviews the budget planning, allocation, and monitoring activities to ensure alignment with organizational goals.",
+        "purge_id": "b9a8c7d6-4e5f-2b1a-3c9d-5e6f7a8b4c"
+      },
+      {
+        "auditReportId": "41286a84-285c-4ba5-b2fd-4974cc04e49b",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "Financial audit report for Q1 2022",
+        "purge_id": "f6e0f1c3-2b37-4cbe-93a4-1d5e3c2c1e7a"
+      },
+      {
+        "auditReportId": "4d337f9d-84d6-40f7-9af1-074e6d917721",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Compliance report for Budgeting Processes",
+        "purge_id": "a0f1e2b4-3c7e-4d9a-1e2c-3c1e7a2b4f6e"
+      },
+      {
+        "auditReportId": "9b739405-6020-42cf-8b70-afd4b26b9684",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Revenue Management Audit Report",
+        "purge_id": "1e2c3b4a-7e3c-9a1d-2c3e1a4b6f0e"
+      },
+      {
+        "auditReportId": "e54bd6f9-0aad-4b45-afb6-e20aa9a6db01",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Cost Management Compliance Report",
+        "purge_id": "2c3b4a6e-3c7e-9a1d-2c3e1a4b6f0e"
+      },
+      {
+        "auditReportId": "0e3e9974-1506-42b3-9afb-99e652dc67e0",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Financial Reporting Audit Report for FY 2021",
+        "purge_id": "3b4a6e2c-7e3c-9a1d-2c3e1a4b6f0e"
+      }
+    ],
+    "InvestorRelationsReports": [
+      {
+        "investorReportId": "cf514661-4fad-428c-b1ae-afaa629657fa",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "Quarterly Earnings Report for Q3 2021",
+        "purge_id": "1234567890"
+      },
+      {
+        "investorReportId": "e923229e-dcce-4359-872f-55626203b873",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Annual Shareholder Meeting Presentation",
+        "purge_id": "0987654321"
+      },
+      {
+        "investorReportId": "bb9eba59-4d31-4e74-bdc7-f71c3c27d95c",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Investor Relations Newsletter - January 2022",
+        "purge_id": "1357924680"
+      },
+      {
+        "investorReportId": "15974cad-81f5-49c6-8920-cc19da638e60",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Earnings Call Transcript for Q4 2021",
+        "purge_id": "2468135790"
+      },
+      {
+        "investorReportId": "37865f12-563b-45b1-a581-a54936d42371",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Investor Presentation Deck - Growth Strategy 2022",
+        "purge_id": "9876543210"
+      },
+      {
+        "investorReportId": "a4bfa25e-313a-4bfe-b3e7-94969cf819d6",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "Quarterly Earnings Report for Q3 2021",
+        "purge_id": "f5d8e2a2-0fcd-4d9a-8e64-3f6b4f1d9c4d"
+      },
+      {
+        "investorReportId": "5a88d0fc-4c9b-4f65-8b1d-19d49021c1eb",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Annual Shareholder Meeting Presentation",
+        "purge_id": "b1b7f6b5-8f7b-4b4b-8a2c-1e3b5d9c7d2d"
+      },
+      {
+        "investorReportId": "29150ef7-21be-42a0-8a3d-5a5bda813a6e",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Investor Relations Newsletter - December 2021",
+        "purge_id": "c9e8a1f4-6e85-4dc0-9d7f-9c7e4d5a2b4c"
+      },
+      {
+        "investorReportId": "f1b7cb54-7bc7-4e90-864e-bd52f4db9fb7",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Quarterly Financial Performance Analysis",
+        "purge_id": "f2d6c9a1-2e8f-4b7b-9d4c-5e1a2b3c4d6e"
+      },
+      {
+        "investorReportId": "1ed23334-ec90-41ce-9a4b-5677b574852e",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Investor Relations Webinar Recording - Financial Forecasting Strategies",
+        "purge_id": "a4b3c2d1-8e7f-4b6a-9c5d-2e1f4a3b6c7d"
+      },
+      {
+        "investorReportId": "cca2b2cc-7df0-4dba-91a8-ba8def21b58f",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "Quarterly Earnings Report for Q1 2022",
+        "purge_id": "e7a6c9c5-8f5d-4c4d-8e5a-3ed8c5d3d0a2"
+      },
+      {
+        "investorReportId": "9857dd1a-8988-4104-b458-bfadd175485d",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Annual Shareholder Meeting Presentation",
+        "purge_id": "f1d4c6a0-3a7d-4d4a-8c63-6d7f8f7e3b6d"
+      },
+      {
+        "investorReportId": "40d586a1-4312-49c1-a4ca-a993ddf98b78",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Investor Relations Newsletter - March 2022",
+        "purge_id": "d2d4a2b9-3c8e-4e5d-8a9f-6c3a7c4d5e8f"
+      },
+      {
+        "investorReportId": "84d63f2d-0210-4024-9121-f89c5ab66fa0",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Quarterly Financial Performance Analysis",
+        "purge_id": "b0b5c2a1-3b7d-4e4a-8d6c-7f8e7f6e3b5c"
+      },
+      {
+        "investorReportId": "ca7c31c1-4081-4527-ab32-ce0a25c286f9",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Investor Relations Webinar - Trends in ESG Investing",
+        "purge_id": "a1a2c3b4-4d8e-4c5d-8a9f-6c3a7c4d5e8f"
+      },
+      {
+        "investorReportId": "96a36196-e188-4fd8-9386-38086fa1f5fa",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "Quarterly Earnings Report for Q3 2021",
+        "purge_id": "9b5f3b1e-8f3d-4e7d-8b7c-5e4c5a3f2e9a"
+      },
+      {
+        "investorReportId": "60d6e733-b540-4c27-ba13-fb347297b4ef",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Annual Shareholder Meeting Presentation",
+        "purge_id": "6c8e4e0c-8b1b-4b8e-8e64-2e438a00d7e2"
+      },
+      {
+        "investorReportId": "1ca98472-d8d9-422b-848d-0fba5a547c24",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Investor Relations Quarterly Newsletter",
+        "purge_id": "3f7b3d44-3b49-4c7f-a5c8-4e3b2b8b8b8b"
+      },
+      {
+        "investorReportId": "034edb93-b48c-4b7d-b3d6-ed0b4fc321c4",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Financial Performance Analysis for Q3 2021",
+        "purge_id": "2b1e5e2c-1e3e-4d7f-9a8c-7e2c4e1a3e5e"
+      },
+      {
+        "investorReportId": "659b7e67-d502-4c96-b19a-bee4d244679b",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Investor Relations Webinar Recording",
+        "purge_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6"
+      }
+    ],
+    "TaxComplianceReports": [
+      {
+        "taxReportId": "00effa1f-20c5-43b8-8d4d-bc16190492da",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "Quarterly tax compliance report for Q1 2022",
+        "purge_id": "7f86c5e8-282a-4f41-ae42-df0d896143ac"
+      },
+      {
+        "taxReportId": "af876a72-894f-429e-b424-ff96892cf8df",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Annual tax compliance report for fiscal year 2021",
+        "purge_id": "b5a25bfa-b1de-4282-9027-16af8b87d73b"
+      },
+      {
+        "taxReportId": "945982d5-c5dc-41d0-8a2b-66c5bd3bb9d3",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Monthly tax compliance report for March 2022",
+        "purge_id": "946536ce-ac3a-45de-a1e9-a4709f932d81"
+      },
+      {
+        "taxReportId": "bf8526b4-800d-42fe-9550-701022455413",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Quarterly tax compliance report for Q2 2022",
+        "purge_id": "f5da39a7-5caa-4d91-8256-f0e9557eacb8"
+      },
+      {
+        "taxReportId": "515d62a8-1aaa-4033-a393-8e22b7e243a4",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Annual tax compliance report for fiscal year 2022",
+        "purge_id": "2e1c56c7-21a3-4dbb-b11d-3e344de20d3d"
+      },
+      {
+        "taxReportId": "e080dc36-0f39-4bf4-b3a7-42c4253ad39b",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "This tax compliance report includes details of all tax filings for the fiscal year 2021.",
+        "purge_id": "a1b2c3d4"
+      },
+      {
+        "taxReportId": "8ba5d47c-3a66-4e74-9193-2224c8d3a1bb",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "This report contains a summary of all tax audits conducted by the tax authorities.",
+        "purge_id": "b3c4d5e6"
+      },
+      {
+        "taxReportId": "cfe73b8a-69b5-496e-823e-322d92fed7f8",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Detailed breakdown of tax exemptions applied during the fiscal year 2021.",
+        "purge_id": "c5d6e7f8"
+      },
+      {
+        "taxReportId": "ab01aa67-aaed-4f06-be4c-834410ed6efc",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Analysis of tax credits utilized for reducing tax liabilities.",
+        "purge_id": "d7e8f9a1"
+      },
+      {
+        "taxReportId": "e356db89-a295-4224-8079-43019ae9c731",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Comparison of tax payments made with the tax obligations for the year.",
+        "purge_id": "e9a1b2c3"
+      },
+      {
+        "taxReportId": "b4708fe6-4121-483b-b936-b36f93510264",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "This tax compliance report is for the fiscal year 2021-2022. It includes detailed information on income tax, sales tax, and property tax filings for the company ABC Inc.",
+        "purge_id": "1234567890"
+      },
+      {
+        "taxReportId": "e99cd314-8668-4fa7-917d-610922522bb9",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "This tax compliance report covers the quarterly tax payments made by XYZ Corporation. It includes details of VAT, excise duty, and customs duty payments.",
+        "purge_id": "0987654321"
+      },
+      {
+        "taxReportId": "de04f7d6-d352-4cf3-b559-a836b8399529",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "The tax compliance report for DEF Ltd. includes information on tax deductions, tax credits, and tax refunds for the financial year 2021.",
+        "purge_id": "5432109876"
+      },
+      {
+        "taxReportId": "266a80ca-81f2-4e9d-9365-3a72a5271819",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "This tax compliance report provides a summary of all tax-related activities for GHI Corporation, including tax audits, penalties, and compliance measures taken.",
+        "purge_id": "1357924680"
+      },
+      {
+        "taxReportId": "17a45b5b-85ab-4c88-888d-6042438da97e",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "The tax compliance report for JKL Enterprises includes details of tax assessments, tax liabilities, and tax planning strategies implemented during the reporting period.",
+        "purge_id": "9876543210"
+      },
+      {
+        "taxReportId": "a6a215ba-4648-4979-ba92-b9ef018f4dfc",
+        "reportingId": "132a922a-4cd3-403c-9378-a24793b3758e",
+        "extraField": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod justo in risus lacinia, non efficitur nibh consectetur.",
+        "purge_id": "f4e7b045-2c60-4f3d-9d4e-4f1b0a2c2d7a"
+      },
+      {
+        "taxReportId": "07071f92-2605-4ca7-89ed-ec710bfa7b68",
+        "reportingId": "a9d337cb-29d2-4572-ad3a-41cd0ef74404",
+        "extraField": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed auctor ligula non turpis ultricies, nec tincidunt nisi varius.",
+        "purge_id": "c0d4f8b3-0b4d-4d1d-9d1b-38c9b4c5c6b2"
+      },
+      {
+        "taxReportId": "277712a6-5918-4c1e-afb2-8abd44098022",
+        "reportingId": "e86cffd0-6b42-4271-a1bb-eb0c84e9e8f5",
+        "extraField": "Fusce sed nisi ac massa efficitur luctus. Proin eget eros in ipsum fringilla ultricies.",
+        "purge_id": "e2a5f4ef-1f4c-4cf4-af3c-0b2a8dcd4f6e"
+      },
+      {
+        "taxReportId": "9e4d79ff-d8b4-4e5e-8549-b14b2d3879af",
+        "reportingId": "2bcc4618-8aaa-41fb-9074-b557e7e12f9a",
+        "extraField": "Maecenas auctor neque nec ipsum ultricies, id luctus velit consectetur.",
+        "purge_id": "2d8c9b4e-8d82-4f8e-9b2b-7f1b3d2c7e4c"
+      },
+      {
+        "taxReportId": "6c795029-0182-4c16-8345-9356dfdf2a67",
+        "reportingId": "4dcb45d0-4074-4e85-a869-5fedbc3cfcd1",
+        "extraField": "Vestibulum vitae urna sit amet libero ullamcorper sollicitudin. Nullam non metus id tortor vehicula faucibus.",
+        "purge_id": "a7c9e3d4-7f3a-4c9e-9a2b-8e1b6d3c2e4a"
+      }
+    ]
+  }
+}

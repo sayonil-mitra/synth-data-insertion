@@ -1,0 +1,3206 @@
+{
+  "data": {
+    "QualityAssurance": [
+      {
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Implemented ISO 9001 quality management system to ensure consistent product quality and customer satisfaction.",
+        "startDate": "2021-03-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Established regular internal audits to monitor compliance with industry regulations and company quality standards.",
+        "startDate": "2020-09-28",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Implemented Six Sigma methodology to reduce defects and improve process efficiency.",
+        "startDate": "2020-11-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Conducted regular customer feedback surveys to gather insights for continuous quality improvement.",
+        "startDate": "2021-01-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Implemented a comprehensive training program for employees to enhance their skills and knowledge in quality management.",
+        "startDate": "2020-05-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "dcc347cd-9486-4344-beb3-73530569c588",
+        "description": "Implemented a comprehensive quality assurance process focused on continuous improvement and adherence to industry standards.",
+        "startDate": "2022-03-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "a844a864-eaed-480b-bba1-f7626fad14fc",
+        "description": "Established quality assurance procedures to ensure the consistency and reliability of products and services.",
+        "startDate": "2022-02-28",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "054886e1-4cc2-44cf-a130-6e45466b416e",
+        "description": "Implemented a rigorous quality assurance framework to meet regulatory requirements and exceed customer expectations.",
+        "startDate": "2022-03-01",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "14e4cb95-de74-417f-aa51-9699c58fd1fe",
+        "description": "Developed and implemented quality assurance processes to optimize operational efficiency and ensure product quality.",
+        "startDate": "2022-03-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "8b36f3a0-76b5-487b-8f47-5f332129fb3a",
+        "description": "Established a robust quality assurance system to monitor and improve service delivery and customer satisfaction.",
+        "startDate": "2022-02-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "222f6d07-a195-4da0-b87c-9bbd66f765bc",
+        "description": "Implementing ISO 9001 standards for quality management system",
+        "startDate": "2022-01-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "f8649b60-2b2f-4323-a4af-bbbfe4831f0c",
+        "description": "Conducting regular internal audits to ensure compliance with quality standards",
+        "startDate": "2022-02-28",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "d10c35e0-1792-4a4a-a613-0699f71aa1a6",
+        "description": "Implementing Six Sigma methodology for process improvement",
+        "startDate": "2022-03-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "4602a2cf-26db-44b6-be42-a65e07e54e6d",
+        "description": "Establishing customer feedback mechanisms for continuous improvement",
+        "startDate": "2022-04-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "85d8576c-6864-41f2-979d-df679b974d46",
+        "description": "Providing regular training and development programs for quality assurance team",
+        "startDate": "2022-05-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "175b6603-4e7c-41d9-aa91-1b349be55141",
+        "description": "Implemented ISO 9001 quality management system to ensure consistent quality in product manufacturing.",
+        "startDate": "2021-03-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "60a05602-a62e-4584-9193-1efea9fb54d5",
+        "description": "Established a Six Sigma quality assurance program to reduce defects and improve process efficiency.",
+        "startDate": "2020-09-28",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "ce2aac4e-e51f-451a-9bb9-3b276076046a",
+        "description": "Implemented Total Quality Management (TQM) principles to enhance customer satisfaction and product quality.",
+        "startDate": "2019-11-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "f1420222-7a9f-438b-82cc-b155766fd609",
+        "description": "Introduced Lean Manufacturing practices to streamline production processes and eliminate waste.",
+        "startDate": "2020-05-02",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityAssuranceId": "c000b585-94b6-4332-8833-a05088442ec9",
+        "description": "Implemented Statistical Process Control (SPC) techniques to monitor and improve production quality.",
+        "startDate": "2021-08-19",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "QualityStandards": [
+      {
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Conduct regular audits to ensure compliance with quality standards.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Implement feedback mechanisms to gather input from customers and stakeholders.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Provide training and development programs for staff to enhance quality practices.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Regularly review and update quality assurance processes based on industry best practices.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Establish key performance indicators (KPIs) to measure the effectiveness of quality assurance efforts.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "6d19ad61-b451-4830-9119-117bc788f424",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Implement regular quality checks on production line equipment to ensure optimal performance and safety standards are met.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "2c436fac-9878-43cf-bfd1-b456659b7bf4",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Conduct thorough inspections of raw materials to guarantee they meet quality specifications before production.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "d1f17b3f-a1c2-465c-a1bf-1341a28f7b2a",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Implement regular training programs for employees to enhance their skills and knowledge.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "9ca9d106-6020-4e24-922d-1ef7067f15b4",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Establish feedback mechanisms to collect input from customers and improve product quality based on their suggestions.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "4e96fe43-07d8-4a97-a623-7224fa8953c7",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Implement auditing processes to ensure compliance with industry standards and regulations.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "040c2eec-9b6e-4114-a555-e511090df911",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Conduct regular audits to ensure compliance with quality standards.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "65337843-c29f-4f8d-adce-b606786c014a",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Implement feedback mechanisms for continuous improvement.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "13f60b10-9421-4e44-914f-61cf1fee15d8",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Provide training and development programs for staff.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "228898c0-535e-4013-a1d6-39317a76d575",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Maintain documentation of quality assurance processes.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "03bfc3c7-cea6-426d-90b6-948bca9f1fff",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Conduct regular training needs assessments.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "9e189fba-0377-47b2-8677-f13ffad71a61",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Ensure that all software products meet the specified performance requirements before release.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "780a5217-89c7-49cd-8a53-9447bed4dd9b",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Conduct regular security audits to identify and mitigate potential vulnerabilities in the system.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "24d13ca4-3111-4035-b737-ae69857ca95a",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Implement automated testing processes to ensure code reliability and reduce manual errors.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "ad2d66c1-9d88-4e51-b1b8-6c5594d09f82",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Regularly update and maintain documentation to reflect the latest changes and features of the software products.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "qualityStandardId": "8512d3ad-b9e9-4450-80ae-088de76cce31",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Conduct user acceptance testing to ensure that the software meets the user requirements and expectations.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "AuditingProcesses": [
+      {
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Quarterly audit of customer service quality assurance process",
+        "frequency": "Quarterly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Annual audit of product quality assurance process",
+        "frequency": "Annual",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Monthly audit of compliance quality assurance process",
+        "frequency": "Monthly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Bi-annual audit of safety quality assurance process",
+        "frequency": "Bi-annual",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Quarterly audit of training quality assurance process",
+        "frequency": "Quarterly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "ec19ef32-dded-4454-b3bd-0204f011ccf8",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Quarterly audit of customer service interactions to ensure compliance with quality standards and customer satisfaction.",
+        "frequency": "Quarterly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "280c46e7-dee3-4543-b555-9ec69196f31d",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Annual audit of manufacturing processes to identify areas for improvement and ensure product quality.",
+        "frequency": "Annually",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "0d229a65-6aae-4c88-b4fc-47c6e747505c",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Bi-annual audit of financial transactions to detect fraud and ensure financial integrity.",
+        "frequency": "Bi-annually",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "fe64efc8-5723-44a4-be7d-1aec233298b3",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Monthly audit of software development processes to maintain code quality and adherence to coding standards.",
+        "frequency": "Monthly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "ea3b0365-3d4b-4a32-b417-6abbb2546b66",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Quarterly audit of employee training programs to assess effectiveness and compliance with training standards.",
+        "frequency": "Quarterly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "3f6bbd7e-0c42-4e87-acaf-e87bb96f5a56",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Quarterly audit of customer service quality assurance processes",
+        "frequency": "Quarterly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "1f509b99-5a66-4925-85b7-c793d6fcb75b",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Annual audit of product quality assurance processes",
+        "frequency": "Annually",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "74fdb93f-2a0e-4134-8dd4-36dd074f4fca",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Bi-annual audit of manufacturing quality assurance processes",
+        "frequency": "Bi-annually",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "3d9ae80e-5c73-435a-9fc1-c35b9731e886",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Monthly audit of software development quality assurance processes",
+        "frequency": "Monthly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "fc8490d8-bbcb-4c1e-ae3a-1110f3320366",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Annual audit of compliance quality assurance processes",
+        "frequency": "Annually",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "aad859dd-4165-409c-a5ce-333946165647",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Quarterly audit of customer service interactions to ensure compliance with quality standards and regulations.",
+        "frequency": "Quarterly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "d7ecb551-40bd-4841-9a23-41aa4e5aa92f",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Annual audit of manufacturing processes to identify areas for improvement and ensure product quality.",
+        "frequency": "Annual",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "f125aae4-b454-4dcd-856f-f1a64e9e531d",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Monthly audit of financial transactions to detect fraud and ensure financial accuracy.",
+        "frequency": "Monthly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "f0e89541-c8e8-4ec0-8bdc-90c6d32ae1f7",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Bi-annual audit of IT systems to assess cybersecurity measures and data protection protocols.",
+        "frequency": "Bi-annual",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditingProcessId": "fcfb14c3-ef15-4f37-9195-b82f350bfe29",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Quarterly audit of employee training programs to ensure compliance with industry standards and skill development needs.",
+        "frequency": "Quarterly",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "FeedbackMechanisms": [
+      {
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Customer feedback surveys conducted quarterly to gather insights on service quality and user satisfaction levels.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Mystery shopping program implemented monthly to evaluate customer service interactions and adherence to company standards.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Online feedback form integrated on the company website for real-time feedback on product quality and website usability.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Regular focus group sessions with customers to discuss new product features and gather feedback on user experience.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Annual customer satisfaction survey conducted via email to assess overall satisfaction levels and identify areas for improvement.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "772242dc-bf6b-4d65-a9bb-aa583488bcd1",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Monthly surveys conducted with stakeholders to gather feedback on quality assurance processes.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "20a8d1e0-1660-452a-a3db-5b37d8034bc6",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Regular focus group discussions with employees to evaluate training and development programs.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "0d20fa70-9553-45e7-ad90-90cf707a7724",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Annual external audits to assess compliance with quality standards.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "79bf3773-a12c-4c6c-a359-32d157f1679d",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Quarterly feedback sessions with customers to improve service quality.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "07079bc7-068d-4f06-87c6-defe66c220e2",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Bi-annual performance reviews to monitor adherence to quality standards.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "170a055a-4677-45b8-b7b4-0bb1d3121bf1",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Conducting surveys to gather feedback from customers about the quality of service provided.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "f76393fc-3f60-45e7-b6e1-0fbabdb3a5a3",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Regularly monitoring and analyzing customer complaints and suggestions to improve service quality.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "9c99d382-b8ed-4b10-b271-5c65b2a7264e",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Implementing suggestion boxes in the workplace to collect anonymous feedback from employees regarding work environment and processes.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "b7f0cdc9-f045-48ea-a97d-0a7505ef7a54",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Conducting regular focus group discussions with customers to gather detailed feedback on product features and usability.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "0ea9160a-0d53-45ba-9ccb-2e78323047c9",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Utilizing online surveys and questionnaires to collect feedback from employees on training programs and professional development opportunities.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "53cefcb7-f0be-46d6-a433-54acc24ac110",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Conducting surveys to gather feedback from customers about the quality of services provided.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "83f2c318-552b-4497-b0c2-55434c510513",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Regular inspections and audits to ensure compliance with quality standards and regulations.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "64c85d77-7615-4abe-96ed-e246ed4b25f9",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Implementing suggestion boxes for employees to provide feedback on work processes and training programs.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "7659782a-c1d2-4c52-bcf4-c15a298de5a5",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Conducting post-training surveys to evaluate the effectiveness of training programs and identify areas for improvement.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackMechanismId": "bd3d99ef-d9e2-4997-9269-db9b41da27a4",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Utilizing online feedback forms to collect feedback from stakeholders on the quality of products and services.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "TrainingAndDevelopment": [
+      {
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Advanced Quality Control Techniques Workshop",
+        "targetAudience": "Quality Control Managers",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "ISO 9001 Certification Training",
+        "targetAudience": "Quality Assurance Team Members",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Root Cause Analysis Workshop",
+        "targetAudience": "Quality Engineers",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Quality Management System Implementation Training",
+        "targetAudience": "Quality Assurance Managers",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Statistical Process Control Training",
+        "targetAudience": "Quality Control Technicians",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "a2cfbb37-6e05-44b6-8f0b-68b7ca2f4bda",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Internal Quality Audit Training Program",
+        "targetAudience": "Quality Assurance Team",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "602e8958-a150-4279-ac90-748b4263d5d3",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "ISO 9001 Certification Training",
+        "targetAudience": "All Employees",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "b6c64a8d-19e5-4867-b451-d6d21ac4e11a",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Continuous Improvement Workshop",
+        "targetAudience": "Quality Control Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "1e872b08-ece3-4dc6-8817-6d935b190b42",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Root Cause Analysis Training",
+        "targetAudience": "Production Team",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "649113e3-92cf-4d56-864f-695960ffb2ba",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Customer Feedback Handling Workshop",
+        "targetAudience": "Customer Service Representatives",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "c9dba00d-f91d-4388-91c0-b1df53681ddf",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Quality Assurance Training Program for New Hires",
+        "targetAudience": "New employees joining the quality assurance team",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "8c62a6ec-7a92-4b63-846e-7b4e3387fc49",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Advanced Auditing Techniques Workshop",
+        "targetAudience": "Experienced auditors looking to enhance their skills",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "a15e2021-7d9a-4527-b513-4aa20d724b16",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Quality Standards Compliance Training",
+        "targetAudience": "All quality assurance staff members",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "d88420c6-f8ac-4f1a-ac24-2f903f418429",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Feedback Mechanisms Improvement Program",
+        "targetAudience": "Quality assurance managers and team leaders",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "e9b7534e-e50a-4525-9be8-696f4b52f06d",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Quality Assurance Best Practices Seminar",
+        "targetAudience": "Quality assurance professionals across departments",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "c127131e-cb36-41cb-aadd-8ea02a09afe4",
+        "qualityAssuranceId": "93bab6fb-7dbf-432c-9c95-6aaaf8678f5b",
+        "description": "Quality Assurance Training Program: This program focuses on enhancing the skills of quality assurance professionals in conducting thorough audits and ensuring compliance with quality standards.",
+        "targetAudience": "Quality Assurance Professionals",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "0314c2d7-29ba-4c97-9bc3-f4e943352e08",
+        "qualityAssuranceId": "7d5f22c0-da80-4ac2-983c-d35f72bafb97",
+        "description": "Auditing Best Practices Workshop: A workshop designed to train auditors on best practices in auditing processes and improving efficiency in identifying non-conformities.",
+        "targetAudience": "Auditors and Quality Control Teams",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "26a3be23-d855-4910-b11a-2f79ad0c7402",
+        "qualityAssuranceId": "ebf7c3d0-23a3-4cc8-99da-4a42c81fd7ac",
+        "description": "Feedback Mechanisms Training: This training program focuses on developing effective feedback mechanisms to improve communication and resolve quality issues efficiently.",
+        "targetAudience": "Quality Assurance Managers and Team Leaders",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "dfcdb4eb-914f-4a51-bc88-8219b2353141",
+        "qualityAssuranceId": "cbdd0563-0ebf-4bfd-b5c3-34b02b42ebcd",
+        "description": "Quality Standards Compliance Training: A comprehensive training session to ensure all team members are well-versed with quality standards and compliance requirements.",
+        "targetAudience": "All Employees",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "trainingDevelopmentId": "df9c66be-aee1-4eef-8adb-6cb9154cd025",
+        "qualityAssuranceId": "4b6c38bf-ab41-406a-94a7-1c3e55533d02",
+        "description": "Quality Control Techniques Workshop: Hands-on workshop to train employees on effective quality control techniques and tools for continuous improvement.",
+        "targetAudience": "Quality Control Team Members",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "ISOCertifications": [
+      {
+        "certificationId": "e8180dbc-2d58-4897-8d15-0d41a805f91d",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "isoNumber": "ISO9001",
+        "issueDate": "2020-05-15",
+        "expiryDate": "2023-05-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "242e59fa-3eb2-45f1-be22-22ec0d98763c",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "isoNumber": "ISO14001",
+        "issueDate": "2019-08-20",
+        "expiryDate": "2022-08-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "23a773b7-17c9-4f43-a843-5b6753869d93",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "isoNumber": "ISO27001",
+        "issueDate": "2021-03-10",
+        "expiryDate": "2024-03-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "72ad0b20-536c-45f5-998c-ad03c72e1dfd",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "isoNumber": "ISO45001",
+        "issueDate": "2018-11-05",
+        "expiryDate": "2021-11-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "c70fe571-e19c-4fc7-a7ad-bb588c979c98",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "isoNumber": "ISO50001",
+        "issueDate": "2020-12-30",
+        "expiryDate": "2023-12-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "f7890b2d-acca-4f4f-adae-0b9852c46e37",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "isoNumber": "ISO 9001:2015",
+        "issueDate": "2021-01-15",
+        "expiryDate": "2024-01-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "bf02516d-a21e-41b9-b68d-709d130c6a98",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "isoNumber": "ISO 14001:2015",
+        "issueDate": "2020-05-20",
+        "expiryDate": "2023-05-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "12dd977b-e373-4d69-a1b9-9b81b4b7e6c3",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "isoNumber": "ISO 45001:2018",
+        "issueDate": "2019-11-10",
+        "expiryDate": "2022-11-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "f06d5c82-522b-41bd-8f70-7970ecf46fe1",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "isoNumber": "ISO 27001:2013",
+        "issueDate": "2020-08-30",
+        "expiryDate": "2023-08-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "652fca0d-8354-4622-9add-c2fd1be5b1df",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "isoNumber": "ISO 20000-1:2018",
+        "issueDate": "2021-03-05",
+        "expiryDate": "2024-03-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "259bda22-9532-479e-a246-93f90c8669c7",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "isoNumber": "ISO 9001:2015",
+        "issueDate": "2020-05-15",
+        "expiryDate": "2023-05-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "43b8f11e-1ef1-406a-b0e1-056d5ef88a5b",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "isoNumber": "ISO 14001:2015",
+        "issueDate": "2019-08-20",
+        "expiryDate": "2022-08-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "65c74dfd-cdf6-4928-a851-4f1635f723f6",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "isoNumber": "ISO 45001:2018",
+        "issueDate": "2020-11-10",
+        "expiryDate": "2023-11-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "ba5d0867-235f-4346-9b48-52b1341a6c82",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "isoNumber": "ISO 27001:2013",
+        "issueDate": "2018-06-30",
+        "expiryDate": "2021-06-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "e626536d-9b13-475b-9c67-b3009efaff0e",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "isoNumber": "ISO 20000-1:2018",
+        "issueDate": "2019-03-25",
+        "expiryDate": "2022-03-25",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "11378215-621c-4f97-939f-46ab7781728d",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "isoNumber": "ISO 9001:2015",
+        "issueDate": "2020-05-15",
+        "expiryDate": "2023-05-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "f0beb1e8-e67d-4f1f-91c0-637195e9272f",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "isoNumber": "ISO 14001:2015",
+        "issueDate": "2019-10-20",
+        "expiryDate": "2022-10-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "47e0238d-6186-4b64-8c58-69861d65274f",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "isoNumber": "ISO 45001:2018",
+        "issueDate": "2021-02-10",
+        "expiryDate": "2024-02-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "eb577bcd-91d5-49b3-bf1e-baaa9c35807a",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "isoNumber": "ISO 27001:2013",
+        "issueDate": "2018-07-30",
+        "expiryDate": "2021-07-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "3dbe15cf-c2d2-4b55-9958-6a3c97a55da1",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "isoNumber": "ISO 20000-1:2018",
+        "issueDate": "2020-12-05",
+        "expiryDate": "2023-12-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "ServiceQualityBenchmarks": [
+      {
+        "benchmarkId": "0dfbdbc7-6b85-4ca3-b4da-4eb377c43437",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "metricName": "Response Time",
+        "targetValue": 10,
+        "actualValue": 8,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "32f4570a-a03a-4d34-8648-dbc792924b08",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "metricName": "Customer Satisfaction",
+        "targetValue": 90,
+        "actualValue": 92,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "31cfa154-9427-437a-84bc-1d2e8c671427",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "metricName": "Issue Resolution Rate",
+        "targetValue": 95,
+        "actualValue": 97,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "39a2de27-b843-4d27-a25b-75014d83d4aa",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "metricName": "Service Availability",
+        "targetValue": 99,
+        "actualValue": 98,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "63212a1f-3454-4418-bd3f-73d6323c18c6",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "metricName": "First Contact Resolution",
+        "targetValue": 85,
+        "actualValue": 88,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "b53f58ed-3019-474a-951b-61fd8f555c4c",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "metricName": "Response Time",
+        "targetValue": 30,
+        "actualValue": 28,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "4bcb1780-e9ef-4547-b3d0-60d7ab8743c7",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "metricName": "Customer Satisfaction",
+        "targetValue": 90,
+        "actualValue": 92,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "38e1b29b-e932-4a41-87ff-f458b7214ddf",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "metricName": "Accuracy Rate",
+        "targetValue": 98,
+        "actualValue": 97,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "dd7b541a-7e0c-44d8-9830-333d9d7602ad",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "metricName": "Issue Resolution Time",
+        "targetValue": 45,
+        "actualValue": 42,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "badf247b-3b98-48c2-81d1-d3ac60d27c5b",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "metricName": "First Contact Resolution Rate",
+        "targetValue": 85,
+        "actualValue": 87,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "38ac9025-94a1-4a92-a681-1e5c733faf17",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "metricName": "Response Time",
+        "targetValue": 5,
+        "actualValue": 4.5,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "924d1dba-c2bb-4a5c-b2e9-258081506fb4",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "metricName": "Customer Satisfaction",
+        "targetValue": 90,
+        "actualValue": 92,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "dbb2e32b-2530-4b63-a7dc-6ee7f9def81c",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "metricName": "Issue Resolution Rate",
+        "targetValue": 98,
+        "actualValue": 97,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "5f8c9555-6cd2-4a4f-8637-7151473866ad",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "metricName": "First Contact Resolution",
+        "targetValue": 85,
+        "actualValue": 88,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "9f5a3b6f-eec1-4bb7-926e-2bde575f4ba7",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "metricName": "Average Handling Time",
+        "targetValue": 180,
+        "actualValue": 175,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "d830c432-b7e2-4848-ab35-0870a2418bb9",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "metricName": "Response Time",
+        "targetValue": 10,
+        "actualValue": 8,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "96fe04ce-60f3-45e1-977f-94f13ba1d83f",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "metricName": "Customer Satisfaction",
+        "targetValue": 90,
+        "actualValue": 92,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "9c1ca755-f4de-47b1-b1a4-84cc970a88f4",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "metricName": "Issue Resolution Rate",
+        "targetValue": 95,
+        "actualValue": 96,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "55b1ccc4-21fb-4fd1-8c6d-9728f7d09b15",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "metricName": "First Contact Resolution",
+        "targetValue": 80,
+        "actualValue": 85,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "benchmarkId": "dd7df6ee-bfc6-47b4-9593-939d7bc5b07b",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "metricName": "Average Handling Time",
+        "targetValue": 300,
+        "actualValue": 280,
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "ContinuousImprovementProcesses": [
+      {
+        "processId": "878cfed5-b2dd-4d28-9d64-c3119872f5b1",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "description": "Implemented new software testing methodologies to improve quality assurance procedures.",
+        "implementationDate": "2023-01-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "7cf81818-5793-4e0d-b8b3-d72a62ec816e",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "description": "Conducted regular audits to ensure compliance with ISO 9001 standards.",
+        "implementationDate": "2023-02-28",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "1e4ec79c-5ffb-45b1-8dc7-09ff2d26eb51",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "description": "Implemented customer feedback mechanisms to improve product quality based on user input.",
+        "implementationDate": "2023-03-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "0f0ba8e0-d0ee-47d6-a960-5f09eb677607",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "description": "Provided training and development programs for employees to enhance quality assurance skills.",
+        "implementationDate": "2023-04-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "44e6d8df-3666-4940-8c41-22e429798f81",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "description": "Implemented a continuous improvement process based on Lean Six Sigma principles.",
+        "implementationDate": "2023-05-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "7fcb2db0-3589-46f3-b258-80040c389cbe",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "description": "Implemented a new quality control system to enhance product quality and reduce defects.",
+        "implementationDate": "2022-03-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "d0643505-aa61-42a0-bd7c-8d40aeb84def",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "description": "Conducted a training program on quality assurance practices for all employees.",
+        "implementationDate": "2022-02-28",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "a86504b2-2324-48cb-a109-0f96abc8c9c1",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "description": "Implemented a feedback mechanism to gather customer input for quality improvement.",
+        "implementationDate": "2022-03-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "3c86b729-06fc-405e-a242-69edd3e94456",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "description": "Audited the manufacturing process to ensure compliance with quality standards.",
+        "implementationDate": "2022-03-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "3eedb7d7-c262-4031-9075-68d3edfab51d",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "description": "Implemented a continuous improvement process to enhance operational efficiency.",
+        "implementationDate": "2022-03-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "8d3002a6-6b58-4509-9809-6d9ed8b62445",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "description": "Implemented a new software testing methodology to improve the quality of software products. The process includes automated testing, code reviews, and continuous integration practices.",
+        "implementationDate": "2022-03-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "e58538e0-27a7-49e8-8fec-2026281e54ac",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "description": "Introduced a customer feedback mechanism to gather insights on product satisfaction and identify areas for improvement. The process involves surveys, feedback forms, and regular analysis of customer feedback data.",
+        "implementationDate": "2022-02-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "9ea6fe8c-2267-4d92-8005-37830c4f2a39",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "description": "Conducted a series of training sessions on quality assurance best practices for all team members. The training covered topics such as quality standards, auditing processes, and feedback mechanisms.",
+        "implementationDate": "2022-01-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "a589dee0-8ef6-4ae9-b36d-1e2519dc5150",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "description": "Implemented a new auditing process to ensure compliance with industry regulations and internal quality standards. The process includes regular audits, documentation reviews, and corrective action planning.",
+        "implementationDate": "2022-04-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "7b82cb58-e30b-4324-91dd-2f9e4463875e",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "description": "Established a continuous improvement task force to identify areas for enhancement in quality assurance processes. The task force conducts regular meetings, collects feedback from team members, and implements improvement initiatives based on data analysis.",
+        "implementationDate": "2022-03-01",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "1dc2c858-5ebd-4c0c-bc9d-e6e996b33a5d",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "description": "Implemented a new quality control system to ensure product consistency and customer satisfaction.",
+        "implementationDate": "2022-03-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "d4944406-f8bd-4c4e-a38f-4628af44c95a",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "description": "Introduced a feedback mechanism to gather customer opinions and improve service quality.",
+        "implementationDate": "2022-04-02",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "ff3b68d8-1a26-4718-8517-71a080954b94",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "description": "Conducted training sessions for employees on new quality assurance protocols.",
+        "implementationDate": "2022-02-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "e43674af-0650-4c3e-b6cd-587532422581",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "description": "Performed audits to ensure compliance with industry standards and regulations.",
+        "implementationDate": "2022-03-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "processId": "834ca96a-d567-486f-aedc-120921d67782",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "description": "Implemented a continuous improvement process to enhance product development cycles.",
+        "implementationDate": "2022-02-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "QualityControlProcedures": [
+      {
+        "procedureId": "f59595dd-92c5-473a-b6ba-89a5786fedff",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "stepDescription": "Inspect raw materials for quality and compliance with standards",
+        "responsiblePerson": "Quality Control Officer",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "3cd0ae64-4c9c-4367-b581-812370b9858a",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "stepDescription": "Calibrate testing equipment to ensure accuracy",
+        "responsiblePerson": "Lab Technician",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "b43eb52a-c88d-4696-9299-5d99a5b6d230",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "stepDescription": "Conduct random sampling of finished products for quality checks",
+        "responsiblePerson": "Quality Assurance Manager",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "832bb326-b5fd-4797-a8b3-3127efb207a7",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "stepDescription": "Implement statistical process control methods to monitor production quality",
+        "responsiblePerson": "Quality Engineer",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "659662e5-93e8-446c-82ac-b64f4f727e64",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "stepDescription": "Document and analyze quality control data for continuous improvement",
+        "responsiblePerson": "Quality Analyst",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "704958d9-859e-4fba-81d1-605ea79d21f1",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "stepDescription": "Incoming Material Inspection: Check the quality of raw materials received for production. Inspect for defects, damages, and compliance with quality standards.",
+        "responsiblePerson": "John Smith",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "9262ee0d-4ddb-47d9-88fa-824eabdd1d94",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "stepDescription": "Production Line Testing: Conduct quality checks at various stages of production to ensure consistency and adherence to standards.",
+        "responsiblePerson": "Emily Johnson",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "6115e1c1-ee4a-4112-9558-e1009d2bb525",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "stepDescription": "Final Product Inspection: Inspect finished products for defects, functionality, and overall quality before packaging and distribution.",
+        "responsiblePerson": "Michael Brown",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "3a134430-84c9-484e-9ff7-dd22dd1c45d5",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "stepDescription": "Packaging Quality Control: Ensure proper packaging of products to protect them during transport and maintain product integrity.",
+        "responsiblePerson": "Sarah Davis",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "90d1654d-d002-4bd3-a99a-f715eff43775",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "stepDescription": "Customer Feedback Analysis: Analyze customer feedback to identify areas for improvement and implement corrective actions.",
+        "responsiblePerson": "Andrew Wilson",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "c7c34f90-75b5-442e-9da1-76cc25fc318e",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "stepDescription": "Inspect raw materials for quality and compliance with standards before production begins.",
+        "responsiblePerson": "John Smith",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "7526f072-aca5-4587-aa8f-3916a882faf7",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "stepDescription": "Calibrate equipment and machinery to ensure accurate measurements and performance.",
+        "responsiblePerson": "Emily Davis",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "ce9eba8f-7817-4a1d-88d6-86c646acafda",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "stepDescription": "Conduct regular quality checks during the production process to identify any deviations from standards.",
+        "responsiblePerson": "Michael Johnson",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "cdd90c2c-662b-4ce7-a2a2-9e5515557842",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "stepDescription": "Perform random sampling of finished products for thorough quality inspection.",
+        "responsiblePerson": "Sarah Wilson",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "7ede23d6-de49-4b14-b4ee-fdcdeb36b1a5",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "stepDescription": "Implement corrective actions based on quality control findings to improve processes.",
+        "responsiblePerson": "David Brown",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "bd1484b0-edd3-41ca-b72a-00c56edca37b",
+        "qualityStandardId": "c8de47d4-1a26-4ea9-8c16-a35282591cc4",
+        "stepDescription": "Inspect raw materials for quality and compliance with standards",
+        "responsiblePerson": "Quality Control Manager",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "3d684e17-2dd5-4f30-a665-53b17f074562",
+        "qualityStandardId": "42d2c6d8-8fad-459f-b518-0d383f1070ed",
+        "stepDescription": "Calibrate testing equipment for accuracy",
+        "responsiblePerson": "Quality Assurance Technician",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "7d3637a5-2f3f-4bbb-8d24-c4a9c279136e",
+        "qualityStandardId": "4a004376-becf-4029-bc5b-c05798b6d6e9",
+        "stepDescription": "Conduct random sampling of finished products",
+        "responsiblePerson": "Quality Control Inspector",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "f7f5895f-fcc7-4e9c-b7e5-df859ce727d5",
+        "qualityStandardId": "c4199529-ecc6-4f79-8ba9-199392a879ee",
+        "stepDescription": "Perform microbiological testing on products",
+        "responsiblePerson": "Microbiologist",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "procedureId": "58321bb9-6064-4d02-8538-44ff41dfea8d",
+        "qualityStandardId": "95b623ae-ff6e-4226-92c1-eb8bb8f67e44",
+        "stepDescription": "Review and update quality control procedures as per regulatory changes",
+        "responsiblePerson": "Quality Assurance Manager",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "InternalAuditPrograms": [
+      {
+        "auditProgramId": "d2d183d8-69ad-41cf-ad62-2455497ef540",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "auditScope": "Conduct internal audit for manufacturing process",
+        "scheduleDate": "2022-10-15",
+        "auditTeam": "Quality Assurance Team",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "506f4cab-db95-4812-9315-56e880972d90",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "auditScope": "Evaluate compliance with ISO 9001 standards",
+        "scheduleDate": "2022-11-05",
+        "auditTeam": "Quality Assurance Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "dd78a515-e8de-4d9e-96af-605ea2a08e09",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "auditScope": "Assess quality control measures in production",
+        "scheduleDate": "2022-12-03",
+        "auditTeam": "Quality Control Team",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "11132185-87af-4fc5-9e3a-d9da7a060b87",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "auditScope": "Review effectiveness of supplier audits",
+        "scheduleDate": "2022-12-20",
+        "auditTeam": "Supplier Quality Team",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "08aab5b8-c0a2-4210-a930-ffc33f55805c",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "auditScope": "Inspect adherence to internal quality standards",
+        "scheduleDate": "2023-01-10",
+        "auditTeam": "Internal Audit Team",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "ddb00109-9fe1-41fc-97bb-d760271e8c78",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "auditScope": "Quality control audit for product A manufacturing process",
+        "scheduleDate": "2022-09-15",
+        "auditTeam": "QA Team 1",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "8eaa4964-0908-47b0-a922-712a72544458",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "auditScope": "Supplier quality audit for vendor X",
+        "scheduleDate": "2022-10-20",
+        "auditTeam": "QA Team 2",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "f6071e5f-a515-408f-9979-f20710b59b04",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "auditScope": "Internal process audit for department Y",
+        "scheduleDate": "2022-11-05",
+        "auditTeam": "QA Team 3",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "d0f4348a-95d4-4a92-8340-ab63f48bba63",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "auditScope": "Quality assurance audit for software development",
+        "scheduleDate": "2022-12-10",
+        "auditTeam": "QA Team 4",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "7f4a6010-c4c6-4fa7-831c-b9e2ba76e727",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "auditScope": "Compliance audit for regulatory standards",
+        "scheduleDate": "2023-01-15",
+        "auditTeam": "QA Team 5",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "a0b0f21a-7a7b-42f9-86ac-94a6d24f8e0e",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "auditScope": "Internal audit of Quality Assurance processes for Product A",
+        "scheduleDate": "2022-10-15",
+        "auditTeam": "Quality Assurance Team A",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "99a70972-b91b-499e-98e8-e01bbe9d8e3b",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "auditScope": "Internal audit of Quality Standards adherence for Department B",
+        "scheduleDate": "2022-11-05",
+        "auditTeam": "Quality Assurance Team B",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "8b231db5-7e7d-4f38-b2cd-59af437249ba",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "auditScope": "Internal audit of Auditing Processes for Division C",
+        "scheduleDate": "2022-09-20",
+        "auditTeam": "Quality Assurance Team C",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "4ae8bde5-203f-470e-9f54-3fce667e5052",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "auditScope": "Internal audit of Feedback Mechanisms for Region D",
+        "scheduleDate": "2022-12-10",
+        "auditTeam": "Quality Assurance Team D",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "16645c49-ee33-4d39-a28f-0cfbf86c67c0",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "auditScope": "Internal audit of Training and Development programs for Team E",
+        "scheduleDate": "2022-11-30",
+        "auditTeam": "Quality Assurance Team E",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "d7cc3441-5999-42e2-afce-e9382e0c069c",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "auditScope": "Audit of Customer Service Quality Assurance Process",
+        "scheduleDate": "2023-05-15",
+        "auditTeam": "John Doe, Jane Smith",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "361f6e50-08b8-4841-9fe7-5ff41e7aa969",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "auditScope": "Audit of Product Quality Assurance Process",
+        "scheduleDate": "2023-06-10",
+        "auditTeam": "Alice Johnson, Bob Brown",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "3d04ce2b-f50a-4a91-9847-1c2f73e0da4a",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "auditScope": "Audit of Compliance Quality Assurance Process",
+        "scheduleDate": "2023-07-20",
+        "auditTeam": "Emily Davis, Michael Wilson",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "15484f01-1e7b-444f-bdca-985240c6d378",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "auditScope": "Audit of Training and Development Quality Assurance Process",
+        "scheduleDate": "2023-08-05",
+        "auditTeam": "Sarah Lee, Kevin Martinez",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditProgramId": "b95f89b5-80cf-4945-b6ad-6a57de8dc8b4",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "auditScope": "Audit of Feedback Mechanisms Quality Assurance Process",
+        "scheduleDate": "2023-09-15",
+        "auditTeam": "Laura Adams, Mark Thompson",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "ThirdPartyAudits": [
+      {
+        "auditId": "928fce5b-295f-43a8-ac8a-41852eebf9e0",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "auditAgency": "Quality Assurance Inc.",
+        "auditDate": "2022-10-15",
+        "findings": "Identified areas for process improvement and compliance enhancement.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "cec468a6-5f6a-419b-a590-07487566df09",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "auditAgency": "Certified Auditors Ltd.",
+        "auditDate": "2022-09-28",
+        "findings": "Highlighted best practices and recommendations for efficiency gains.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "b5a7c39a-441b-40fd-94f0-99a0e4d0bf12",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "auditAgency": "Quality Check Experts",
+        "auditDate": "2022-11-05",
+        "findings": "Noted areas of non-compliance and suggested corrective actions.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "ba82ed63-0fb0-4faf-ab99-66468fb2d31c",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "auditAgency": "Compliance Solutions Group",
+        "auditDate": "2022-10-02",
+        "findings": "Verified adherence to quality standards and regulatory requirements.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "eb1c1d26-54b2-456e-980b-8fd45c323502",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "auditAgency": "Audit Excellence Services",
+        "auditDate": "2022-09-20",
+        "findings": "Commended on strong quality management practices and risk mitigation strategies.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "6064a868-8de0-4d24-9ff0-948f7f1f6008",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "auditAgency": "Quality Assurance Experts Inc.",
+        "auditDate": "2022-09-15",
+        "findings": "The audit revealed compliance with all quality standards and processes.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "ee17ebdb-e780-45d7-9b72-88916dc11e06",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "auditAgency": "Certified Auditors Group",
+        "auditDate": "2022-08-25",
+        "findings": "Identified areas for improvement in quality control procedures.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "286e47a0-7c38-4961-b1fd-be0530ba6ec5",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "auditAgency": "Quality Assurance Consultants LLC",
+        "auditDate": "2022-07-12",
+        "findings": "Noted adherence to quality assurance policies and procedures.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "50db5a3e-ff6d-418b-8b47-9837719a8a78",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "auditAgency": "Quality Assurance Inspections Ltd.",
+        "auditDate": "2022-06-30",
+        "findings": "Recommended enhancements to quality standards implementation.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "16ffe95f-1420-4027-8890-1584427681f4",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "auditAgency": "Quality Assurance Auditors Co.",
+        "auditDate": "2022-05-20",
+        "findings": "Highlighted best practices in quality assurance processes.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "6b0035e8-6f37-4d15-b6e0-0517c2a1576f",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "auditAgency": "Quality Assurance Solutions Inc.",
+        "auditDate": "2022-09-15",
+        "findings": "The audit revealed compliance with all quality standards and processes.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "3f52b396-fcfb-41df-abfc-5eb7d2a0ce33",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "auditAgency": "Certified Auditors Group",
+        "auditDate": "2022-08-25",
+        "findings": "Identified minor deviations in training documentation procedures.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "2094dca8-e155-44d2-8d2d-e925825f6c95",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "auditAgency": "Quality Check Experts LLC",
+        "auditDate": "2022-07-10",
+        "findings": "Highlighted the need for additional feedback mechanisms for employee evaluations.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "523ea836-017a-48db-9773-ebd2a3c5993c",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "auditAgency": "Audit Professionals Inc.",
+        "auditDate": "2022-06-02",
+        "findings": "Suggested improvements in the training and development programs.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "345ec6ce-4120-4bd3-98ff-a158eced48a4",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "auditAgency": "Quality Assurance Consultants",
+        "auditDate": "2022-05-20",
+        "findings": "Noted compliance with quality standards but recommended regular audits for sustainability.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "7164b457-a0b7-4771-906f-d9977f9272a8",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "auditAgency": "Quality Assurance Inc.",
+        "auditDate": "2022-03-15",
+        "findings": "The audit identified areas for improvement in the quality assurance process.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "dc43156a-61d6-48be-a1c1-75ef5b6178b8",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "auditAgency": "Audit Professionals Ltd.",
+        "auditDate": "2022-02-28",
+        "findings": "The audit revealed compliance issues with quality standards.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "b0e0b214-65db-463c-a589-4073896dfbae",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "auditAgency": "Certified Auditors Co.",
+        "auditDate": "2022-04-10",
+        "findings": "The audit commended the effective feedback mechanisms in place.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "d3eb98c5-eda1-4d84-9827-a650b5cc214e",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "auditAgency": "Quality Checkers Inc.",
+        "auditDate": "2022-01-20",
+        "findings": "The audit recommended additional training and development programs for staff.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "auditId": "2499bb5a-f3d1-4844-9719-8b0db3a13319",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "auditAgency": "Assurance Experts LLC",
+        "auditDate": "2022-05-05",
+        "findings": "The audit highlighted the need for updated quality standards.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "AuditReportingSystems": [
+      {
+        "reportId": "cbabe63d-7a3c-4630-b561-372e4274c61a",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "reportType": "Internal Audit",
+        "reportDate": "2022-05-10",
+        "responsibleDepartment": "Quality Assurance Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "ee444e53-ddbd-4d35-afc1-5b4d90f8d81b",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "reportType": "External Audit",
+        "reportDate": "2022-06-15",
+        "responsibleDepartment": "Compliance and Ethics Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "e2898196-ea1e-403a-91f5-15f0305da91f",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "reportType": "Internal Audit",
+        "reportDate": "2022-04-20",
+        "responsibleDepartment": "Quality Control Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "ba1492e4-7728-489c-9fe0-0c43051935cf",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "reportType": "External Audit",
+        "reportDate": "2022-03-05",
+        "responsibleDepartment": "Risk Management Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "ee1ac965-0e37-49f4-875b-bf54f1e58752",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "reportType": "Internal Audit",
+        "reportDate": "2022-07-30",
+        "responsibleDepartment": "Audit and Compliance Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "49b3e655-98fd-4498-9812-213d7fae3cd4",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "reportType": "Internal",
+        "reportDate": "2022-03-15",
+        "responsibleDepartment": "Quality Assurance Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "1b0a15c8-bc7e-4c1b-bd09-6e6901700bb6",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "reportType": "External",
+        "reportDate": "2022-02-28",
+        "responsibleDepartment": "Compliance and Audit Division",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "8e6f92a4-6371-4560-a8bb-41e8331cfa24",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "reportType": "Internal",
+        "reportDate": "2022-01-10",
+        "responsibleDepartment": "Quality Control Team",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "88ad96cf-9567-47c5-9ae9-a1c11a0b4a59",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "reportType": "External",
+        "reportDate": "2022-04-05",
+        "responsibleDepartment": "Audit and Compliance Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "0322f3c9-08a1-4344-be7a-f4b15ef12df5",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "reportType": "Internal",
+        "reportDate": "2022-03-20",
+        "responsibleDepartment": "Quality Assurance Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "eddd3c5d-3634-489f-bc41-a2d35c0f21ca",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "reportType": "Internal",
+        "reportDate": "2022-05-10",
+        "responsibleDepartment": "Quality Assurance",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "631b8e00-707d-43de-90ca-6b95447c7b3c",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "reportType": "External",
+        "reportDate": "2022-04-15",
+        "responsibleDepartment": "Quality Assurance",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "125ab115-e107-447a-b7cb-bf501412f044",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "reportType": "Internal",
+        "reportDate": "2022-03-20",
+        "responsibleDepartment": "Quality Assurance",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "bc6ac71e-eded-4279-9a22-471fc5c44ea9",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "reportType": "External",
+        "reportDate": "2022-02-05",
+        "responsibleDepartment": "Quality Assurance",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "c4409aba-ccee-403d-90f6-055342d8f26d",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "reportType": "Internal",
+        "reportDate": "2022-01-10",
+        "responsibleDepartment": "Quality Assurance",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "d0942665-d2ae-456f-8ff7-7f179478a8e9",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "reportType": "Internal",
+        "reportDate": "2022-03-15",
+        "responsibleDepartment": "Quality Assurance Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "4fafd844-9850-42e2-8ae3-c1c2886f2585",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "reportType": "External",
+        "reportDate": "2022-02-28",
+        "responsibleDepartment": "Quality Control Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "c1fb6bce-2427-4d16-8330-69f7533f8bf4",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "reportType": "Internal",
+        "reportDate": "2022-01-20",
+        "responsibleDepartment": "Compliance Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "57989384-63b9-423d-9848-9a48e1f3cf8e",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "reportType": "External",
+        "reportDate": "2021-12-10",
+        "responsibleDepartment": "Risk Management Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "8a9807c0-ca6f-4017-8434-dec9e0933959",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "reportType": "Internal",
+        "reportDate": "2021-11-05",
+        "responsibleDepartment": "Quality Assurance Department",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "CorrectiveActionPlans": [
+      {
+        "actionPlanId": "9e5a44f0-0e88-49fb-bb6e-03805f703aaf",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "issueIdentified": "Lack of adherence to safety protocols in the manufacturing unit",
+        "correctiveSteps": "Conduct safety training for all employees, implement regular safety audits, and update safety protocols",
+        "implementationDate": "2022-09-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "82f5072d-60fb-42a7-b02c-de16e155548f",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "issueIdentified": "Inadequate documentation of quality control procedures",
+        "correctiveSteps": "Review and update quality control documentation, conduct training on documentation procedures",
+        "implementationDate": "2022-10-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "299deb7d-939c-47c2-a55f-9686ee8c0528",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "issueIdentified": "Non-compliance with regulatory standards in product labeling",
+        "correctiveSteps": "Revise product labeling to meet regulatory standards, conduct internal audits for compliance",
+        "implementationDate": "2022-10-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "11e14366-4d6e-4038-a4ba-2a435aaf0abc",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "issueIdentified": "High defect rate in product manufacturing",
+        "correctiveSteps": "Implement quality control measures, train staff on defect prevention, conduct root cause analysis",
+        "implementationDate": "2022-11-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "dba81db7-aadf-4f2a-ace1-e6ece396b981",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "issueIdentified": "Poor handling of customer complaints",
+        "correctiveSteps": "Establish a customer feedback mechanism, provide training on complaint resolution, monitor and analyze feedback data",
+        "implementationDate": "2022-11-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "835f6f8a-d0f8-47d1-b848-bc13e8adc5f8",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "issueIdentified": "Non-compliance with safety procedures in the production area",
+        "correctiveSteps": "Conduct refresher training on safety protocols for all production staff. Implement regular safety audits.",
+        "implementationDate": "2023-06-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "ddd39410-58d4-4063-af86-f1a53f066210",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "issueIdentified": "High defect rate in product A during quality checks",
+        "correctiveSteps": "Analyze the production process for product A to identify root causes of defects. Implement corrective measures based on the analysis.",
+        "implementationDate": "2023-07-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "0b44bdc1-cbb2-495f-8785-3e0e516b529f",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "issueIdentified": "Lack of adherence to quality standards in packaging department",
+        "correctiveSteps": "Conduct training sessions on quality standards for packaging staff. Implement regular quality checks during packaging processes.",
+        "implementationDate": "2023-08-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "22d8aaa9-fe5d-464b-bcf7-b23e05e86197",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "issueIdentified": "Inefficient inventory management leading to stockouts",
+        "correctiveSteps": "Optimize inventory management system to improve stock forecasting. Implement automated reorder points for critical inventory items.",
+        "implementationDate": "2023-09-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "3a1ab3fc-dcf0-42ab-89d1-205eb71c963e",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "issueIdentified": "Non-compliance with data security protocols in the IT department",
+        "correctiveSteps": "Conduct cybersecurity training for IT staff. Implement stricter access controls and regular security audits.",
+        "implementationDate": "2023-10-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "6febdd46-5f81-4f9c-a249-85363dff4389",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "issueIdentified": "Incomplete documentation of audit findings",
+        "correctiveSteps": "Conduct training sessions for auditors on proper documentation procedures. Implement a documentation review process for all audit reports.",
+        "implementationDate": "2022-08-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "59e1a79a-faa9-483a-a5ae-30ff2265b189",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "issueIdentified": "Lack of consistency in audit report formatting",
+        "correctiveSteps": "Develop a standardized template for audit reports. Provide training on the use of the new template to all auditors.",
+        "implementationDate": "2022-09-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "710581a0-5923-43cf-9e61-504ea1bf52db",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "issueIdentified": "Delay in corrective action implementation",
+        "correctiveSteps": "Establish a timeline for corrective action implementation. Monitor progress regularly and provide necessary resources for timely completion.",
+        "implementationDate": "2022-07-25",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "cbabfb58-1e75-45a0-8304-0c02510119bb",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "issueIdentified": "Inadequate follow-up on audit recommendations",
+        "correctiveSteps": "Assign responsibility for follow-up actions to specific individuals. Implement a tracking system to monitor the status of recommendations.",
+        "implementationDate": "2022-08-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "705db7c4-3598-4b0a-8cf7-9a6929053ea7",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "issueIdentified": "Insufficient training on audit tools and techniques",
+        "correctiveSteps": "Develop a comprehensive training program on audit tools and techniques. Provide hands-on practice sessions for practical skill development.",
+        "implementationDate": "2022-09-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "88f671fe-c8cf-4dd8-8263-67f219c38ef5",
+        "auditingProcessId": "97e4942e-3e1d-4972-9ea4-a513e43ff61e",
+        "issueIdentified": "Lack of adherence to safety protocols in the manufacturing area",
+        "correctiveSteps": "Conduct safety training for all employees, implement regular safety inspections, provide personal protective equipment",
+        "implementationDate": "2023-01-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "591216fb-a510-480a-9d83-0b60ee742e54",
+        "auditingProcessId": "777fcba8-a1cf-4a1c-b188-b0b047d20382",
+        "issueIdentified": "Inadequate documentation of quality control procedures",
+        "correctiveSteps": "Update quality control manuals, conduct training on documentation standards, implement regular audits",
+        "implementationDate": "2023-02-28",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "8e0f69bf-5723-4433-93c7-463205a1f75e",
+        "auditingProcessId": "167b23d6-e51d-4a0f-8433-62100861d61d",
+        "issueIdentified": "Non-compliance with environmental regulations in the production process",
+        "correctiveSteps": "Implement eco-friendly practices, conduct environmental impact assessments, train staff on environmental compliance",
+        "implementationDate": "2023-03-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "1acf9719-ae68-4bf8-8eb0-329a60bcc67c",
+        "auditingProcessId": "071e3d3f-33af-4eba-918c-a2b7ef24c659",
+        "issueIdentified": "High defect rate in finished products",
+        "correctiveSteps": "Improve quality control processes, enhance training for production staff, implement defect tracking system",
+        "implementationDate": "2023-04-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "actionPlanId": "93135526-dd82-4d7e-ad8d-a1a3793fa82e",
+        "auditingProcessId": "080c7759-eb32-4048-80fe-4234f62a7ef9",
+        "issueIdentified": "Inefficient inventory management leading to stockouts",
+        "correctiveSteps": "Optimize inventory tracking system, implement reorder points, conduct inventory management training",
+        "implementationDate": "2023-05-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "CustomerSatisfactionSurveys": [
+      {
+        "surveyId": "4e742eab-245e-4f42-b6b1-8d8acd68e782",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "surveyDate": "2022-09-15",
+        "satisfactionScore": 4.5,
+        "feedbackComments": "The service was excellent, but could be improved in terms of response time.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "d7cfe15b-1cd4-437f-946e-10a7b653f839",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "surveyDate": "2022-09-16",
+        "satisfactionScore": 3.8,
+        "feedbackComments": "The product quality was good, but delivery was delayed.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "a1f96a22-c445-4064-8afe-cbbc532ee481",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "surveyDate": "2022-09-17",
+        "satisfactionScore": 4.2,
+        "feedbackComments": "The staff was friendly and helpful, but the website interface needs improvement.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "3dadc5d3-9cba-4a38-8f21-1536ff1a6a04",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "surveyDate": "2022-09-18",
+        "satisfactionScore": 4,
+        "feedbackComments": "Overall satisfied with the service, but billing process was confusing.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "acf54abb-655e-460c-9eac-e8cd9ff287b6",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "surveyDate": "2022-09-19",
+        "satisfactionScore": 3.5,
+        "feedbackComments": "Product was as expected, but customer support needs improvement.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "d96c4bc4-207e-4992-b4fd-13a57aec2e41",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "surveyDate": "2022-09-15",
+        "satisfactionScore": 4.5,
+        "feedbackComments": "The service was excellent, but there is room for improvement in response time.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "2f37bdf5-3cdc-4fc4-9648-a4223627de56",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "surveyDate": "2022-09-16",
+        "satisfactionScore": 4.2,
+        "feedbackComments": "Overall satisfied with the product quality, but delivery could be faster.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "9c22089a-9560-47ca-be72-2c079b6639b9",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "surveyDate": "2022-09-17",
+        "satisfactionScore": 3.8,
+        "feedbackComments": "The customer support team was helpful, but the website interface needs improvement.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "9a8ca1d1-5c66-44b1-9b3a-7b5fc80e52ca",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "surveyDate": "2022-09-18",
+        "satisfactionScore": 4,
+        "feedbackComments": "Great experience overall, but the checkout process can be smoother.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "925cea7f-1eac-47d5-bd6e-79e3a2df7c85",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "surveyDate": "2022-09-19",
+        "satisfactionScore": 4.3,
+        "feedbackComments": "Impressed with the product range, but the pricing could be more competitive.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "42b7c113-a194-4315-aad0-f8a29b400ced",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "surveyDate": "2022-03-15",
+        "satisfactionScore": 4.5,
+        "feedbackComments": "The service was excellent, but there is room for improvement in response time.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "020d8ed7-fa95-4ad3-885c-7f35406a6bde",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "surveyDate": "2022-03-18",
+        "satisfactionScore": 3.8,
+        "feedbackComments": "Overall, the experience was satisfactory, but the product quality could be better.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "16a61f85-34f6-4162-b7b9-667f9534bad6",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "surveyDate": "2022-03-20",
+        "satisfactionScore": 4.2,
+        "feedbackComments": "Great customer service, but the delivery was delayed.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "71999cce-5cc1-407c-8587-aeb951fc4db1",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "surveyDate": "2022-03-22",
+        "satisfactionScore": 4.7,
+        "feedbackComments": "Extremely satisfied with the product quality and customer support.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "c9abd307-4230-4996-99bd-a7301a6d8ff5",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "surveyDate": "2022-03-25",
+        "satisfactionScore": 3.5,
+        "feedbackComments": "Average experience, but the pricing could be more competitive.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "bec07116-a57c-4589-9b8f-316624ca22f4",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "surveyDate": "2022-03-15",
+        "satisfactionScore": 4.5,
+        "feedbackComments": "The service was excellent, but there was a slight delay in response.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "686ce25f-668a-4579-8056-6cf5848a2e49",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "surveyDate": "2022-03-17",
+        "satisfactionScore": 3.8,
+        "feedbackComments": "The product quality was good, but the delivery was late.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "1e7ac249-1b82-4224-862d-ae1df46418f2",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "surveyDate": "2022-03-19",
+        "satisfactionScore": 4.2,
+        "feedbackComments": "The support team was very helpful and resolved my issue quickly.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "d274b99f-d0be-4ad6-acad-dc056086d47c",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "surveyDate": "2022-03-21",
+        "satisfactionScore": 3.5,
+        "feedbackComments": "The website interface needs improvement for better user experience.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "surveyId": "2b93ea0f-dc54-42c7-9216-fb6ee96add98",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "surveyDate": "2022-03-23",
+        "satisfactionScore": 4,
+        "feedbackComments": "Overall, a good experience with the product and services.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "EmployeeFeedbackSystems": [
+      {
+        "feedbackId": "ea681fed-d8be-4df5-937a-123c20a71e8d",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "employeeId": "EMP001",
+        "feedbackDate": "2022-03-15",
+        "feedbackText": "The training sessions were very informative and helpful in improving my skills.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "1a2d6b9c-f7df-4567-945a-d394f93dd970",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "employeeId": "EMP002",
+        "feedbackDate": "2022-03-16",
+        "feedbackText": "The quality assurance processes are well-structured and ensure high standards are maintained.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "7060455b-5572-4d26-b9a4-ee797fa1b32a",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "employeeId": "EMP003",
+        "feedbackDate": "2022-03-17",
+        "feedbackText": "The auditing processes are thorough and help in identifying areas for improvement.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "f0c69af8-f797-4fd6-b32c-80a6334b5a04",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "employeeId": "EMP004",
+        "feedbackDate": "2022-03-18",
+        "feedbackText": "The feedback mechanisms in place allow for open communication and constructive feedback.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "f6f17780-2f92-4f95-aac1-ab20aa88fa66",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "employeeId": "EMP005",
+        "feedbackDate": "2022-03-19",
+        "feedbackText": "The training and development programs are tailored to individual needs and promote continuous learning.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "cdcd4412-dabd-4777-b819-a6059eb8a685",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "employeeId": "EMP001",
+        "feedbackDate": "2022-09-15",
+        "feedbackText": "The training sessions were very informative and helpful in improving my skills.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "8e232e28-11fc-4d26-bb3d-a97de9a6bd36",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "employeeId": "EMP002",
+        "feedbackDate": "2022-09-16",
+        "feedbackText": "I appreciate the open communication channels for providing feedback and suggestions.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "c348c065-2ca4-41f9-af8d-8b4a99751314",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "employeeId": "EMP003",
+        "feedbackDate": "2022-09-17",
+        "feedbackText": "The quality assurance processes are well-structured and ensure high standards are maintained.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "b6d4531a-528e-42bf-8c63-ae6c6605b491",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "employeeId": "EMP004",
+        "feedbackDate": "2022-09-18",
+        "feedbackText": "The auditing processes are thorough and help in identifying areas for improvement.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "37001003-119d-44ea-9c88-efd84d2c77fb",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "employeeId": "EMP005",
+        "feedbackDate": "2022-09-19",
+        "feedbackText": "The feedback mechanisms in place are user-friendly and encourage participation.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "f6bba791-afad-41d4-9f9d-f32b097f47fc",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "employeeId": "EMP001",
+        "feedbackDate": "2022-09-15",
+        "feedbackText": "The new training program was very informative and helpful in improving my skills.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "edb767c8-c144-47c5-bee1-f45386c4e6be",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "employeeId": "EMP002",
+        "feedbackDate": "2022-09-16",
+        "feedbackText": "I appreciate the open communication channels for sharing feedback and concerns.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "3ac79336-eca0-4d1c-9d05-07d80e50271c",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "employeeId": "EMP003",
+        "feedbackDate": "2022-09-17",
+        "feedbackText": "The quality assurance processes have significantly improved the overall product quality.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "0b02328a-8c29-4755-8381-2c71faee2a11",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "employeeId": "EMP004",
+        "feedbackDate": "2022-09-18",
+        "feedbackText": "The auditing processes are thorough and ensure compliance with standards.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "73fbc6c5-8161-4206-b0c1-cf0b76db2c5c",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "employeeId": "EMP005",
+        "feedbackDate": "2022-09-19",
+        "feedbackText": "The training and development programs have been instrumental in my career growth.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "7941103e-92d0-4821-bfe9-75ca226a8315",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "employeeId": "EMP001",
+        "feedbackDate": "2023-07-15",
+        "feedbackText": "The training sessions were very informative and engaging. I learned a lot.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "0b636b21-b578-4ba4-9a7a-cafba34f3eb2",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "employeeId": "EMP002",
+        "feedbackDate": "2023-07-16",
+        "feedbackText": "The quality assurance process needs improvement in terms of documentation.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "5cdfc689-3055-466f-9b4c-626a90ae5472",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "employeeId": "EMP003",
+        "feedbackDate": "2023-07-17",
+        "feedbackText": "The auditing process was thorough and helped identify areas for improvement.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "86030d93-21aa-4a39-8e6d-e7878f9e3e4f",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "employeeId": "EMP004",
+        "feedbackDate": "2023-07-18",
+        "feedbackText": "The feedback mechanism used was user-friendly and allowed for detailed comments.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "feedbackId": "ea92b646-aa31-45dd-a965-93142902a1c3",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "employeeId": "EMP005",
+        "feedbackDate": "2023-07-19",
+        "feedbackText": "The training and development programs are well-structured and beneficial for career growth.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "QualityImprovementCommittees": [
+      {
+        "committeeId": "0815520b-7d3d-4493-9e8d-6378be883bd2",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "committeeMembers": "Dr. Sarah Johnson, Dr. Michael Smith, Nurse Jane Doe",
+        "meetingDate": "2022-05-15",
+        "decisions": "Implemented new patient feedback system to improve service quality.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "01a9b789-8ac5-49bf-9257-a1053dd85efa",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "committeeMembers": "Dr. Emily Brown, Nurse Tom Wilson, Admin Lisa Davis",
+        "meetingDate": "2022-05-20",
+        "decisions": "Reviewed and updated quality assurance protocols for surgical procedures.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "5810cd5a-4a78-4c80-a49c-3925bd9b12c4",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "committeeMembers": "Dr. John Anderson, Nurse Jessica Lee, Admin Mark Roberts",
+        "meetingDate": "2022-05-25",
+        "decisions": "Introduced new training program for staff on infection control measures.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "8f353a8b-dda6-4956-912a-eb5f39fd3ab6",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "committeeMembers": "Dr. Laura Garcia, Nurse Alex Johnson, Admin Peter Wilson",
+        "meetingDate": "2022-06-01",
+        "decisions": "Conducted an audit of medication dispensing processes and identified areas for improvement.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "6555e082-27f1-473d-93f6-38a6aba31b17",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "committeeMembers": "Dr. Kevin White, Nurse Samantha Taylor, Admin Rachel Adams",
+        "meetingDate": "2022-06-05",
+        "decisions": "Developed a new quality assurance checklist for patient consultations.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "04c17990-d924-4082-b0f4-90b3b78284df",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "committeeMembers": "Dr. Sarah Johnson, Dr. Michael Smith",
+        "meetingDate": "2022-09-15",
+        "decisions": "Reviewed patient feedback and proposed changes to improve waiting times.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "efbbbbd2-42c2-47cc-8494-128ba36049bb",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "committeeMembers": "Nurse Emily Brown, Nurse David Wilson",
+        "meetingDate": "2022-09-16",
+        "decisions": "Analyzed medication error reports and implemented new protocols for verification.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "d1e82822-3af9-494f-9028-50ab298dabaf",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "committeeMembers": "Dr. Jessica Adams, Dr. Ryan Davis",
+        "meetingDate": "2022-09-17",
+        "decisions": "Discussed patient satisfaction survey results and planned staff training on communication skills.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "8a4d4f51-694d-48fb-b896-578cd4014682",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "committeeMembers": "Quality Manager Samantha White, Quality Analyst Mark Johnson",
+        "meetingDate": "2022-09-18",
+        "decisions": "Examined infection control data and recommended improvements in sanitation practices.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "563105b5-edf4-4f60-99b8-47f76755cf34",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "committeeMembers": "Dr. Olivia Wilson, Nurse Peter Thompson",
+        "meetingDate": "2022-09-19",
+        "decisions": "Reviewed incident reports and developed a plan for error reduction training.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "0665e3a2-8102-440f-8540-a5d89e0ea718",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "committeeMembers": "Dr. John Doe, Dr. Jane Smith, Nurse Sarah Johnson",
+        "meetingDate": "2022-09-15",
+        "decisions": "Reviewed patient feedback and implemented new communication protocols.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "faadd642-5be9-4a42-b3df-db528f47a55e",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "committeeMembers": "Dr. Michael Brown, Dr. Emily Wilson, Nurse David Martinez",
+        "meetingDate": "2022-09-20",
+        "decisions": "Analyzed quality metrics and identified areas for improvement in medication administration.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "3ddb1fb2-9ff3-4240-abdc-e89fac579e63",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "committeeMembers": "Dr. Samantha Lee, Dr. Robert Johnson, Nurse Lisa Anderson",
+        "meetingDate": "2022-09-25",
+        "decisions": "Developed a training program for staff on infection control practices.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "bb271d83-7a35-4db5-b37b-b00227b20614",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "committeeMembers": "Dr. William Davis, Dr. Sarah White, Nurse James Wilson",
+        "meetingDate": "2022-09-30",
+        "decisions": "Conducted an audit of surgical procedures and recommended process improvements.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "09ffedb7-d794-4355-98d9-32010f283e5b",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "committeeMembers": "Dr. Olivia Adams, Dr. Ethan Clark, Nurse Rachel Brown",
+        "meetingDate": "2022-10-05",
+        "decisions": "Implemented a new feedback system for patients to report experience with care.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "e5c0dcc4-b775-4f4b-815b-339d3c8f3431",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "committeeMembers": "Dr. John Doe, Dr. Jane Smith, Nurse Sarah Brown",
+        "meetingDate": "2022-09-15",
+        "decisions": "Reviewed patient feedback and implemented new communication protocols.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "ca784a44-9ec4-4961-9667-797f5b37276d",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "committeeMembers": "Dr. Michael Johnson, Nurse Emily White, Admin Officer Mark Davis",
+        "meetingDate": "2022-09-20",
+        "decisions": "Analyzed quality metrics and identified areas for improvement in medication administration.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "60ab3355-eebe-42c0-93fb-105f77bfdddc",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "committeeMembers": "Dr. Sarah Lee, Nurse Jessica Green, Admin Officer Ryan Wilson",
+        "meetingDate": "2022-09-25",
+        "decisions": "Developed a training program for staff on infection control practices.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "2d3c6a74-5652-4b1c-969a-762de1144726",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "committeeMembers": "Dr. David Brown, Nurse Olivia Adams, Admin Officer Laura Taylor",
+        "meetingDate": "2022-09-30",
+        "decisions": "Implemented a new auditing process for surgical procedures.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "committeeId": "bfbbb0a2-4bf3-4039-9df4-e8455281b2ab",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "committeeMembers": "Dr. Samantha Wilson, Nurse Daniel Roberts, Admin Officer Megan Harris",
+        "meetingDate": "2022-10-05",
+        "decisions": "Reviewed patient satisfaction survey results and initiated staff training on patient-centered care.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "RootCauseAnalysisReports": [
+      {
+        "reportId": "469a180e-7da4-4971-9ff9-093ff1d122da",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "issueDescription": "Product defects observed in final inspection",
+        "rootCause": "Inadequate quality control measures during manufacturing process",
+        "correctiveActions": "Implement stricter quality control checks at various stages of production",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "b2783662-7890-4f1c-bab2-81dddcab03b2",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "issueDescription": "High rate of customer returns due to incorrect product specifications",
+        "rootCause": "Miscommunication between design and production teams",
+        "correctiveActions": "Improve communication channels between design and production departments",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "0ccefd7f-ff7c-45e8-9af5-a76e161601de",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "issueDescription": "Repeated equipment breakdowns causing delays in production",
+        "rootCause": "Lack of regular maintenance and servicing of machinery",
+        "correctiveActions": "Implement a preventive maintenance schedule for all equipment",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "569b5dc6-394a-40b1-b9b9-a923384a2d8e",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "issueDescription": "Safety incidents reported by workers in the manufacturing plant",
+        "rootCause": "Inadequate safety training and awareness programs",
+        "correctiveActions": "Enhance safety training programs and conduct regular safety audits",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "a2ea702d-ef34-4c06-8aff-8504558dedd8",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "issueDescription": "Low employee morale and motivation affecting productivity",
+        "rootCause": "Lack of recognition and appreciation for employee contributions",
+        "correctiveActions": "Implement employee recognition programs and provide opportunities for career growth",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "bb53099d-f87e-4f43-989f-dc38d190a352",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "issueDescription": "Product defects found in final inspection",
+        "rootCause": "Faulty manufacturing equipment",
+        "correctiveActions": "Repair or replace faulty equipment immediately",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "917b633a-b7d1-4bce-97ec-5e757949d73d",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "issueDescription": "Customer complaints about slow response time",
+        "rootCause": "Understaffed customer service team",
+        "correctiveActions": "Hire additional customer service representatives",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "fc710d8e-4a46-40a5-93fd-cdf0edc8a820",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "issueDescription": "Software bugs causing system crashes",
+        "rootCause": "Incomplete testing during development",
+        "correctiveActions": "Implement thorough testing protocols before release",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "59506878-303a-4e99-a28e-15e1b9707b67",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "issueDescription": "Safety incidents in the workplace",
+        "rootCause": "Lack of proper safety training",
+        "correctiveActions": "Provide mandatory safety training for all employees",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "b6200641-7e70-4423-b3b7-bd701a910652",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "issueDescription": "Quality control errors in production",
+        "rootCause": "Inadequate quality assurance processes",
+        "correctiveActions": "Revise and improve quality control procedures",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "519d97eb-4296-48b1-9052-33651f6e4b31",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "issueDescription": "Product defects found in final inspection",
+        "rootCause": "Faulty manufacturing process",
+        "correctiveActions": "Implement stricter quality control measures",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "466821e9-8ef4-4892-80c5-e6b54693cfe5",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "issueDescription": "Delayed project delivery",
+        "rootCause": "Poor project planning and coordination",
+        "correctiveActions": "Enhance project management processes",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "faf95525-af1e-4ef9-af97-fc3792b7561c",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "issueDescription": "Customer complaints about service quality",
+        "rootCause": "Lack of employee training",
+        "correctiveActions": "Implement comprehensive training programs",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "1725d2de-554e-4d0d-97c8-260a0ebcaa69",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "issueDescription": "High defect rate in production",
+        "rootCause": "Outdated machinery and equipment",
+        "correctiveActions": "Upgrade production machinery",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "04bc03b9-b4ed-4f14-999f-cff545db26aa",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "issueDescription": "Safety incidents in the workplace",
+        "rootCause": "Lack of safety training and procedures",
+        "correctiveActions": "Implement rigorous safety protocols",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "ee94da5a-9aca-4f85-892e-2a89d1f18bb2",
+        "feedbackMechanismId": "d8306ab4-41f5-4ba3-a210-94ed1ba302eb",
+        "issueDescription": "Product defects found in final inspection",
+        "rootCause": "Insufficient training of quality control staff",
+        "correctiveActions": "Implement additional training programs for quality control staff",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "ac78a281-5f36-4329-ad18-2e1899a0aa85",
+        "feedbackMechanismId": "1dcbe832-e2b7-4251-9c5a-cc0ba4af2d27",
+        "issueDescription": "High rejection rate in quality assurance checks",
+        "rootCause": "Inadequate quality standards set for production",
+        "correctiveActions": "Review and update quality standards to align with industry best practices",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "7d92b035-bc9c-43f5-a119-69bcef5c3638",
+        "feedbackMechanismId": "858e9fb2-0937-4749-900c-5b2bf2dcca8c",
+        "issueDescription": "Customer complaints about product packaging",
+        "rootCause": "Lack of proper packaging training for production team",
+        "correctiveActions": "Provide packaging training sessions for production team members",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "e1d2979e-e725-4207-9f58-b8a7abd3b2d9",
+        "feedbackMechanismId": "d6407a7b-f8b9-4452-aeed-6415fe1b0a3b",
+        "issueDescription": "Repeated errors in product labeling",
+        "rootCause": "Inadequate supervision during labeling process",
+        "correctiveActions": "Increase supervision and implement quality checks during labeling",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "reportId": "7558797c-1acc-4437-bfaf-2f40c3aa2c1f",
+        "feedbackMechanismId": "e07dac84-b9a0-4782-bcf0-93973126dfba",
+        "issueDescription": "Non-compliance with safety regulations in manufacturing",
+        "rootCause": "Lack of regular auditing of safety procedures",
+        "correctiveActions": "Implement regular safety audits and training programs for compliance",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "QualityTrainingPrograms": [
+      {
+        "programId": "70271924-dcc3-4253-9fbb-5f5b69d9e9d0",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "programName": "Quality Management System Implementation",
+        "duration": "5 days",
+        "trainer": "Quality Assurance Institute",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "c2e54c36-df6f-4c99-9a7c-eca7ebe84f0b",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "programName": "Root Cause Analysis Training",
+        "duration": "3 days",
+        "trainer": "Quality Improvement Consultants",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "06a2420d-6938-4426-b284-6efe4668ba07",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "programName": "Statistical Process Control Workshop",
+        "duration": "2 days",
+        "trainer": "Quality Control Experts",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "a4b65ef6-f8e7-4b50-8601-2d312040663b",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "programName": "Internal Audit Training",
+        "duration": "4 days",
+        "trainer": "Certified Auditors Association",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "8a8f3521-b9b8-4495-9c37-4ab9fb90e6f9",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "programName": "Lean Six Sigma Certification Program",
+        "duration": "6 days",
+        "trainer": "Quality Management Experts",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "069f2456-b025-4eb0-9180-48ba7f773159",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "programName": "Quality Management Certification",
+        "duration": "3 months",
+        "trainer": "Quality Assurance Institute",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "8b04d2b4-aa26-4ffb-ab24-4cb520382616",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "programName": "Six Sigma Green Belt Training",
+        "duration": "2 weeks",
+        "trainer": "Six Sigma Experts",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "da8d6e77-64d9-420e-b9d3-d76c4cec7a96",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "programName": "ISO 9001 Internal Auditor Training",
+        "duration": "5 days",
+        "trainer": "ISO Certification Body",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "e1f99d72-d152-462c-8a0c-fe5fea9fc9e2",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "programName": "Lean Management Workshop",
+        "duration": "1 day",
+        "trainer": "Lean Experts Consulting",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "991c9cf3-98ee-423f-9e43-37d3c5269e4d",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "programName": "Total Quality Management Seminar",
+        "duration": "2 days",
+        "trainer": "Quality Improvement Institute",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "ab1c351c-7167-4586-9ddf-7fddb0d40930",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "programName": "Quality Management Systems",
+        "duration": "3 days",
+        "trainer": "Quality Assurance Institute",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "ff1d56db-3e00-4d3f-9cb2-1aed31d3316c",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "programName": "Statistical Process Control",
+        "duration": "2 days",
+        "trainer": "Six Sigma Experts",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "3be99f36-9630-4f3f-88b6-7f157b177e4d",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "programName": "Root Cause Analysis",
+        "duration": "1 day",
+        "trainer": "Quality Improvement Consultants",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "33e91d8f-fcf2-4867-b1e5-c3e034fdf899",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "programName": "Lean Six Sigma Green Belt Certification",
+        "duration": "5 days",
+        "trainer": "Lean Six Sigma Academy",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "3cf8ef57-05d8-4e99-bf5c-39b4a145b14c",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "programName": "Total Quality Management Workshop",
+        "duration": "2 days",
+        "trainer": "Quality Management Experts",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "18d88f94-b16d-47c3-99e9-a25bfb0ce1ff",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "programName": "Quality Management Certification Program",
+        "duration": "6 months",
+        "trainer": "Quality Institute",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "d7e35d31-27f8-401b-a921-6da209168394",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "programName": "Continuous Improvement Workshop",
+        "duration": "3 days",
+        "trainer": "Quality Solutions Inc.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "4f94d20b-a40c-4478-9311-a9a0aaaf584a",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "programName": "Root Cause Analysis Training",
+        "duration": "2 days",
+        "trainer": "Quality Experts Group",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "5431b17f-6f6c-4e84-becb-6f0b02118fbc",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "programName": "Quality Control Techniques Seminar",
+        "duration": "1 day",
+        "trainer": "Quality Training Academy",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "programId": "6dbcc116-ab18-4a50-b073-1109f032a8fb",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "programName": "Statistical Process Control Training",
+        "duration": "5 days",
+        "trainer": "Quality Learning Center",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "BestPracticesWorkshops": [
+      {
+        "workshopId": "54cdb419-f452-4501-9f90-1017004389a8",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "workshopTopic": "Implementing Quality Standards in Manufacturing",
+        "date": "2022-05-15",
+        "trainer": "Quality Assurance Experts Inc.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "7d1a98d2-6344-4f5d-a0be-2b305ec26a93",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "workshopTopic": "Effective Auditing Practices for Compliance",
+        "date": "2022-06-20",
+        "trainer": "Compliance Solutions Group",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "b381cb84-3713-406d-8b48-bb7f64f51f56",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "workshopTopic": "Continuous Improvement in Quality Assurance",
+        "date": "2022-07-10",
+        "trainer": "Quality Excellence Consultants",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "3b2f6574-30d5-44f8-8a56-e350cdad9831",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "workshopTopic": "Feedback Mechanisms for Quality Enhancement",
+        "date": "2022-08-05",
+        "trainer": "Feedback Dynamics Institute",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "1f3d3564-dd5a-4429-9e15-10aa432ee192",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "workshopTopic": "Training Employees on Quality Standards",
+        "date": "2022-09-15",
+        "trainer": "Quality Training Solutions",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "9b82ab7a-012c-4a84-af89-43d24168a0b3",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "workshopTopic": "Implementing Quality Standards in Manufacturing",
+        "date": "2022-10-15",
+        "trainer": "Quality Assurance Institute",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "6c2f1c86-0873-4c00-b88e-fa48441c0700",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "workshopTopic": "Effective Auditing Practices for Compliance",
+        "date": "2022-11-05",
+        "trainer": "Audit Solutions Inc.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "36dcccc6-f145-4c31-9932-4d8d857bede7",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "workshopTopic": "Continuous Improvement Techniques",
+        "date": "2022-09-20",
+        "trainer": "Quality Excellence Consultants",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "d50fa9b7-6997-4d9d-beeb-f49128387971",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "workshopTopic": "Feedback Mechanisms for Employee Engagement",
+        "date": "2022-12-03",
+        "trainer": "Engagement Strategies Ltd.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "957c00dd-fc07-4250-999b-a936a67c26b9",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "workshopTopic": "Leadership Development for Quality Managers",
+        "date": "2022-08-18",
+        "trainer": "Leadership Training Solutions",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "6507535f-6900-4cc3-8d52-616428e0beb5",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "workshopTopic": "Implementing Quality Standards in Manufacturing",
+        "date": "2022-05-15",
+        "trainer": "Quality Assurance Institute",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "33161fe6-ba62-44ff-85da-2cda2050f4e3",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "workshopTopic": "Auditing Processes for Compliance",
+        "date": "2022-06-20",
+        "trainer": "Compliance Experts Inc.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "24419319-fd03-4429-91ce-d1e283ad0226",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "workshopTopic": "Feedback Mechanisms for Continuous Improvement",
+        "date": "2022-07-10",
+        "trainer": "Feedback Solutions Group",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "c7a6118f-fae8-4fc5-bdf4-bfdedfbd8604",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "workshopTopic": "Training on Quality Assurance Best Practices",
+        "date": "2022-08-05",
+        "trainer": "Quality Training Academy",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "29e30757-d669-48f9-b4d3-1f4b92ca041e",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "workshopTopic": "Implementing Quality Standards in Healthcare",
+        "date": "2022-09-15",
+        "trainer": "Healthcare Quality Experts",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "9fcb9a55-f9ab-43d9-9b1e-ffc9acc5fc96",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "workshopTopic": "Implementing Quality Standards in Software Development",
+        "date": "2023-05-15",
+        "trainer": "Quality Assurance Institute",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "2e9239f4-4fa7-4c7d-bcef-4e4f345b6f3c",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "workshopTopic": "Effective Auditing Practices for Compliance",
+        "date": "2023-06-20",
+        "trainer": "Audit Solutions Inc.",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "ad6674a2-8156-4789-b597-1205c4a39b99",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "workshopTopic": "Continuous Improvement Strategies in Quality Assurance",
+        "date": "2023-07-10",
+        "trainer": "Quality Excellence Consultants",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "d34d144a-488c-4397-a8bf-bd1b77f808ec",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "workshopTopic": "Feedback Mechanisms for Quality Enhancement",
+        "date": "2023-08-05",
+        "trainer": "Feedback Dynamics Group",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "workshopId": "fc7cef73-8ff3-4601-9dcc-8158958f1888",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "workshopTopic": "Training and Development for Quality Assurance Professionals",
+        "date": "2023-09-12",
+        "trainer": "Quality Training Solutions",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "CertificationPrograms": [
+      {
+        "certificationId": "049ba152-fb78-43a2-97e9-a361f66ce95e",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "certificationName": "Certified Software Tester",
+        "certificationBody": "International Software Testing Qualifications Board",
+        "issueDate": "2022-05-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "db4880ed-065a-4975-a1d0-0406832c380d",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "certificationName": "Certified Quality Engineer",
+        "certificationBody": "American Society for Quality",
+        "issueDate": "2022-06-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "5995fe02-e170-4a44-aea5-50df57d80d97",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "certificationName": "ISO 9001 Lead Auditor",
+        "certificationBody": "International Organization for Standardization",
+        "issueDate": "2022-07-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "cd1c3bc4-8631-47df-959d-20742b2278dc",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "certificationName": "Certified Scrum Master",
+        "certificationBody": "Scrum Alliance",
+        "issueDate": "2022-08-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "d4a20e77-025d-4584-b324-da2031b63937",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "certificationName": "Certified Six Sigma Black Belt",
+        "certificationBody": "International Association for Six Sigma Certification",
+        "issueDate": "2022-09-12",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "b979437c-892c-4cf8-acc0-96a9809c1481",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "certificationName": "Certified Quality Assurance Professional",
+        "certificationBody": "International Association for Quality Assurance",
+        "issueDate": "2022-05-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "b900ce3d-427c-4663-919f-a972a7f8f56c",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "certificationName": "ISO 9001 Auditor",
+        "certificationBody": "ISO Certification Institute",
+        "issueDate": "2022-04-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "7c61ca11-3501-435e-90aa-8163f226d36a",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "certificationName": "Six Sigma Black Belt",
+        "certificationBody": "American Society for Quality",
+        "issueDate": "2022-03-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "3aefd810-e5f6-45b7-9fc7-12bf03f957db",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "certificationName": "Certified Quality Engineer",
+        "certificationBody": "Institute of Quality Assurance",
+        "issueDate": "2022-02-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "4235f48c-4538-48e9-a221-f68abb5b71fd",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "certificationName": "Lean Six Sigma Green Belt",
+        "certificationBody": "International Association for Six Sigma Certification",
+        "issueDate": "2022-01-12",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "d37aa7d0-60ec-443f-ae66-20e325fec736",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "certificationName": "Certified Quality Assurance Professional",
+        "certificationBody": "International Association for Quality Assurance",
+        "issueDate": "2022-05-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "95ca7be7-6b04-4b81-a55d-f5f0a1c86f8f",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "certificationName": "ISO 9001 Auditor Certification",
+        "certificationBody": "ISO Certification Body",
+        "issueDate": "2022-06-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "690f6dc1-6bfa-4643-9462-22d1767d6e33",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "certificationName": "Certified Quality Engineer",
+        "certificationBody": "American Society for Quality",
+        "issueDate": "2022-04-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "0759cc2b-1492-4c4d-9e56-878c3adbed48",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "certificationName": "Six Sigma Black Belt Certification",
+        "certificationBody": "International Association for Six Sigma Certification",
+        "issueDate": "2022-03-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "be8f236e-4ed2-4c6d-bf7d-6277fe103989",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "certificationName": "Certified Quality Auditor",
+        "certificationBody": "American Society for Quality",
+        "issueDate": "2022-07-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "a31061c2-3ec1-4867-9306-6e99da6623c4",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "certificationName": "Certified Quality Engineer",
+        "certificationBody": "American Society for Quality",
+        "issueDate": "2022-01-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "3936b8cc-73ee-4184-a926-583fa0fb0e86",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "certificationName": "ISO 9001 Lead Auditor",
+        "certificationBody": "International Organization for Standardization",
+        "issueDate": "2022-02-28",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "dd076913-eaea-45b0-b070-93d1333d893b",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "certificationName": "Certified Software Quality Analyst",
+        "certificationBody": "Quality Assurance Institute",
+        "issueDate": "2022-03-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "9eb13c04-84d2-4771-a9f9-7f7cfa2bd97a",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "certificationName": "Certified Quality Auditor",
+        "certificationBody": "American Society for Quality",
+        "issueDate": "2022-04-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "certificationId": "8c3d419c-316e-419c-855e-76c95a08478d",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "certificationName": "Certified Manager of Quality/Organizational Excellence",
+        "certificationBody": "American Society for Quality",
+        "issueDate": "2022-05-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ],
+    "KnowledgeSharingInitiatives": [
+      {
+        "initiativeId": "817f0bab-dac4-4d2c-9dc0-a06eab1988a4",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "initiativeName": "Weekly Knowledge Sharing Sessions",
+        "participants": "Quality Assurance Team",
+        "date": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "09ec0a6b-6c10-4f0f-8af7-933df570a9a9",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "initiativeName": "Best Practices Workshop",
+        "participants": "Quality Assurance Managers",
+        "date": "2022-10-03",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "f8c8d79f-3278-4a03-b36c-26f06f1038c4",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "initiativeName": "Knowledge Sharing Forum",
+        "participants": "Quality Assurance Analysts",
+        "date": "2022-10-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "c3099978-5406-41e4-b087-4e8619d8cab4",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "initiativeName": "Case Study Presentation",
+        "participants": "Quality Assurance Specialists",
+        "date": "2022-11-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "f02489d4-66e4-4aab-bf6b-672b82b91104",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "initiativeName": "Peer Learning Circle",
+        "participants": "Quality Assurance Team Leads",
+        "date": "2022-11-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "3d3c1c79-f596-4668-ac97-2962206bc608",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "initiativeName": "Quality Circle Meetings",
+        "participants": "Quality Assurance Team",
+        "date": "2022-05-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "49bcdf7c-6249-4bd5-81b7-ec542ba9dc6c",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "initiativeName": "Best Practice Sharing Session",
+        "participants": "Quality Assurance Managers",
+        "date": "2022-06-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "18f75612-493d-4475-b660-7d7f03999735",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "initiativeName": "Cross-Functional Training Workshop",
+        "participants": "Quality Assurance and Operations Teams",
+        "date": "2022-07-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "5deb0f33-14db-4e8e-9865-29c3c8fed7c3",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "initiativeName": "Quality Standards Review Meeting",
+        "participants": "Quality Assurance and Compliance Teams",
+        "date": "2022-08-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "bf35c0b3-b5d9-426c-8282-e573d6e41106",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "initiativeName": "Knowledge Sharing Webinar",
+        "participants": "Quality Assurance Specialists",
+        "date": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "362eadc6-3f65-442e-96f1-701997bcf693",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "initiativeName": "Quality Assurance Training Workshop",
+        "participants": "Quality Assurance Team Members",
+        "date": "2022-03-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "de35a1b4-9891-4efa-8bdd-6ec5279cba02",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "initiativeName": "Peer Review Session on Quality Standards",
+        "participants": "Quality Control Supervisors",
+        "date": "2022-04-02",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "29f5d4a5-d69b-44b6-a1f1-6bafcd8f4036",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "initiativeName": "Auditing Processes Simulation",
+        "participants": "Internal Auditors",
+        "date": "2022-05-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "2659f3ec-91e8-4577-9718-16ce83fc7907",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "initiativeName": "Feedback Mechanisms Training",
+        "participants": "Customer Support Team",
+        "date": "2022-06-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "deaa3ff0-d2c0-4308-89f3-ec39c788b899",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "initiativeName": "Quality Improvement Workshop",
+        "participants": "Quality Assurance Managers",
+        "date": "2022-07-30",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "b88775b2-6298-438f-be28-5befca1cd63d",
+        "trainingDevelopmentId": "2d112e9a-229c-40c4-87b9-42af5580f706",
+        "initiativeName": "Knowledge Sharing Workshop",
+        "participants": "Quality Assurance Team",
+        "date": "2022-09-15",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "81175e0f-32de-4534-a356-7157fa1f309c",
+        "trainingDevelopmentId": "911bdf6e-6313-47eb-8d85-226678de1d95",
+        "initiativeName": "Best Practices Exchange",
+        "participants": "Quality Assurance Managers",
+        "date": "2022-10-03",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "dc9b7fd2-cf3e-46e2-b5e4-05d07b8d6015",
+        "trainingDevelopmentId": "4d7fa4a9-4cbc-4110-8bfa-2574090f1e21",
+        "initiativeName": "Knowledge Sharing Webinar",
+        "participants": "Quality Assurance Specialists",
+        "date": "2022-11-20",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "57a62378-beab-47cc-9644-b4bbcb9e9660",
+        "trainingDevelopmentId": "a4497602-23de-4709-a84f-4adf4fec7dae",
+        "initiativeName": "QA Forum Discussion",
+        "participants": "Quality Assurance Team Leads",
+        "date": "2022-12-05",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      },
+      {
+        "initiativeId": "7bcdfdcb-5824-49dd-91c5-fb4bf03be271",
+        "trainingDevelopmentId": "5f94aa5d-f66c-4857-aeec-b5c7a85dfb49",
+        "initiativeName": "Knowledge Sharing Roundtable",
+        "participants": "Quality Assurance Analysts",
+        "date": "2023-01-10",
+        "purge_id": "0b0844fe-6a06-4a53-b567-1552ec83ddfd"
+      }
+    ]
+  }
+}
