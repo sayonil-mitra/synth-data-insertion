@@ -1,7 +1,7 @@
 {
-  "RailBitLedSignalSchema": "6710a43bf88524038e509dfa",
-  "TrackCircuit": "6710a497f88524038e509e24",
-  "PointMachine": "6710a50af88524038e509e25",
-  "PMAvgWorkingDuration": "6710acbe7fa41611a9c61eb6",
-  "LCGateSchema": "6710a38d7fa41611a9c61e8c"
+  "railbitledsignalschema": "6712457bf88524038e509fd5",
+  "trackcircuit":"67124520f88524038e509fd3",
+  "pointmachine": "67124520f88524038e509fd2",
+  "pmavgworkingduration":  "671245207fa41611a9c62082",
+  "lcgateschema":"67124520f88524038e509fd4"
 }

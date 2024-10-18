@@ -12,12 +12,13 @@ export async function insertData(schemaId = "", schemaData = []) {
       },
     });
     const responseData = response.data;
-
+    console.log("Data Insertion Successful: ", schemaId);
     return responseData;
   } catch (error) {
     if (error.response) {
       // The request was made and the server responded with a status code
       // that falls out of the range of 2xx
+      console.log("Insert Error for Schema ID: ", schemaId);
       console.log("Insert Error response data:", error.response.data);
       console.log("Insert Error response status:", error.response.status);
       console.log("Insert Error response headers:", error.response.headers);
@@ -33,8 +34,7 @@ export async function insertData(schemaId = "", schemaData = []) {
 }
 
 export async function fetchData(schemaId = "") {
-  const url = `${CONSTANTS.baseUrl}/${CONSTANTS.fetchInstancesUrl}/${schemaId}/instances/list`;
-  console.log(url);
+  const url = `${CONSTANTS.baseUrl}/${CONSTANTS.fetchInstancesUrl}/${schemaId}/instances/list?size=100000000`;
   const token = `Bearer ${CONSTANTS.token}`;
   try {
     const response = await axios.get(url, {
