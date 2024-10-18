@@ -1,23 +1,7 @@
 {
-  "capacity_planning": "67078fb7f6719a0a4db18b4b",
-  "operationalplanning": "670788e2b4751123fdc591fa",
-  "scheduling_systems": "670792b1b4751123fdc59202",
-  "operational_efficiency_metrics": "670792b1f6719a0a4db18b4d",
-  "risk_assessment": "670792b1b4751123fdc591fe",
-  "demand_forecasting_models": "670792b1f6719a0a4db18b52",
-  "resource_allocation_strategies": "670792b1f6719a0a4db18b53",
-  "scalability_plans": "670792b1f6719a0a4db18b4c",
-  "utilization_metrics": "670792b1b4751123fdc59203",
-  "flight_scheduling_software": "670792b1b4751123fdc591ff",
-  "employee_scheduling_tools": "670792b1f6719a0a4db18b50",
-  "maintenance_scheduling": "670792b1b4751123fdc59204",
-  "conflict_resolution_mechanisms": "670792b1b4751123fdc591fc",
-  "process_efficiency_measurements": "670792b1b4751123fdc59201",
-  "cost_efficiency_analysis": "670792b1f6719a0a4db18b51",
-  "benchmarking_against_industry_standards": "670792b1b4751123fdc591fd",
-  "performance_improvementplans": "670792b1b4751123fdc59200",
-  "operational_riskanalysis": "670792b1f6719a0a4db18b4f",
-  "contingency_planning": "670792b1f6719a0a4db18b4e",
-  "business_continuityplans": "670792b1f6719a0a4db18b54",
-  "riskmitigation_strategies": "670792b1b4751123fdc59205"
+  "RailBitLedSignalSchema": "6710a43bf88524038e509dfa",
+  "TrackCircuit": "6710a497f88524038e509e24",
+  "PointMachine": "6710a50af88524038e509e25",
+  "PMAvgWorkingDuration": "6710acbe7fa41611a9c61eb6",
+  "LCGateSchema": "6710a38d7fa41611a9c61e8c"
 }
